@@ -1,6 +1,6 @@
 {
   "version": 9,
-  "t": "2025-08-23T23:33:04.9509697-05:00",
+  "t": "2025-08-27T11:54:15.7055742-05:00",
   "groups": [],
   "users": {
     "twitch_584677772": {
@@ -11,7 +11,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.8634638-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T12:57:07.8909936-05:00",
       "exempt": false
     },
@@ -23,7 +23,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T14:51:43.6553219-05:00",
       "exempt": false
     },
@@ -35,7 +35,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T12:36:09.4038542-05:00",
       "exempt": false
     },
@@ -47,7 +47,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-11T10:02:41.7143493-05:00",
       "exempt": false
     },
@@ -59,7 +59,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-19T15:37:20.1402002-06:00",
       "exempt": false
     },
@@ -71,7 +71,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:04:23.4886911-05:00",
       "exempt": false
     },
@@ -83,7 +83,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-06T14:36:19.9513299-05:00",
       "exempt": false
     },
@@ -95,7 +95,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-06-10T16:44:04.9774771-05:00",
       "exempt": false
     },
@@ -107,7 +107,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T14:42:35.0559378-05:00",
       "exempt": false
     },
@@ -119,7 +119,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -131,7 +131,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-14T20:50:47.0400113-05:00",
       "exempt": false
     },
@@ -143,7 +143,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -155,7 +155,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T15:27:27.8787142-05:00",
       "exempt": false
     },
@@ -167,7 +167,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-06-10T16:56:27.355431-05:00",
       "exempt": false
     },
@@ -179,7 +179,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T14:13:33.6376326-05:00",
       "exempt": false
     },
@@ -191,7 +191,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-03-25T16:31:13.9441513-05:00",
       "exempt": false
     },
@@ -203,7 +203,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T15:27:27.8787142-05:00",
       "exempt": false
     },
@@ -215,7 +215,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-04T12:12:18.2720551-06:00",
       "exempt": false
     },
@@ -227,7 +227,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T11:45:28.0313023-05:00",
       "exempt": false
     },
@@ -239,7 +239,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -251,7 +251,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:57:50.0158568-05:00",
       "exempt": false
     },
@@ -263,7 +263,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T14:52:45.2042561-05:00",
       "exempt": false
     },
@@ -275,7 +275,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -287,7 +287,7 @@
       "subscribed": true,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:04:27.1180008-05:00",
       "exempt": false
     },
@@ -299,7 +299,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -311,7 +311,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-03-25T17:08:21.4782781-05:00",
       "exempt": false
     },
@@ -323,7 +323,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:04:34.7449347-05:00",
       "exempt": false
     },
@@ -335,7 +335,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T13:45:52.7722806-05:00",
       "exempt": false
     },
@@ -347,7 +347,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T14:41:40.2663765-05:00",
       "exempt": false
     },
@@ -359,7 +359,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T11:02:45.0323303-05:00",
       "exempt": false
     },
@@ -371,7 +371,7 @@
       "subscribed": false,
       "type": "youtube",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-04-23T16:59:52.9673243-05:00",
       "exempt": false
     },
@@ -383,7 +383,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -395,7 +395,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -407,7 +407,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:27:24.1407531-05:00",
       "exempt": false
     },
@@ -419,7 +419,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T12:45:27.7520243-05:00",
       "exempt": false
     },
@@ -431,7 +431,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T12:05:05.592477-05:00",
       "exempt": false
     },
@@ -443,7 +443,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-13T16:28:11.9574107-05:00",
       "exempt": false
     },
@@ -455,7 +455,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-19T16:55:18.8868518-06:00",
       "exempt": false
     },
@@ -467,7 +467,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-06-17T18:59:25.2693315-05:00",
       "exempt": false
     },
@@ -479,7 +479,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T14:45:52.8769474-05:00",
       "exempt": false
     },
@@ -491,7 +491,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-06T19:18:59.6630722-05:00",
       "exempt": false
     },
@@ -503,7 +503,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T14:37:38.9288114-05:00",
       "exempt": false
     },
@@ -515,7 +515,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-19T12:55:08.0124158-06:00",
       "exempt": false
     },
@@ -527,8 +527,8 @@
       "subscribed": false,
       "type": "twitch",
       "present": true,
-      "previousActive": "2025-08-23T22:55:44.4800501-05:00",
-      "lastActive": "2025-08-23T23:28:39.5565929-05:00",
+      "previousActive": "2025-08-23T23:28:39.5565929-05:00",
+      "lastActive": "2025-08-27T11:52:17.7428716-05:00",
       "exempt": false
     },
     "twitch_1159496103": {
@@ -539,7 +539,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:03:23.7714838-05:00",
       "exempt": false
     },
@@ -551,7 +551,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-20T19:10:56.4489653-05:00",
       "exempt": false
     },
@@ -563,7 +563,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T15:27:27.8787142-05:00",
       "exempt": false
     },
@@ -575,7 +575,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-26T13:54:08.9067327-06:00",
       "exempt": false
     },
@@ -587,7 +587,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:03:07.2862789-05:00",
       "exempt": false
     },
@@ -599,7 +599,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:13:36.6447037-05:00",
       "exempt": false
     },
@@ -611,7 +611,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-26T13:54:09.0592045-06:00",
       "exempt": false
     },
@@ -623,7 +623,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-07T15:39:09.4843402-05:00",
       "exempt": false
     },
@@ -635,7 +635,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-19T13:52:44.6343488-06:00",
       "exempt": false
     },
@@ -647,7 +647,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T11:53:46.1704381-05:00",
       "exempt": false
     },
@@ -659,7 +659,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T15:27:27.8787142-05:00",
       "exempt": false
     },
@@ -671,7 +671,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -683,7 +683,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-08T16:25:31.0126796-05:00",
       "exempt": false
     },
@@ -695,7 +695,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T14:53:38.0113274-05:00",
       "exempt": false
     },
@@ -707,7 +707,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T14:51:30.1813232-05:00",
       "exempt": false
     },
@@ -719,7 +719,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:04:04.7747152-05:00",
       "exempt": false
     },
@@ -731,7 +731,7 @@
       "subscribed": true,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-14T09:01:10.8958587-05:00",
       "exempt": false
     },
@@ -743,7 +743,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -755,7 +755,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-14T20:59:14.4644579-05:00",
       "exempt": false
     },
@@ -767,7 +767,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:18:43.4057392-05:00",
       "exempt": false
     },
@@ -779,7 +779,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-20T19:13:00.1959562-05:00",
       "exempt": false
     },
@@ -791,7 +791,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -803,7 +803,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-25T16:21:40.7937393-05:00",
       "exempt": false
     },
@@ -815,7 +815,7 @@
       "subscribed": true,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-20T17:22:27.76047-05:00",
       "exempt": false
     },
@@ -827,7 +827,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-04T12:12:18.2760554-06:00",
       "exempt": false
     },
@@ -839,7 +839,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -851,7 +851,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-04-15T19:45:26.93143-05:00",
       "exempt": false
     },
@@ -863,7 +863,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T14:51:43.6553219-05:00",
       "exempt": false
     },
@@ -875,7 +875,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T15:32:11.0546472-05:00",
       "exempt": false
     },
@@ -887,7 +887,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -899,8 +899,8 @@
       "subscribed": false,
       "type": "twitch",
       "present": true,
-      "previousActive": "2025-08-23T22:55:44.4800501-05:00",
-      "lastActive": "2025-08-23T23:28:39.5565929-05:00",
+      "previousActive": "2025-08-23T23:28:39.5565929-05:00",
+      "lastActive": "2025-08-27T11:52:17.7428716-05:00",
       "exempt": false
     },
     "twitch_1292003004": {
@@ -911,7 +911,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -923,7 +923,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-26T15:30:43.1663322-06:00",
       "exempt": false
     },
@@ -935,7 +935,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:19:40.9665067-05:00",
       "exempt": false
     },
@@ -947,7 +947,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-02T23:03:54.377797-05:00",
       "exempt": false
     },
@@ -959,7 +959,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T15:28:34.9421479-05:00",
       "exempt": false
     },
@@ -971,7 +971,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -983,7 +983,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T15:27:27.8787142-05:00",
       "exempt": false
     },
@@ -995,7 +995,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-04-01T19:07:40.4685669-05:00",
       "exempt": false
     },
@@ -1007,8 +1007,8 @@
       "subscribed": false,
       "type": "twitch",
       "present": true,
-      "previousActive": "2025-08-23T22:55:44.4800501-05:00",
-      "lastActive": "2025-08-23T23:28:39.5565929-05:00",
+      "previousActive": "2025-08-23T23:28:39.5565929-05:00",
+      "lastActive": "2025-08-27T11:52:17.7428716-05:00",
       "exempt": false
     },
     "twitch_162444694": {
@@ -1019,7 +1019,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1031,7 +1031,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-25T16:28:07.9844686-05:00",
       "exempt": false
     },
@@ -1043,7 +1043,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T12:07:17.6703486-05:00",
       "exempt": false
     },
@@ -1055,7 +1055,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-14T20:57:04.0272962-05:00",
       "exempt": false
     },
@@ -1067,7 +1067,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-19T11:27:27.3853844-06:00",
       "exempt": false
     },
@@ -1079,7 +1079,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-25T16:28:12.901657-05:00",
       "exempt": false
     },
@@ -1091,7 +1091,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-04-15T18:28:18.228121-05:00",
       "exempt": false
     },
@@ -1103,7 +1103,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:19:53.8322414-05:00",
       "exempt": false
     },
@@ -1115,7 +1115,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-20T17:31:25.4842821-05:00",
       "exempt": false
     },
@@ -1127,7 +1127,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-26T13:54:08.8525445-06:00",
       "exempt": false
     },
@@ -1139,7 +1139,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-11T11:40:55.0350859-05:00",
       "exempt": false
     },
@@ -1151,7 +1151,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-25T16:31:53.1393937-05:00",
       "exempt": false
     },
@@ -1163,7 +1163,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T12:53:56.2601262-05:00",
       "exempt": false
     },
@@ -1175,7 +1175,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1187,7 +1187,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1199,7 +1199,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-06T14:36:19.9242406-05:00",
       "exempt": false
     },
@@ -1211,7 +1211,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-14T08:35:37.1010841-05:00",
       "exempt": false
     },
@@ -1223,7 +1223,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-22T14:17:50.2185014-05:00",
       "exempt": false
     },
@@ -1235,7 +1235,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T14:35:21.1752042-05:00",
       "exempt": false
     },
@@ -1247,7 +1247,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-06-10T18:49:34.1075146-05:00",
       "exempt": false
     },
@@ -1259,7 +1259,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1271,7 +1271,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T13:39:31.2601094-05:00",
       "exempt": false
     },
@@ -1283,7 +1283,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-04-01T16:50:23.8275328-05:00",
       "exempt": false
     },
@@ -1295,7 +1295,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1307,7 +1307,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1319,7 +1319,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-21T16:08:27.988389-05:00",
       "exempt": false
     },
@@ -1331,7 +1331,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1343,7 +1343,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-03-25T19:07:20.3963216-05:00",
       "exempt": false
     },
@@ -1355,7 +1355,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-19T10:13:29.7456976-06:00",
       "exempt": false
     },
@@ -1367,7 +1367,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-06-10T19:38:21.190355-05:00",
       "exempt": false
     },
@@ -1379,8 +1379,8 @@
       "subscribed": true,
       "type": "twitch",
       "present": true,
-      "previousActive": "2025-08-23T22:55:44.4800501-05:00",
-      "lastActive": "2025-08-23T23:28:39.5565929-05:00",
+      "previousActive": "2025-08-23T23:28:39.5565929-05:00",
+      "lastActive": "2025-08-27T11:52:17.7428716-05:00",
       "exempt": false
     },
     "twitch_1220576518": {
@@ -1391,7 +1391,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1403,7 +1403,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-29T12:49:17.4782135-05:00",
       "exempt": false
     },
@@ -1415,7 +1415,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T15:03:58.6432878-05:00",
       "exempt": false
     },
@@ -1424,23 +1424,11 @@
       "name": "brookewesst",
       "display": "brookewesst",
       "role": 2,
-      "subscribed": true,
-      "type": "twitch",
-      "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
-      "lastActive": "2025-08-16T22:19:43.9773977-05:00",
-      "exempt": false
-    },
-    "twitch_733658370": {
-      "id": "733658370",
-      "name": "bk_panther_",
-      "display": "BK_Panther_",
-      "role": 1,
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
-      "lastActive": "0001-01-01T00:00:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
+      "lastActive": "2025-08-16T22:19:43.9773977-05:00",
       "exempt": false
     },
     "twitch_1339590415": {
@@ -1451,8 +1439,20 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T14:09:04.1751507-05:00",
+      "exempt": false
+    },
+    "twitch_733658370": {
+      "id": "733658370",
+      "name": "bk_panther_",
+      "display": "BK_Panther_",
+      "role": 1,
+      "subscribed": false,
+      "type": "twitch",
+      "present": false,
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
+      "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
     "twitch_1306596037": {
@@ -1463,7 +1463,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-06T16:55:23.6852018-05:00",
       "exempt": false
     },
@@ -1475,7 +1475,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1487,7 +1487,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1499,7 +1499,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-13T16:34:19.3465812-05:00",
       "exempt": false
     },
@@ -1511,7 +1511,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-06-17T18:30:44.4694458-05:00",
       "exempt": false
     },
@@ -1523,7 +1523,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1535,7 +1535,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-03-28T18:22:41.6674252-05:00",
       "exempt": false
     },
@@ -1547,7 +1547,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1559,7 +1559,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1571,7 +1571,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1583,20 +1583,8 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-26T09:59:29.0252533-06:00",
-      "exempt": false
-    },
-    "twitch_1298160405": {
-      "id": "1298160405",
-      "name": "psychoanalyticdilemmaftj",
-      "display": "psychoanalyticdilemmaftj",
-      "role": 0,
-      "subscribed": false,
-      "type": "twitch",
-      "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
-      "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
     "twitch_1145438670": {
@@ -1607,8 +1595,20 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-03-25T16:34:36.5544177-05:00",
+      "exempt": false
+    },
+    "twitch_1298160405": {
+      "id": "1298160405",
+      "name": "psychoanalyticdilemmaftj",
+      "display": "psychoanalyticdilemmaftj",
+      "role": 0,
+      "subscribed": false,
+      "type": "twitch",
+      "present": false,
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
+      "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
     "twitch_445428118": {
@@ -1619,20 +1619,8 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-05T11:21:05.2444665-06:00",
-      "exempt": false
-    },
-    "twitch_567559294": {
-      "id": "567559294",
-      "name": "fxplr",
-      "display": "FXPLR",
-      "role": 1,
-      "subscribed": false,
-      "type": "twitch",
-      "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
-      "lastActive": "2024-10-29T14:59:00.8509597-05:00",
       "exempt": false
     },
     "twitch_486861166": {
@@ -1643,8 +1631,20 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-04-03T22:45:02.7270776-05:00",
+      "exempt": false
+    },
+    "twitch_567559294": {
+      "id": "567559294",
+      "name": "fxplr",
+      "display": "FXPLR",
+      "role": 1,
+      "subscribed": false,
+      "type": "twitch",
+      "present": false,
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
+      "lastActive": "2024-10-29T14:59:00.8509597-05:00",
       "exempt": false
     },
     "twitch_1102675519": {
@@ -1655,7 +1655,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-03-30T02:29:31.6954869-05:00",
       "exempt": false
     },
@@ -1667,7 +1667,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-25T16:26:55.933277-05:00",
       "exempt": false
     },
@@ -1679,7 +1679,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-11-26T10:51:27.5767607-06:00",
       "exempt": false
     },
@@ -1691,7 +1691,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1703,7 +1703,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-05-20T16:39:17.4410048-05:00",
       "exempt": false
     },
@@ -1715,7 +1715,7 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "0001-01-01T00:00:00",
       "exempt": false
     },
@@ -1727,32 +1727,8 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2024-10-15T15:26:47.7432126-05:00",
-      "exempt": false
-    },
-    "twitch_1156794736": {
-      "id": "1156794736",
-      "name": "ins_aim",
-      "display": "ins_aim",
-      "role": 0,
-      "subscribed": false,
-      "type": "twitch",
-      "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
-      "lastActive": "2024-11-26T13:54:09.0096058-06:00",
-      "exempt": false
-    },
-    "twitch_533856059": {
-      "id": "533856059",
-      "name": "thefellowgrim",
-      "display": "thefellowgrim",
-      "role": 0,
-      "subscribed": false,
-      "type": "twitch",
-      "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
-      "lastActive": "2025-04-22T19:24:36.3802422-05:00",
       "exempt": false
     },
     "twitch_572962010": {
@@ -1763,8 +1739,32 @@
       "subscribed": false,
       "type": "twitch",
       "present": false,
-      "previousActive": "2025-08-23T23:28:26.864464-05:00",
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
       "lastActive": "2025-07-26T14:54:48.9107101-05:00",
+      "exempt": false
+    },
+    "twitch_533856059": {
+      "id": "533856059",
+      "name": "thefellowgrim",
+      "display": "thefellowgrim",
+      "role": 0,
+      "subscribed": false,
+      "type": "twitch",
+      "present": false,
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
+      "lastActive": "2025-04-22T19:24:36.3802422-05:00",
+      "exempt": false
+    },
+    "twitch_1156794736": {
+      "id": "1156794736",
+      "name": "ins_aim",
+      "display": "ins_aim",
+      "role": 0,
+      "subscribed": false,
+      "type": "twitch",
+      "present": false,
+      "previousActive": "2025-08-27T11:52:07.9464841-05:00",
+      "lastActive": "2024-11-26T13:54:09.0096058-06:00",
       "exempt": false
     }
   }
