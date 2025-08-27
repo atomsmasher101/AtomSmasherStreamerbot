@@ -1,0 +1,21 @@
+{
+  "collapsedGroups": [],
+  "version": 1,
+  "t": "2025-08-23T23:28:26.5751235-05:00",
+  "hotKeys": [
+    {
+      "id": "9ecbb111-3a90-4da7-b48e-f242218a195e",
+      "enabled": true,
+      "key": 221,
+      "modifier": 3,
+      "group": "OBS Controls"
+    },
+    {
+      "id": "cfc2436b-8e81-4aa7-813b-e13b33715087",
+      "enabled": true,
+      "key": 114,
+      "modifier": 4,
+      "group": ""
+    }
+  ]
+}

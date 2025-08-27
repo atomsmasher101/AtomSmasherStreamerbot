@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "t": "2025-08-23T23:33:05.5618884-05:00",
+  "connections": [
+    {
+      "id": "ab067cfa-bc95-4187-bfc0-2e11fdebe237",
+      "name": "Meld",
+      "host": "127.0.0.1",
+      "autoConnect": false,
+      "reconnectOnDisconnect": true,
+      "retryInterval": 30,
+      "default": true
+    }
+  ]
+}

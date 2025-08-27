@@ -1,0 +1,149 @@
+[2024-10-01 15:07:04.565 INF] Streamer.bot (0.2.4)
+[2024-10-01 15:07:04.578 INF] Startup Path: C:\Users\littl\Downloads\Streamer.bot-x64-0.2.4
+[2024-10-01 15:07:04.578 INF] Startup Args: 
+[2024-10-01 15:07:04.578 INF] Startup Mode: OldUI
+[2024-10-01 15:07:04.578 INF] Logging Level: Debug
+[2024-10-01 15:07:04.579 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2024-10-01 15:07:04.579 INF] Instance Name: Streamer.bot
+[2024-10-01 15:07:04.579 INF] Operating System: Windows
+[2024-10-01 15:07:04.579 INF] WebView2: Found (v129.0.2792.65)
+[2024-10-01 15:07:04.589 INF] Backing up data files
+[2024-10-01 15:07:04.600 INF] Loading config
+[2024-10-01 15:07:04.999 DBG] Users :: Time to save 16.9142ms
+[2024-10-01 15:07:05.009 DBG] Twitch Rewards :: Time to save 5.2495ms
+[2024-10-01 15:07:05.508 DBG] Globals :: Performing DB upgrade, please be patient, this could take a while if you heavily use global variables.
+[2024-10-01 15:07:05.511 DBG] Globals :: DB Upgrade performed in 3.8507ms
+[2024-10-01 15:07:05.531 ERR] Global :: Duplicate userId and variable names found (1) in the User Global data, attempting to fix.
+[2024-10-01 15:07:05.535 ERR] Global :: Duplicate userId and variable names cleaned up, 0 records deleted in the User Global data.
+[2024-10-01 15:07:05.711 DBG] Actions :: Time to save 4.7108ms
+[2024-10-01 15:07:05.716 DBG] OBS Settings :: Time to save 2.7177ms
+[2024-10-01 15:07:05.732 DBG] Commands :: Time to save 3.867ms
+[2024-10-01 15:07:05.893 DBG] Midi :: Time to save 4.7896ms
+[2024-10-01 15:07:10.711 DBG] Splash screen opened
+[2024-10-01 15:07:10.765 DBG] UsbRemovalWatcher :: Initializing
+[2024-10-01 15:07:10.838 DBG] Events Service :: Starting event queue thread
+[2024-10-01 15:07:10.838 DBG] Events Service :: Starting application event queue thread
+[2024-10-01 15:07:10.842 DBG] Trigger Service :: Initialized
+[2024-10-01 15:07:10.842 DBG] Events Service :: Starting raw event queue thread
+[2024-10-01 15:07:10.860 DBG] Quotes :: Time to save 5.5882ms
+[2024-10-01 15:07:14.261 DBG] Setting up remaining UI
+[2024-10-01 15:07:15.486 DBG] Main UI ready
+[2024-10-01 15:07:15.491 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2024-10-01 15:07:15.497 INF] Hot Key Service :: Registering 0 hot key
+[2024-10-01 15:07:15.499 INF] MIDI Service :: Initializing 0 MIDI devices
+[2024-10-01 15:07:15.521 DBG] Websocket Client :: Auto connecting to clients
+[2024-10-01 15:07:15.522 DBG] MIDI Service :: Starting event thread
+[2024-10-01 15:07:15.522 DBG] Websocket Custom Server :: Auto starting servers
+[2024-10-01 15:07:15.524 DBG] Main Window Shown
+[2024-10-01 15:07:15.541 DBG] OBS Service :: Starting event thread
+[2024-10-01 15:07:16.039 DBG] Splash screen closed
+[2024-10-01 15:12:06.804 DBG] Credits :: Time to save 9.3352ms
+[2024-10-01 15:13:30.269 DBG] OBS Settings :: Time to save 6.3078ms
+[2024-10-01 15:14:23.329 DBG] OBS :: Opening websocket connection to OBS (192.168.1.65:4455)
+[2024-10-01 15:14:23.332 DBG] OBS-Websocket5 :: Opening connection (ws://192.168.1.65:4455/api/websocket)
+[2024-10-01 15:14:23.459 DBG] OBS :: Connected to OBS (192.168.1.65:4455)
+[2024-10-01 15:17:06.814 DBG] Credits :: Time to save 5.9898ms
+[2024-10-01 15:22:06.831 DBG] Credits :: Time to save 5.8823ms
+[2024-10-01 15:27:06.852 DBG] Credits :: Time to save 6.7471ms
+[2024-10-01 15:32:06.868 DBG] Credits :: Time to save 6.449ms
+[2024-10-01 15:37:06.880 DBG] Credits :: Time to save 5.4117ms
+[2024-10-01 15:42:06.901 DBG] Credits :: Time to save 6.322ms
+[2024-10-01 15:47:06.920 DBG] Credits :: Time to save 5.652ms
+[2024-10-01 15:52:06.938 DBG] Credits :: Time to save 5.3751ms
+[2024-10-01 15:57:06.957 DBG] Credits :: Time to save 6.5191ms
+[2024-10-01 16:02:06.967 DBG] Credits :: Time to save 5.5284ms
+[2024-10-01 16:07:06.984 DBG] Credits :: Time to save 6.175ms
+[2024-10-01 16:12:06.997 DBG] Credits :: Time to save 5.3834ms
+[2024-10-01 16:17:07.017 DBG] Credits :: Time to save 5.1548ms
+[2024-10-01 16:22:07.038 DBG] Credits :: Time to save 5.5153ms
+[2024-10-01 16:27:07.063 DBG] Credits :: Time to save 6.112ms
+[2024-10-01 16:32:07.081 DBG] Credits :: Time to save 5.9571ms
+[2024-10-01 16:37:07.099 DBG] Credits :: Time to save 4.7612ms
+[2024-10-01 16:42:07.113 DBG] Credits :: Time to save 6.3498ms
+[2024-10-01 16:47:07.130 DBG] Credits :: Time to save 5.1589ms
+[2024-10-01 16:52:07.156 DBG] Credits :: Time to save 5.9805ms
+[2024-10-01 16:57:07.167 DBG] Credits :: Time to save 5.4469ms
+[2024-10-01 17:02:07.187 DBG] Credits :: Time to save 5.8854ms
+[2024-10-01 17:07:07.195 DBG] Credits :: Time to save 6.2823ms
+[2024-10-01 17:12:07.212 DBG] Credits :: Time to save 5.5609ms
+[2024-10-01 17:17:07.219 DBG] Credits :: Time to save 5.5762ms
+[2024-10-01 17:22:07.229 DBG] Credits :: Time to save 5.9398ms
+[2024-10-01 17:27:07.248 DBG] Credits :: Time to save 5.3714ms
+[2024-10-01 17:32:07.260 DBG] Credits :: Time to save 5.3847ms
+[2024-10-01 17:37:07.271 DBG] Credits :: Time to save 5.6747ms
+[2024-10-01 17:42:07.288 DBG] Credits :: Time to save 5.0623ms
+[2024-10-01 17:47:07.296 DBG] Credits :: Time to save 5.6168ms
+[2024-10-01 17:52:07.300 DBG] Credits :: Time to save 5.0319ms
+[2024-10-01 17:57:07.321 DBG] Credits :: Time to save 5.676ms
+[2024-10-01 18:02:07.336 DBG] Credits :: Time to save 6.3765ms
+[2024-10-01 18:07:07.341 DBG] Credits :: Time to save 5.5038ms
+[2024-10-01 18:12:07.361 DBG] Credits :: Time to save 6.2261ms
+[2024-10-01 18:17:07.385 DBG] Credits :: Time to save 5.4808ms
+[2024-10-01 18:22:07.397 DBG] Credits :: Time to save 5.942ms
+[2024-10-01 18:27:07.406 DBG] Credits :: Time to save 5.4997ms
+[2024-10-01 18:32:07.422 DBG] Credits :: Time to save 5.6884ms
+[2024-10-01 18:37:07.435 DBG] Credits :: Time to save 5.2493ms
+[2024-10-01 18:42:07.445 DBG] Credits :: Time to save 5.3687ms
+[2024-10-01 18:47:07.453 DBG] Credits :: Time to save 5.9042ms
+[2024-10-01 18:52:07.474 DBG] Credits :: Time to save 6.012ms
+[2024-10-01 18:57:07.485 DBG] Credits :: Time to save 5.7343ms
+[2024-10-01 19:02:07.501 DBG] Credits :: Time to save 5.3564ms
+[2024-10-01 19:07:07.513 DBG] Credits :: Time to save 5.918ms
+[2024-10-01 19:12:07.542 DBG] Credits :: Time to save 5.5312ms
+[2024-10-01 19:17:07.549 DBG] Credits :: Time to save 6.2885ms
+[2024-10-01 19:22:07.559 DBG] Credits :: Time to save 5.0692ms
+[2024-10-01 19:27:07.579 DBG] Credits :: Time to save 5.617ms
+[2024-10-01 19:32:07.594 DBG] Credits :: Time to save 5.3947ms
+[2024-10-01 19:37:07.601 DBG] Credits :: Time to save 6.6431ms
+[2024-10-01 19:42:07.606 DBG] Credits :: Time to save 5.2812ms
+[2024-10-01 19:47:07.627 DBG] Credits :: Time to save 6.5894ms
+[2024-10-01 19:52:07.643 DBG] Credits :: Time to save 6.143ms
+[2024-10-01 19:57:07.654 DBG] Credits :: Time to save 5.4741ms
+[2024-10-01 20:02:07.668 DBG] Credits :: Time to save 5.6458ms
+[2024-10-01 20:07:07.674 DBG] Credits :: Time to save 5.7435ms
+[2024-10-01 20:12:07.686 DBG] Credits :: Time to save 5.6997ms
+[2024-10-01 20:17:07.699 DBG] Credits :: Time to save 6.4542ms
+[2024-10-01 20:22:07.705 DBG] Credits :: Time to save 6.3908ms
+[2024-10-01 20:27:07.715 DBG] Credits :: Time to save 6.343ms
+[2024-10-01 20:32:07.730 DBG] Credits :: Time to save 5.9723ms
+[2024-10-01 20:37:07.748 DBG] Credits :: Time to save 5.8206ms
+[2024-10-01 20:42:07.759 DBG] Credits :: Time to save 5.9082ms
+[2024-10-01 20:47:07.780 DBG] Credits :: Time to save 5.7566ms
+[2024-10-01 20:52:07.800 DBG] Credits :: Time to save 5.5563ms
+[2024-10-01 20:57:07.811 DBG] Credits :: Time to save 6.9846ms
+[2024-10-01 21:02:07.825 DBG] Credits :: Time to save 5.8392ms
+[2024-10-01 21:07:07.831 DBG] Credits :: Time to save 5.7837ms
+[2024-10-01 21:12:07.836 DBG] Credits :: Time to save 4.7741ms
+[2024-10-01 21:17:07.857 DBG] Credits :: Time to save 6.1527ms
+[2024-10-01 21:22:07.873 DBG] Credits :: Time to save 5.6504ms
+[2024-10-01 21:27:07.896 DBG] Credits :: Time to save 5.4026ms
+[2024-10-01 21:32:07.906 DBG] Credits :: Time to save 5.7289ms
+[2024-10-01 21:37:07.927 DBG] Credits :: Time to save 6.2688ms
+[2024-10-01 21:42:07.942 DBG] Credits :: Time to save 6.3684ms
+[2024-10-01 21:47:07.949 DBG] Credits :: Time to save 5.4131ms
+[2024-10-01 21:52:07.969 DBG] Credits :: Time to save 6.3271ms
+[2024-10-01 21:57:07.990 DBG] Credits :: Time to save 6.1045ms
+[2024-10-01 22:02:08.011 DBG] Credits :: Time to save 5.5091ms
+[2024-10-01 22:07:08.024 DBG] Credits :: Time to save 5.7143ms
+[2024-10-01 22:12:08.034 DBG] Credits :: Time to save 5.0023ms
+[2024-10-01 22:17:08.048 DBG] Credits :: Time to save 5.668ms
+[2024-10-01 22:22:08.065 DBG] Credits :: Time to save 5.5908ms
+[2024-10-01 22:27:08.085 DBG] Credits :: Time to save 5.6918ms
+[2024-10-01 22:32:08.100 DBG] Credits :: Time to save 5.5218ms
+[2024-10-01 22:37:08.106 DBG] Credits :: Time to save 5.8ms
+[2024-10-01 22:42:08.117 DBG] Credits :: Time to save 6.1616ms
+[2024-10-01 22:47:08.137 DBG] Credits :: Time to save 6.0827ms
+[2024-10-01 22:52:08.149 DBG] Credits :: Time to save 5.8943ms
+[2024-10-01 22:57:08.170 DBG] Credits :: Time to save 5.5536ms
+[2024-10-01 23:02:08.185 DBG] Credits :: Time to save 6.2866ms
+[2024-10-01 23:07:08.197 DBG] Credits :: Time to save 5.8102ms
+[2024-10-01 23:12:08.224 DBG] Credits :: Time to save 6.5225ms
+[2024-10-01 23:17:08.232 DBG] Credits :: Time to save 5.8313ms
+[2024-10-01 23:22:08.254 DBG] Credits :: Time to save 6.1349ms
+[2024-10-01 23:27:08.264 DBG] Credits :: Time to save 5.5435ms
+[2024-10-01 23:32:08.280 DBG] Credits :: Time to save 6.1038ms
+[2024-10-01 23:37:08.300 DBG] Credits :: Time to save 5.7909ms
+[2024-10-01 23:42:08.309 DBG] Credits :: Time to save 5.5509ms
+[2024-10-01 23:47:08.321 DBG] Credits :: Time to save 5.3574ms
+[2024-10-01 23:52:08.334 DBG] Credits :: Time to save 5.8691ms
+[2024-10-01 23:57:08.350 DBG] Credits :: Time to save 5.977ms

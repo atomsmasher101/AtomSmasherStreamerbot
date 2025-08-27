@@ -1,0 +1,216 @@
+{
+  "collapsedGroups": [],
+  "version": 2,
+  "t": "2025-04-29T00:31:44.4811518-05:00",
+  "rewards": [
+    {
+      "id": "ddcd57a3-53cc-41d4-821c-17f369d29f7b",
+      "name": "Volan Song",
+      "prompt": "I will sing the song that I performed for VolanRadooga's stream which is a parody of Gaston.",
+      "group": "Songs",
+      "cost": 5000,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#133C87"
+    },
+    {
+      "id": "5af418d2-c49b-4051-be3c-b23a049f28dc",
+      "name": "Poem",
+      "prompt": "Atom Smasher will read a poem. Or there's a small chance he'll read an entire book!",
+      "group": null,
+      "cost": 1000,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#6254AF"
+    },
+    {
+      "id": "82295a9f-6284-4675-9e4b-75dc9e13c4bb",
+      "name": "Make It Rain",
+      "prompt": "Clear all global radiation immediately!",
+      "group": "Meltdown",
+      "cost": 2000,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#1B85F4"
+    },
+    {
+      "id": "f51744f7-1404-418f-b9ae-dff11246e34b",
+      "name": "Regular More On",
+      "prompt": "Play the \"Regular More On\" sound clip",
+      "group": "Sound Alerts",
+      "cost": 500,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#D2CC7B"
+    },
+    {
+      "id": "707e4b7b-4ddc-4feb-a820-402015c46fe3",
+      "name": "Christmas Carrol",
+      "prompt": "I will sing a Christmas Carrol that I know of your choice!",
+      "group": "Songs",
+      "cost": 2500,
+      "userInput": true,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#34675C"
+    },
+    {
+      "id": "b182cdfa-6b2d-4bfb-bda3-86430a59c1ac",
+      "name": "Pucker Up!",
+      "prompt": "Atom will eat something sour!",
+      "group": "",
+      "cost": 500,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#36BBBC"
+    },
+    {
+      "id": "56fbfe2b-4400-47ec-9976-128ac7399ed6",
+      "name": "Eat My Grits!",
+      "prompt": "",
+      "group": "Sound Alerts",
+      "cost": 500,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#C9C5CA"
+    },
+    {
+      "id": "c3e88662-c0a6-4362-8d1b-2110e4287c27",
+      "name": "H4CKSMA4SH3R",
+      "prompt": "Hack AtomSmasher's Webcam!",
+      "group": null,
+      "cost": 500,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#00FF00"
+    },
+    {
+      "id": "d0dcb3e9-753f-488f-af19-6c2b86942ca2",
+      "name": "Falsetto",
+      "prompt": "Atom will talk in falsetto for a full game",
+      "group": "",
+      "cost": 3500,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#5AE3A8"
+    },
+    {
+      "id": "899c9e07-fd07-4f4e-b18d-2b8f19ea23f9",
+      "name": "Rad Spammer",
+      "prompt": "Spams chat with !rads commands every 30 seconds",
+      "group": "",
+      "cost": 1500,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#00FF00"
+    },
+    {
+      "id": "3df0b931-7502-4d9b-bad4-08d3223f5096",
+      "name": "Radioactive Evolution",
+      "prompt": "Cause a radioactive evolution for DinoSmasher",
+      "group": "Dino Stream",
+      "cost": 300,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#287D44"
+    },
+    {
+      "id": "5c64bc95-ef25-4f22-b75d-dde3098c64f8",
+      "name": "ROAR!",
+      "prompt": "AtomSmasher gives his best dino roar!",
+      "group": "Dino Stream",
+      "cost": 300,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#4F9D24"
+    },
+    {
+      "id": "98fb6735-050b-4b57-ae03-fbe027d4349f",
+      "name": "Generate AI Image",
+      "prompt": "Enter a prompt for an AI generated image that will display on stream.",
+      "group": "zzzDisabled",
+      "cost": 500,
+      "userInput": true,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#C6E784"
+    },
+    {
+      "id": "3c5ec5b5-4b75-41fa-85d5-8d822a64b52e",
+      "name": "STAMPEDE!",
+      "prompt": "Start an emote stampede!",
+      "group": "Meltdown",
+      "cost": 3000,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#795848"
+    },
+    {
+      "id": "1efdc275-e6dd-4845-8f22-fb9d640b5a30",
+      "name": "METEOR!!!!!",
+      "prompt": "",
+      "group": "Meltdown",
+      "cost": 1000,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#AA9F64"
+    },
+    {
+      "id": "be9d56d2-80c8-4d0d-922c-0db0283e916f",
+      "name": "Whither Must I Wander",
+      "prompt": "I will sing \"Whither Must I Wander\". An acapella song which won me the solo and ensemble competition in Texas.",
+      "group": "Songs",
+      "cost": 5000,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#55236D"
+    },
+    {
+      "id": "3c760ad6-703f-4002-b39c-aec76cf480ed",
+      "name": "Birth A Ginger",
+      "prompt": "Redeem to birth a ginger live on stream!",
+      "group": null,
+      "cost": 1,
+      "userInput": false,
+      "persistCounter": false,
+      "persistUserCounter": false,
+      "backgroundColor": "#FF8040"
+    }
+  ],
+  "autoRewards": [
+    {
+      "type": "celebration",
+      "cost": 0,
+      "userInput": false
+    },
+    {
+      "type": "gigantify_an_emote",
+      "cost": 0,
+      "userInput": false
+    },
+    {
+      "type": "chosen_modified_sub_emote_unlock",
+      "cost": 900,
+      "userInput": false
+    },
+    {
+      "type": "send_highlighted_message",
+      "cost": 100,
+      "userInput": false
+    }
+  ]
+}

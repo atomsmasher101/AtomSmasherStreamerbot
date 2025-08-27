@@ -1,0 +1,76 @@
+{
+  "version": 3,
+  "t": "2025-04-29T00:31:44.4811518-05:00",
+  "quotes": [
+    {
+      "timestamp": "2024-10-29T10:10:40.6290602-05:00",
+      "id": 1,
+      "userId": "1002025572",
+      "user": "TheMediocreLlama",
+      "platform": "twitch",
+      "gameId": "33214",
+      "gameName": "Fortnite",
+      "quote": "\"every fight is a corn flip\""
+    },
+    {
+      "timestamp": "2024-10-29T10:25:38.2675378-05:00",
+      "id": 2,
+      "userId": "1002025572",
+      "user": "TheMediocreLlama",
+      "platform": "twitch",
+      "gameId": "33214",
+      "gameName": "Fortnite",
+      "quote": "\"there's no forced fun...but there is fun if you want it\""
+    },
+    {
+      "timestamp": "2024-11-05T11:44:48.5941387-06:00",
+      "id": 3,
+      "userId": "1002025572",
+      "user": "TheMediocreLlama",
+      "platform": "twitch",
+      "gameId": "490825",
+      "gameName": "GNOG",
+      "quote": "light someone's house on fire and enter the doggy position"
+    },
+    {
+      "timestamp": "2024-11-26T14:31:32.2191492-06:00",
+      "id": 4,
+      "userId": "37399926",
+      "user": "Pratchetty",
+      "platform": "twitch",
+      "gameId": "33214",
+      "gameName": "Fortnite",
+      "quote": "we’re down to ten players so we’re three of them"
+    },
+    {
+      "timestamp": "2024-11-26T14:38:37.2154582-06:00",
+      "id": 5,
+      "userId": "37399926",
+      "user": "Pratchetty",
+      "platform": "twitch",
+      "gameId": "33214",
+      "gameName": "Fortnite",
+      "quote": "what a breath"
+    },
+    {
+      "timestamp": "2025-04-01T18:15:02.5453937-05:00",
+      "id": 6,
+      "userId": "1002025572",
+      "user": "TheMediocreLlama",
+      "platform": "twitch",
+      "gameId": "33214",
+      "gameName": "Fortnite",
+      "quote": "there's a pickle behind me"
+    },
+    {
+      "timestamp": "2025-04-15T17:40:27.0661329-05:00",
+      "id": 7,
+      "userId": "1002025572",
+      "user": "TheMediocreLlama",
+      "platform": "twitch",
+      "gameId": "33214",
+      "gameName": "Fortnite",
+      "quote": "I gotta stop smackin this thing, but it's hard not to do it"
+    }
+  ]
+}

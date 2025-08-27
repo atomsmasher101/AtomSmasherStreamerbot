@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "t": "2025-08-23T23:33:05.5618884-05:00",
+  "connections": [
+    {
+      "id": "093d2bc7-4948-4f0e-b210-6554b99c04e2",
+      "name": "OBS",
+      "obsVersion": 1,
+      "host": "127.0.0.1",
+      "port": 4455,
+      "autoConnect": true,
+      "reconnectOnDisconnect": true,
+      "password": "1bzPBd4tolqFSxEJ",
+      "retryInterval": 30,
+      "default": true
+    }
+  ]
+}

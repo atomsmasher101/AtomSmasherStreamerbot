@@ -1,0 +1,1155 @@
+[2025-05-30 13:47:17.001 INF] Streamer.bot (0.2.8)
+[2025-05-30 13:47:17.003 INF] Startup Path: C:\Users\littl\Downloads\Streamer.bot-x64-0.2.4
+[2025-05-30 13:47:17.003 INF] Startup Args: 
+[2025-05-30 13:47:17.003 INF] Startup Mode: OldUI
+[2025-05-30 13:47:17.003 INF] Logging Level: Debug
+[2025-05-30 13:47:17.003 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2025-05-30 13:47:17.003 INF] Instance Name: Streamer.bot
+[2025-05-30 13:47:17.003 INF] Operating System: Windows
+[2025-05-30 13:47:17.003 INF] UserInteractive: True
+[2025-05-30 13:47:17.003 INF] WebView2: Found (v136.0.3240.92)
+[2025-05-30 13:47:17.012 INF] Backing up data files
+[2025-05-30 13:47:17.099 INF] Loading config
+[2025-05-30 13:47:17.429 INF] Users :: Upgrade checks finished, 4.2868ms
+[2025-05-30 13:47:17.447 DBG] Users :: Loaded 129 users.
+[2025-05-30 13:47:17.482 DBG] Twitch Rewards :: Loaded 19 rewards.
+[2025-05-30 13:47:18.414 DBG] Actions :: Loaded 130 actions.
+[2025-05-30 13:47:18.421 DBG] OBS Settings :: Loaded.
+[2025-05-30 13:47:18.429 DBG] MeldStudio Settings :: Loaded.
+[2025-05-30 13:47:18.460 DBG] Commands :: Loaded 41 commands.
+[2025-05-30 13:47:18.501 DBG] MIDI :: Loaded 0 actions.
+[2025-05-30 13:47:18.750 DBG] Credits :: Performing auto reset of data, 64.0667366607222 > 12
+[2025-05-30 13:47:20.124 DBG] Splash screen opened
+[2025-05-30 13:47:20.196 DBG] UsbRemovalWatcher :: Initializing
+[2025-05-30 13:47:20.287 DBG] Trigger Service :: Initialized
+[2025-05-30 13:47:20.289 DBG] Events Service :: Starting raw event queue thread
+[2025-05-30 13:47:20.290 DBG] Events Service :: Starting application event queue thread
+[2025-05-30 13:47:20.290 DBG] Events Service :: Starting event queue thread
+[2025-05-30 13:47:20.295 DBG] Quotes :: Loaded 8 quotes.
+[2025-05-30 13:47:21.390 DBG] Setting up remaining UI
+[2025-05-30 13:47:22.292 DBG] Main UI ready
+[2025-05-30 13:47:22.296 INF] MIDI Service :: Initializing 0 MIDI devices
+[2025-05-30 13:47:22.297 INF] Hot Key Service :: Registering 2 hot keys
+[2025-05-30 13:47:22.297 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2025-05-30 13:47:22.299 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2025-05-30 13:47:22.299 DBG] MeldStudio Service :: Starting event thread
+[2025-05-30 13:47:22.299 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2025-05-30 13:47:22.299 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2025-05-30 13:47:22.299 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2025-05-30 13:47:22.299 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2025-05-30 13:47:22.299 DBG] OBS Service :: Starting event thread
+[2025-05-30 13:47:22.299 DBG] HotKey Service :: Registered hot key Alt, Ctrl + VK_OEM_6
+[2025-05-30 13:47:22.299 DBG] MIDI Service :: Starting event thread
+[2025-05-30 13:47:22.300 DBG] HotKey Service :: Registered hot key Shift + VK_F3
+[2025-05-30 13:47:22.302 DBG] Websocket Client :: Auto connecting to clients
+[2025-05-30 13:47:22.304 DBG] Websocket Custom Server :: Auto starting servers
+[2025-05-30 13:47:22.304 DBG] Websocket Server :: Starting server (ws://127.0.0.1:8080)
+[2025-05-30 13:47:22.310 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2025-05-30 13:47:22.312 INF] SpeechToText :: Initializing recognition engine
+[2025-05-30 13:47:22.314 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2025-05-30 13:47:22.315 DBG] Websocket Server :: Starting queue thread
+[2025-05-30 13:47:22.320 DBG] Websocket Server :: Starting command queue thread
+[2025-05-30 13:47:22.328 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2025-05-30 13:47:22.339 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2025-05-30 13:47:22.378 DBG] Main Window Shown
+[2025-05-30 13:47:22.481 DBG] SpeechToText :: Starting recognition engine
+[2025-05-30 13:47:22.483 DBG] SpeechToText :: Starting queue thread
+[2025-05-30 13:47:22.510 DBG] OBS :: Connected to OBS (127.0.0.1:4455)
+[2025-05-30 13:47:22.514 INF] StreamElements :: Logging into account
+[2025-05-30 13:47:22.570 INF] Streamer.bot Service :: Logging into account
+[2025-05-30 13:47:22.661 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2025-05-30 13:47:22.662 INF] StreamElements Service :: Connecting to Client
+[2025-05-30 13:47:22.665 DBG] StreamElements Socket :: Opening connection
+[2025-05-30 13:47:22.792 INF] Streamer.bot Service :: Account (firehair#0) authenticated
+[2025-05-30 13:47:22.848 INF] TwitchService :: Logging into bot account
+[2025-05-30 13:47:22.849 INF] TwitchService :: Logging into broadcaster account
+[2025-05-30 13:47:22.981 INF] Streamer.bot Service :: Connecting to Website Client
+[2025-05-30 13:47:22.983 DBG] Streamer.bot Website Socket :: Opening connection
+[2025-05-30 13:47:23.025 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2025-05-30 13:47:23.025 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2025-05-30 13:47:23.028 INF] TwitchService :: Connecting to Bot EventSub
+[2025-05-30 13:47:23.032 INF] StreamElements Service :: Connected to Client
+[2025-05-30 13:47:23.033 DBG] Twitch EventSub (Bot) :: Opening connection
+[2025-05-30 13:47:23.133 ERR] Unable to fetch your discord avatar at the moment
+[2025-05-30 13:47:23.135 DBG] Splash screen closed
+[2025-05-30 13:47:23.139 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2025-05-30 13:47:23.141 DBG] Twitch Service :: Init rest
+[2025-05-30 13:47:23.142 INF] 7TV :: Initializing user '50822403', on twitch
+[2025-05-30 13:47:23.151 INF] BTTV :: Initializing user '50822403', on twitch
+[2025-05-30 13:47:23.153 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2025-05-30 13:47:23.161 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2025-05-30 13:47:23.211 INF] BTTV :: Loaded 65 global emotes
+[2025-05-30 13:47:23.225 INF] 7TV :: Loaded 42 global emotes
+[2025-05-30 13:47:23.228 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2025-05-30 13:47:23.229 INF] Streamer.bot Service :: Website Client authenticated
+[2025-05-30 13:47:23.230 INF] Streamer.bot Service :: Connected to Website Client
+[2025-05-30 13:47:23.292 INF] FFZ :: Loaded 15 global emotes
+[2025-05-30 13:47:23.315 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2025-05-30 13:47:23.374 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2025-05-30 13:47:23.374 INF] FFZ :: Loaded 0 channel emotes
+[2025-05-30 13:47:23.442 DBG] Twitch Service :: Loaded 33 Twitch cheer emotes
+[2025-05-30 13:47:23.581 DBG] Twitch Service :: Loaded 144 Twitch badges
+[2025-05-30 13:47:23.613 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2025-05-30 13:47:23.695 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2025-05-30 13:47:23.847 DBG] Twitch Rewards :: Time to save 14.6191ms
+[2025-05-30 13:47:25.292 DBG] Twitch Service :: Loaded 774 Twitch user emotes
+[2025-05-30 13:47:25.886 DBG] Getting viewers for channel "atomsmasher101" (4)
+[2025-05-30 13:47:25.887 DBG] Twitch Service :: Fetched viewers for channel (4)
+[2025-05-30 13:47:25.891 DBG] Twitch Service :: (4) - Existing: 4, New Users: 0 (3.4439ms)
+[2025-05-30 13:47:25.891 DBG] Twitch Service :: Viewers init in 594.9477ms
+[2025-05-30 13:47:25.893 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2025-05-30 13:47:26.003 DBG] Twitch Service :: Found 7 editors for channel atomsmasher101
+[2025-05-30 13:47:26.262 INF] Twitch Service :: Found 12 Moderators for the channel atomsmasher101
+[2025-05-30 13:47:26.502 INF] Twitch Service :: Found 18 VIPs for the channel atomsmasher101
+[2025-05-30 13:47:26.505 DBG] ViewerRepo :: Time to update mods and VIPs, 0.8012ms (nm: 0, em: 0, nv: 0, ev: 1, ru: 1)
+[2025-05-30 13:47:26.505 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 498.6558ms
+[2025-05-30 13:47:26.506 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2025-05-30 13:47:26.926 DBG] Twitch Service :: "AtomSmasher101" has 9 subscriptions.
+[2025-05-30 13:47:26.941 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2025-05-30 13:47:26.945 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2025-05-30 13:47:26.946 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2025-05-30 13:47:27.047 DBG] Twitch (Broadcaster) :: Opening connection
+[2025-05-30 13:47:27.181 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 57 events
+[2025-05-30 13:47:27.191 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (34.212.92.60:6697)
+[2025-05-30 13:47:27.193 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2025-05-30 13:47:27.324 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2025-05-30 13:47:27.477 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2025-05-30 13:47:27.480 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2025-05-30 13:47:27.484 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2025-05-30 13:47:32.244 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2025-05-30 13:47:39.679 DBG] Actions :: Time to save 100.9344ms
+[2025-05-30 13:48:26.561 INF] BTTV :: WebSocket Connected
+[2025-05-30 13:48:27.349 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.2005ms
+[2025-05-30 13:48:27.445 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.3965ms)
+[2025-05-30 13:48:29.179 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by tremmm85 with 26 arguments
+[2025-05-30 13:48:29.181 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 13:48:29.181 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 13:48:29.187 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 58308ebf-89d9-449c-8148-06e3bdf73b1e), initiated by tremmm85 with 27 arguments
+[2025-05-30 13:49:04.700 DBG] StreamElements Socket :: Disconnected
+[2025-05-30 13:49:04.702 INF] StreamElements Service :: Disconnected from Client
+[2025-05-30 13:49:06.720 DBG] StreamElements Service :: Retrying client connection
+[2025-05-30 13:49:06.720 INF] StreamElements Service :: Connecting to Client
+[2025-05-30 13:49:06.720 DBG] StreamElements Socket :: Opening connection
+[2025-05-30 13:49:07.067 INF] StreamElements Service :: Connected to Client
+[2025-05-30 13:49:27.357 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0281ms
+[2025-05-30 13:49:27.454 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6463ms)
+[2025-05-30 13:50:27.382 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0284ms
+[2025-05-30 13:50:27.486 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (105.0144ms)
+[2025-05-30 13:51:27.387 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0287ms
+[2025-05-30 13:51:27.483 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2599ms)
+[2025-05-30 13:52:18.765 DBG] Credits :: Time to save 6.4671ms
+[2025-05-30 13:52:27.395 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0304ms
+[2025-05-30 13:52:27.489 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.112ms)
+[2025-05-30 13:53:27.409 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0429ms
+[2025-05-30 13:53:27.500 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.2476ms)
+[2025-05-30 13:54:27.413 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0274ms
+[2025-05-30 13:54:27.508 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2194ms)
+[2025-05-30 13:55:27.414 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.17ms
+[2025-05-30 13:55:27.506 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2104ms)
+[2025-05-30 13:56:27.419 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0273ms
+[2025-05-30 13:56:27.519 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.5539ms)
+[2025-05-30 13:57:17.628 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 13:57:17.628 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 13:57:17.628 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 13:57:17.628 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 671b975d-d5e7-4506-b1ad-294d3edf8a88)
+[2025-05-30 13:57:18.761 DBG] Credits :: Time to save 3.8088ms
+[2025-05-30 13:57:27.419 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2025-05-30 13:57:27.518 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0199ms)
+[2025-05-30 13:58:27.432 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0389ms
+[2025-05-30 13:58:27.528 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.7339ms)
+[2025-05-30 13:59:27.439 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 13:59:27.588 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (149.5768ms)
+[2025-05-30 14:00:27.455 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 14:00:27.738 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (283.0458ms)
+[2025-05-30 14:01:27.468 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0317ms
+[2025-05-30 14:01:27.562 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.9159ms)
+[2025-05-30 14:02:18.762 DBG] Credits :: Time to save 1.5219ms
+[2025-05-30 14:02:27.481 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2025-05-30 14:02:27.599 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (118.4085ms)
+[2025-05-30 14:03:27.483 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 14:03:27.578 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8766ms)
+[2025-05-30 14:04:27.484 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 14:04:27.584 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.7686ms)
+[2025-05-30 14:05:27.494 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0305ms
+[2025-05-30 14:05:27.704 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (210.2509ms)
+[2025-05-30 14:06:27.502 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0318ms
+[2025-05-30 14:06:27.596 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7724ms)
+[2025-05-30 14:07:17.886 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 14:07:17.886 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 14:07:17.886 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:07:17.886 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 117b9cdd-300f-48ee-be89-d3aa1a36a71b)
+[2025-05-30 14:07:18.775 DBG] Credits :: Time to save 1.9104ms
+[2025-05-30 14:07:22.176 DBG] Actions :: Time to save 6.6159ms
+[2025-05-30 14:07:22.185 DBG] Actions :: Time to save 8.7172ms
+[2025-05-30 14:07:25.416 DBG] Actions :: Time to save 8.3515ms
+[2025-05-30 14:07:27.513 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0243ms
+[2025-05-30 14:07:27.681 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (168.1472ms)
+[2025-05-30 14:07:29.909 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by ins_aim with 26 arguments
+[2025-05-30 14:07:29.909 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:07:29.909 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:07:29.909 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, e2f30b91-e144-4d75-9b18-b4ea5735a3ec), initiated by ins_aim with 27 arguments
+[2025-05-30 14:07:29.920 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:07:44.042 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by lettuceandbacon with 26 arguments
+[2025-05-30 14:07:44.042 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:07:44.042 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:07:44.042 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, c0bb5ac4-0bfb-468f-9d27-7d99f2f2994a), initiated by lettuceandbacon with 27 arguments
+[2025-05-30 14:07:44.042 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:08:25.381 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by joniniii with 28 arguments
+[2025-05-30 14:08:25.381 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:08:25.381 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:08:25.381 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, a3176518-d98a-4f45-8c7b-8dec2b3ad9a7), initiated by joniniii with 29 arguments
+[2025-05-30 14:08:25.381 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:08:27.528 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0245ms
+[2025-05-30 14:08:27.619 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.8071ms)
+[2025-05-30 14:08:37.117 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 15 arguments
+[2025-05-30 14:08:37.117 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2025-05-30 14:08:37.117 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:08:37.117 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067, 53d137ae-a24c-46a1-ab49-52911985c1d3)
+[2025-05-30 14:09:05.108 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 15 arguments
+[2025-05-30 14:09:05.108 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2025-05-30 14:09:05.108 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:09:05.108 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067, 51ef2b72-7fb2-4862-a712-45db97e09213)
+[2025-05-30 14:09:27.540 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.028ms
+[2025-05-30 14:09:27.638 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9861ms)
+[2025-05-30 14:10:27.541 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2025-05-30 14:10:27.696 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (156.0686ms)
+[2025-05-30 14:11:27.555 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0274ms
+[2025-05-30 14:11:27.653 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.2163ms)
+[2025-05-30 14:12:18.781 DBG] Credits :: Time to save 1.6676ms
+[2025-05-30 14:12:19.817 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by playwithviewersbot with 26 arguments
+[2025-05-30 14:12:19.817 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:12:19.817 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:12:19.817 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 3b8e839f-59a4-45ca-be00-2fbe28e98c86), initiated by playwithviewersbot with 27 arguments
+[2025-05-30 14:12:19.817 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:12:24.527 DBG] Actions :: Time to save 9.1411ms
+[2025-05-30 14:12:24.538 DBG] Users :: Time to save 7.0858ms
+[2025-05-30 14:12:24.544 DBG] Quotes :: Time to save 4.1003ms
+[2025-05-30 14:12:24.552 DBG] Commands :: Time to save 7.3062ms
+[2025-05-30 14:12:24.553 DBG] Twitch Rewards :: Time to save 1.3776ms
+[2025-05-30 14:12:24.558 DBG] Midi :: Time to save 4.0082ms
+[2025-05-30 14:12:24.564 DBG] OBS Settings :: Time to save 3.9892ms
+[2025-05-30 14:12:24.568 DBG] MeldStudio Settings :: Time to save 3.4285ms
+[2025-05-30 14:12:24.780 DBG] Config :: Time to save 49.4641ms
+[2025-05-30 14:12:27.559 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0321ms
+[2025-05-30 14:12:27.659 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.5459ms)
+[2025-05-30 14:12:30.822 DBG] Actions :: Time to save 8.3425ms
+[2025-05-30 14:12:33.196 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by joniniii with 26 arguments
+[2025-05-30 14:12:33.196 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:12:33.196 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:12:33.196 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 4e146fbd-848f-40fd-918c-e03025a44829), initiated by joniniii with 27 arguments
+[2025-05-30 14:13:25.694 DBG] Actions :: Time to save 8.6974ms
+[2025-05-30 14:13:27.574 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.026ms
+[2025-05-30 14:13:27.677 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.8935ms)
+[2025-05-30 14:13:49.250 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by flaurety with 28 arguments
+[2025-05-30 14:13:49.250 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:13:49.250 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:13:49.250 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 563dfed8-083f-408a-9733-0a1ec275c2d8), initiated by flaurety with 29 arguments
+[2025-05-30 14:13:49.251 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:13:53.620 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by flaurety with 28 arguments
+[2025-05-30 14:13:53.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:13:53.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:13:53.621 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, a88e1388-d3de-4f70-a089-61f3c9ccbcc9), initiated by flaurety with 29 arguments
+[2025-05-30 14:13:53.621 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:14:27.580 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0257ms
+[2025-05-30 14:14:27.681 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.786ms)
+[2025-05-30 14:15:02.533 DBG] Actions :: Time to save 7.9056ms
+[2025-05-30 14:15:02.541 DBG] Actions :: Time to save 8.5236ms
+[2025-05-30 14:15:04.857 DBG] Actions :: Time to save 8.3348ms
+[2025-05-30 14:15:08.629 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by alaaannnnnnn with 26 arguments
+[2025-05-30 14:15:08.629 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:15:08.629 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:15:08.629 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, caeafcb8-4e85-40d8-9d52-52179bb1a7d6), initiated by alaaannnnnnn with 27 arguments
+[2025-05-30 14:15:08.740 DBG] TwitchApi :: Unable to lookup user: "users?login=alaaannnnnnn"
+[2025-05-30 14:15:08.741 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:15:27.589 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0254ms
+[2025-05-30 14:15:27.693 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (103.93ms)
+[2025-05-30 14:16:07.398 DBG] Actions :: Time to save 7.423ms
+[2025-05-30 14:16:07.406 DBG] Actions :: Time to save 7.5588ms
+[2025-05-30 14:16:27.603 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.026ms
+[2025-05-30 14:16:27.699 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3407ms)
+[2025-05-30 14:16:54.864 DBG] Actions :: Time to save 8.4812ms
+[2025-05-30 14:16:54.873 DBG] Actions :: Time to save 8.0028ms
+[2025-05-30 14:16:57.388 DBG] Actions :: Time to save 7.8173ms
+[2025-05-30 14:17:00.613 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by cozyryn with 26 arguments
+[2025-05-30 14:17:00.613 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:17:00.613 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:17:00.613 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, f124dcf9-553e-4255-a6cf-100f85d0221c), initiated by cozyryn with 27 arguments
+[2025-05-30 14:17:00.614 ERR] Unable to run Add Target Info, rawInput was not found in arguments, aborting action
+[2025-05-30 14:17:18.370 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 14:17:18.370 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 14:17:18.370 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:17:18.370 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, f6f128c9-5171-407f-979c-9daaedecb1ff)
+[2025-05-30 14:17:18.791 DBG] Credits :: Time to save 1.3372ms
+[2025-05-30 14:17:27.615 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0257ms
+[2025-05-30 14:17:27.709 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4343ms)
+[2025-05-30 14:18:27.624 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.024ms
+[2025-05-30 14:18:27.717 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.695ms)
+[2025-05-30 14:19:27.639 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 14:19:27.740 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.0316ms)
+[2025-05-30 14:20:27.652 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2025-05-30 14:20:27.747 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8316ms)
+[2025-05-30 14:21:27.653 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.024ms
+[2025-05-30 14:21:27.750 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0053ms)
+[2025-05-30 14:22:18.805 DBG] Credits :: Time to save 1.3241ms
+[2025-05-30 14:22:27.661 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2025-05-30 14:22:27.756 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.3736ms)
+[2025-05-30 14:23:27.670 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0243ms
+[2025-05-30 14:23:27.763 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2449ms)
+[2025-05-30 14:24:25.255 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _FY1CVKDJbd7aCHmQznoiFF00xdq._onswhAa4OQzUI97ON0qSOkngPWF.MoveNext()
+[2025-05-30 14:24:27.673 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2025-05-30 14:24:27.819 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (147.6631ms)
+[2025-05-30 14:24:39.575 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by payasomax420 with 26 arguments
+[2025-05-30 14:24:39.575 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:24:39.575 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:24:39.575 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 87442ef7-b8a6-44d5-9dba-909639b67641), initiated by payasomax420 with 27 arguments
+[2025-05-30 14:24:39.575 ERR] Unable to run Add Target Info, rawInput was not found in arguments, aborting action
+[2025-05-30 14:25:27.684 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0281ms
+[2025-05-30 14:25:27.781 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.2165ms)
+[2025-05-30 14:26:00.998 DBG] Actions :: Time to save 8.2048ms
+[2025-05-30 14:26:24.716 DBG] Actions :: Time to save 8.3365ms
+[2025-05-30 14:26:27.691 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2025-05-30 14:26:27.789 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.1749ms)
+[2025-05-30 14:27:18.746 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 14:27:18.746 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 14:27:18.746 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:27:18.746 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 5f6b3b38-f1fe-462d-a92e-cab888dafd2d)
+[2025-05-30 14:27:18.809 DBG] Credits :: Time to save 1.4482ms
+[2025-05-30 14:27:27.696 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0337ms
+[2025-05-30 14:27:27.788 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5812ms)
+[2025-05-30 14:28:27.711 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0261ms
+[2025-05-30 14:28:27.802 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.1908ms)
+[2025-05-30 14:28:59.229 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by therealzmadmaxz with 26 arguments
+[2025-05-30 14:28:59.229 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:28:59.229 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:28:59.229 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 6320e99d-6f25-4eb9-b95f-8d15e9bbfb2f), initiated by therealzmadmaxz with 27 arguments
+[2025-05-30 14:28:59.329 DBG] TwitchApi :: Unable to lookup user: "users?login=486861166"
+[2025-05-30 14:28:59.329 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:29:27.723 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0249ms
+[2025-05-30 14:29:27.821 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.1655ms)
+[2025-05-30 14:29:29.658 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by disproportionateedgingm with 26 arguments
+[2025-05-30 14:29:29.658 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:29:29.658 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:29:29.658 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 781528d6-c461-4754-9c69-8f458aa6be66), initiated by disproportionateedgingm with 27 arguments
+[2025-05-30 14:29:29.760 DBG] TwitchApi :: Unable to lookup user: "users?login=disproportionateedgingm"
+[2025-05-30 14:29:29.760 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:30:27.734 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0255ms
+[2025-05-30 14:30:27.864 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (130.6001ms)
+[2025-05-30 14:31:27.744 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 14:31:27.841 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8235ms)
+[2025-05-30 14:32:18.823 DBG] Credits :: Time to save 1.5485ms
+[2025-05-30 14:32:27.751 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2025-05-30 14:32:27.847 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0802ms)
+[2025-05-30 14:33:11.073 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by kofistreambot with 26 arguments
+[2025-05-30 14:33:11.073 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:33:11.073 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:33:11.073 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 09dd57cc-b9ea-4f1c-8a20-19ae66529634), initiated by kofistreambot with 27 arguments
+[2025-05-30 14:33:27.760 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.032ms
+[2025-05-30 14:33:27.853 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.4756ms)
+[2025-05-30 14:34:27.772 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0247ms
+[2025-05-30 14:34:27.867 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2211ms)
+[2025-05-30 14:35:27.781 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0287ms
+[2025-05-30 14:35:27.880 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.4712ms)
+[2025-05-30 14:36:27.803 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0272ms
+[2025-05-30 14:36:27.902 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.5604ms)
+[2025-05-30 14:37:18.826 DBG] Credits :: Time to save 1.8524ms
+[2025-05-30 14:37:19.465 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 14:37:19.465 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 14:37:19.465 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:37:19.465 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8cd88d9e-6fab-4fad-b67e-4872f224b511)
+[2025-05-30 14:37:27.808 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.038ms
+[2025-05-30 14:37:27.902 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6367ms)
+[2025-05-30 14:38:27.816 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0245ms
+[2025-05-30 14:38:27.911 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.9589ms)
+[2025-05-30 14:39:27.829 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0569ms
+[2025-05-30 14:39:27.923 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7521ms)
+[2025-05-30 14:40:27.847 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2025-05-30 14:40:27.944 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8579ms)
+[2025-05-30 14:41:27.857 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0255ms
+[2025-05-30 14:41:27.958 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.0601ms)
+[2025-05-30 14:41:41.499 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by masterlycoiffure with 26 arguments
+[2025-05-30 14:41:41.499 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:41:41.499 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:41:41.499 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 1ced3127-f2e9-4be6-bc7a-6cf32f99d3dc), initiated by masterlycoiffure with 27 arguments
+[2025-05-30 14:41:41.595 DBG] TwitchApi :: Unable to lookup user: "users?login=masterlycoiffure"
+[2025-05-30 14:41:41.595 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:42:04.142 DBG] Actions :: Time to save 9.3032ms
+[2025-05-30 14:42:04.143 DBG] Users :: Time to save 1.7227ms
+[2025-05-30 14:42:04.144 DBG] Quotes :: Time to save 1.145ms
+[2025-05-30 14:42:04.148 DBG] Commands :: Time to save 3.8093ms
+[2025-05-30 14:42:04.151 DBG] Twitch Rewards :: Time to save 2.9669ms
+[2025-05-30 14:42:04.154 DBG] Midi :: Time to save 2.4712ms
+[2025-05-30 14:42:04.157 DBG] OBS Settings :: Time to save 2.4235ms
+[2025-05-30 14:42:04.158 DBG] MeldStudio Settings :: Time to save 2.202ms
+[2025-05-30 14:42:04.349 DBG] Config :: Time to save 5.6789ms
+[2025-05-30 14:42:06.437 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by unsettledshimmer5 with 26 arguments
+[2025-05-30 14:42:06.438 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:42:06.438 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:42:06.438 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 6e66eef9-d24b-44e1-a1ee-fe5cef36404f), initiated by unsettledshimmer5 with 27 arguments
+[2025-05-30 14:42:06.533 DBG] TwitchApi :: Unable to lookup user: "users?login=unsettledshimmer5"
+[2025-05-30 14:42:06.533 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:42:18.827 DBG] Credits :: Time to save 1.8569ms
+[2025-05-30 14:42:19.505 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by flaurety with 28 arguments
+[2025-05-30 14:42:19.505 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:42:19.505 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:42:19.505 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, a561e358-6833-495b-9b1b-d07d296395ed), initiated by flaurety with 29 arguments
+[2025-05-30 14:42:27.867 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.028ms
+[2025-05-30 14:42:27.960 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.0672ms)
+[2025-05-30 14:43:27.880 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2025-05-30 14:43:27.975 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.325ms)
+[2025-05-30 14:44:27.885 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0245ms
+[2025-05-30 14:44:27.981 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6196ms)
+[2025-05-30 14:45:27.885 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.04ms
+[2025-05-30 14:45:27.979 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4422ms)
+[2025-05-30 14:46:27.898 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0255ms
+[2025-05-30 14:46:27.990 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5041ms)
+[2025-05-30 14:47:18.848 DBG] Credits :: Time to save 1.5142ms
+[2025-05-30 14:47:20.104 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 14:47:20.104 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 14:47:20.104 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:47:20.104 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 7fbaf80c-e87f-404c-b65d-554aa4917eaf)
+[2025-05-30 14:47:27.905 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0271ms
+[2025-05-30 14:47:28.613 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (708.6ms)
+[2025-05-30 14:48:27.918 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2025-05-30 14:48:28.009 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5128ms)
+[2025-05-30 14:49:27.920 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0266ms
+[2025-05-30 14:49:28.012 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.4983ms)
+[2025-05-30 14:50:27.942 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 14:50:28.040 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9427ms)
+[2025-05-30 14:51:27.954 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0294ms
+[2025-05-30 14:51:28.047 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2179ms)
+[2025-05-30 14:52:18.856 DBG] Credits :: Time to save 1.4267ms
+[2025-05-30 14:52:27.958 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0257ms
+[2025-05-30 14:52:28.049 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.7608ms)
+[2025-05-30 14:53:27.971 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.029ms
+[2025-05-30 14:53:28.066 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.752ms)
+[2025-05-30 14:54:27.986 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0378ms
+[2025-05-30 14:54:28.080 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.696ms)
+[2025-05-30 14:54:35.778 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by creatisbot with 26 arguments
+[2025-05-30 14:54:35.778 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:54:35.778 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:54:35.778 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 437407b4-d8b6-458d-a919-688b198efaf7), initiated by creatisbot with 27 arguments
+[2025-05-30 14:55:27.990 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0277ms
+[2025-05-30 14:55:28.081 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3824ms)
+[2025-05-30 14:56:04.474 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by very_slow_slothy with 26 arguments
+[2025-05-30 14:56:04.474 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:56:04.474 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:56:04.474 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, b38825df-7b0f-45a6-a324-9501cf8fb91d), initiated by very_slow_slothy with 27 arguments
+[2025-05-30 14:56:28.004 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 14:56:28.102 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.2267ms)
+[2025-05-30 14:57:18.862 DBG] Credits :: Time to save 1.8769ms
+[2025-05-30 14:57:20.627 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 14:57:20.627 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 14:57:20.627 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:57:20.627 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 25a1e1ac-f70a-4636-8e13-7da2d213f468)
+[2025-05-30 14:57:28.013 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0298ms
+[2025-05-30 14:57:28.109 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9958ms)
+[2025-05-30 14:58:28.027 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0254ms
+[2025-05-30 14:58:28.116 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.5244ms)
+[2025-05-30 14:59:28.035 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0313ms
+[2025-05-30 14:59:28.135 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.8152ms)
+[2025-05-30 14:59:30.779 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by hanagaki_ttv with 26 arguments
+[2025-05-30 14:59:30.779 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:59:30.779 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:59:30.779 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 6bc46d29-ad68-48c3-b400-399c433dd1fe), initiated by hanagaki_ttv with 27 arguments
+[2025-05-30 14:59:30.873 DBG] TwitchApi :: Unable to lookup user: "users?login=hanagaki_ttv"
+[2025-05-30 14:59:30.873 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:59:37.287 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by liturgicalmicrophone with 26 arguments
+[2025-05-30 14:59:37.287 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:59:37.287 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:59:37.287 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 5b95c3fd-138e-4768-af8b-6115443a2c26), initiated by liturgicalmicrophone with 27 arguments
+[2025-05-30 14:59:37.398 DBG] TwitchApi :: Unable to lookup user: "users?login=liturgicalmicrophone"
+[2025-05-30 14:59:37.398 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 14:59:52.673 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by movo with 26 arguments
+[2025-05-30 14:59:52.673 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 14:59:52.673 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 14:59:52.673 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 5962986e-4bc1-41c6-8eb6-6a9e426a42b1), initiated by movo with 27 arguments
+[2025-05-30 15:00:28.050 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0256ms
+[2025-05-30 15:00:28.230 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (180.2367ms)
+[2025-05-30 15:01:28.054 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0377ms
+[2025-05-30 15:01:28.146 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5558ms)
+[2025-05-30 15:02:18.872 DBG] Credits :: Time to save 1.5372ms
+[2025-05-30 15:02:28.063 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0239ms
+[2025-05-30 15:02:28.163 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.7588ms)
+[2025-05-30 15:03:28.067 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0243ms
+[2025-05-30 15:03:28.164 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1876ms)
+[2025-05-30 15:04:28.072 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0321ms
+[2025-05-30 15:04:28.170 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.4519ms)
+[2025-05-30 15:05:28.080 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2025-05-30 15:05:28.550 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (470.6502ms)
+[2025-05-30 15:06:28.100 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0333ms
+[2025-05-30 15:06:28.197 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.729ms)
+[2025-05-30 15:07:18.887 DBG] Credits :: Time to save 1.3156ms
+[2025-05-30 15:07:21.012 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 15:07:21.012 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 15:07:21.012 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:07:21.012 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8a36e9e4-4358-41d2-8d7a-5f24bc2a49da)
+[2025-05-30 15:07:28.106 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0257ms
+[2025-05-30 15:07:28.202 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.363ms)
+[2025-05-30 15:07:40.337 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by kaysahs with 26 arguments
+[2025-05-30 15:07:40.337 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 15:07:40.337 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:07:40.338 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 6c6fe00d-e19c-480a-b797-3df4fc6d05b6), initiated by kaysahs with 27 arguments
+[2025-05-30 15:08:28.121 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0305ms
+[2025-05-30 15:08:28.217 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1132ms)
+[2025-05-30 15:09:28.138 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0297ms
+[2025-05-30 15:09:28.241 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.775ms)
+[2025-05-30 15:10:28.142 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0642ms
+[2025-05-30 15:10:28.411 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (269.4323ms)
+[2025-05-30 15:11:28.148 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0431ms
+[2025-05-30 15:11:28.239 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3495ms)
+[2025-05-30 15:12:18.891 DBG] Credits :: Time to save 1.9856ms
+[2025-05-30 15:12:28.163 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0324ms
+[2025-05-30 15:12:28.260 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3099ms)
+[2025-05-30 15:13:28.179 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0319ms
+[2025-05-30 15:13:28.276 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.957ms)
+[2025-05-30 15:14:28.186 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0244ms
+[2025-05-30 15:14:28.275 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.7757ms)
+[2025-05-30 15:15:28.201 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0257ms
+[2025-05-30 15:15:28.308 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (107.4778ms)
+[2025-05-30 15:16:28.212 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2025-05-30 15:16:28.308 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4114ms)
+[2025-05-30 15:17:18.906 DBG] Credits :: Time to save 1.7932ms
+[2025-05-30 15:17:21.376 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 15:17:21.376 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 15:17:21.376 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:17:21.376 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8f09c23d-01ab-415e-9c1b-2914ccb37baf)
+[2025-05-30 15:17:28.228 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0281ms
+[2025-05-30 15:17:28.322 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.0342ms)
+[2025-05-30 15:18:28.228 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0266ms
+[2025-05-30 15:18:28.330 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.5042ms)
+[2025-05-30 15:19:28.233 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 15:19:28.323 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.2037ms)
+[2025-05-30 15:20:28.252 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0266ms
+[2025-05-30 15:20:28.355 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (104.2481ms)
+[2025-05-30 15:21:28.267 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0298ms
+[2025-05-30 15:21:28.364 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6361ms)
+[2025-05-30 15:22:18.918 DBG] Credits :: Time to save 1.4137ms
+[2025-05-30 15:22:28.273 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0502ms
+[2025-05-30 15:22:28.375 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.5903ms)
+[2025-05-30 15:23:28.278 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0255ms
+[2025-05-30 15:23:28.374 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.7959ms)
+[2025-05-30 15:23:43.409 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by 8roe with 26 arguments
+[2025-05-30 15:23:43.409 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 15:23:43.409 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:23:43.409 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 5e6fe1c5-a20c-46e1-b36b-11d88300e6b6), initiated by 8roe with 27 arguments
+[2025-05-30 15:23:43.506 DBG] TwitchApi :: Unable to lookup user: "users?login=8roe"
+[2025-05-30 15:23:43.506 ERR] Unable to set OBS browser URL, invalid URL, "%targetUserProfileImageUrl%"
+System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at _RSEKRVP1GPdVROJaJED6HYx9fLo._MIaxBF48E82KDFekUfr3ZUlDJvU.MoveNext()
+[2025-05-30 15:23:49.673 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by wackyjackietv with 26 arguments
+[2025-05-30 15:23:49.673 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 15:23:49.673 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:23:49.673 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 94683e0f-ba31-48a8-8807-7271729b98b8), initiated by wackyjackietv with 27 arguments
+[2025-05-30 15:24:28.288 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0279ms
+[2025-05-30 15:24:28.383 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4309ms)
+[2025-05-30 15:25:28.288 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0244ms
+[2025-05-30 15:25:28.380 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7882ms)
+[2025-05-30 15:26:28.298 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0266ms
+[2025-05-30 15:26:28.401 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.8139ms)
+[2025-05-30 15:27:18.924 DBG] Credits :: Time to save 1.9486ms
+[2025-05-30 15:27:22.268 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 15:27:22.268 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 15:27:22.268 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:27:22.268 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 603856eb-b5e2-4b71-af16-302501505299)
+[2025-05-30 15:27:28.307 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2025-05-30 15:27:28.409 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.14ms)
+[2025-05-30 15:28:28.310 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0292ms
+[2025-05-30 15:28:28.402 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.1949ms)
+[2025-05-30 15:29:28.320 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0295ms
+[2025-05-30 15:29:28.416 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0907ms)
+[2025-05-30 15:30:28.325 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0251ms
+[2025-05-30 15:30:28.418 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2763ms)
+[2025-05-30 15:31:28.340 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.029ms
+[2025-05-30 15:31:28.444 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (105.2256ms)
+[2025-05-30 15:32:18.924 DBG] Credits :: Time to save 1.4867ms
+[2025-05-30 15:32:28.347 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.028ms
+[2025-05-30 15:32:28.480 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (133.8849ms)
+[2025-05-30 15:33:28.351 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2025-05-30 15:33:28.449 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.7844ms)
+[2025-05-30 15:34:28.355 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0272ms
+[2025-05-30 15:34:28.451 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0245ms)
+[2025-05-30 15:35:28.369 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0255ms
+[2025-05-30 15:35:28.462 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2242ms)
+[2025-05-30 15:36:28.383 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0272ms
+[2025-05-30 15:36:28.493 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (110.3086ms)
+[2025-05-30 15:37:18.930 DBG] Credits :: Time to save 1.409ms
+[2025-05-30 15:37:22.489 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 15:37:22.489 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 15:37:22.489 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:37:22.489 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8d8a550d-a5af-49ce-a57d-2cf27955d141)
+[2025-05-30 15:37:28.399 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2025-05-30 15:37:28.491 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7459ms)
+[2025-05-30 15:38:28.403 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0295ms
+[2025-05-30 15:38:28.492 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.2174ms)
+[2025-05-30 15:39:28.406 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0236ms
+[2025-05-30 15:39:28.501 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5443ms)
+[2025-05-30 15:40:28.426 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0282ms
+[2025-05-30 15:40:28.520 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8292ms)
+[2025-05-30 15:41:28.441 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 15:41:28.540 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.7379ms)
+[2025-05-30 15:42:18.940 DBG] Credits :: Time to save 1.3286ms
+[2025-05-30 15:42:28.456 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2025-05-30 15:42:28.556 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.9821ms)
+[2025-05-30 15:43:28.457 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0406ms
+[2025-05-30 15:43:28.554 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.5527ms)
+[2025-05-30 15:44:28.462 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.043ms
+[2025-05-30 15:44:28.560 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.3072ms)
+[2025-05-30 15:45:28.489 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0292ms
+[2025-05-30 15:45:28.594 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (104.486ms)
+[2025-05-30 15:46:28.492 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0267ms
+[2025-05-30 15:46:28.608 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (115.4277ms)
+[2025-05-30 15:47:18.941 DBG] Credits :: Time to save 1.2655ms
+[2025-05-30 15:47:22.873 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 15:47:22.873 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 15:47:22.873 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:47:22.873 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a3bfe2c4-bc24-4c30-8bdf-66caca25b6e4)
+[2025-05-30 15:47:28.497 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0257ms
+[2025-05-30 15:47:28.586 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.7332ms)
+[2025-05-30 15:48:28.520 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0264ms
+[2025-05-30 15:48:29.250 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (730.6069ms)
+[2025-05-30 15:49:28.531 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0345ms
+[2025-05-30 15:49:28.628 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0422ms)
+[2025-05-30 15:50:28.539 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0569ms
+[2025-05-30 15:50:28.634 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3068ms)
+[2025-05-30 15:51:28.548 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2025-05-30 15:51:28.664 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (116.1097ms)
+[2025-05-30 15:51:52.002 DBG] StreamElements Socket :: Disconnected
+[2025-05-30 15:51:52.002 INF] StreamElements Service :: Disconnected from Client
+[2025-05-30 15:51:54.012 DBG] StreamElements Service :: Retrying client connection
+[2025-05-30 15:51:54.012 INF] StreamElements Service :: Connecting to Client
+[2025-05-30 15:51:54.012 DBG] StreamElements Socket :: Opening connection
+[2025-05-30 15:51:54.342 INF] StreamElements Service :: Connected to Client
+[2025-05-30 15:52:18.951 DBG] Credits :: Time to save 1.3832ms
+[2025-05-30 15:52:28.562 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2025-05-30 15:52:28.660 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3983ms)
+[2025-05-30 15:53:28.582 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0348ms
+[2025-05-30 15:53:28.675 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2278ms)
+[2025-05-30 15:54:28.596 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.029ms
+[2025-05-30 15:54:28.692 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9991ms)
+[2025-05-30 15:55:28.604 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0393ms
+[2025-05-30 15:55:28.699 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.875ms)
+[2025-05-30 15:56:28.606 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0248ms
+[2025-05-30 15:56:28.699 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8059ms)
+[2025-05-30 15:57:18.965 DBG] Credits :: Time to save 1.3355ms
+[2025-05-30 15:57:23.226 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 15:57:23.226 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 15:57:23.226 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 15:57:23.226 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 65aaff29-32fe-4cdf-9dd2-1497fe9f69ef)
+[2025-05-30 15:57:28.611 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0287ms
+[2025-05-30 15:57:28.700 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.043ms)
+[2025-05-30 15:58:28.612 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2025-05-30 15:58:28.712 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.8929ms)
+[2025-05-30 15:59:28.619 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0299ms
+[2025-05-30 15:59:28.713 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5006ms)
+[2025-05-30 16:00:28.620 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0282ms
+[2025-05-30 16:00:28.892 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (272.1694ms)
+[2025-05-30 16:01:28.633 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0355ms
+[2025-05-30 16:01:28.727 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6102ms)
+[2025-05-30 16:02:18.991 DBG] Credits :: Time to save 1.3301ms
+[2025-05-30 16:02:28.638 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0267ms
+[2025-05-30 16:02:28.735 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.7027ms)
+[2025-05-30 16:03:28.663 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0265ms
+[2025-05-30 16:03:28.759 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4656ms)
+[2025-05-30 16:04:28.664 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0288ms
+[2025-05-30 16:04:28.760 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4708ms)
+[2025-05-30 16:05:28.668 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0397ms
+[2025-05-30 16:05:28.770 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.2013ms)
+[2025-05-30 16:06:28.694 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.039ms
+[2025-05-30 16:06:28.785 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.0876ms)
+[2025-05-30 16:07:19.003 DBG] Credits :: Time to save 1.3357ms
+[2025-05-30 16:07:23.587 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 16:07:23.587 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 16:07:23.587 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 16:07:23.587 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, d50e56ad-ebcd-4438-a551-f3518707657c)
+[2025-05-30 16:07:28.703 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 16:07:28.796 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.1916ms)
+[2025-05-30 16:08:28.719 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.031ms
+[2025-05-30 16:08:28.810 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.4658ms)
+[2025-05-30 16:09:28.737 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0269ms
+[2025-05-30 16:09:28.828 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7987ms)
+[2025-05-30 16:10:28.744 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 16:10:29.048 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (304.7817ms)
+[2025-05-30 16:11:28.747 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0273ms
+[2025-05-30 16:11:28.840 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8702ms)
+[2025-05-30 16:12:19.019 DBG] Credits :: Time to save 2.3867ms
+[2025-05-30 16:12:28.768 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2025-05-30 16:12:28.865 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8854ms)
+[2025-05-30 16:13:28.783 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0316ms
+[2025-05-30 16:13:28.885 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.3497ms)
+[2025-05-30 16:13:59.751 DBG] StreamElements Socket :: Disconnected
+[2025-05-30 16:13:59.751 INF] StreamElements Service :: Disconnected from Client
+[2025-05-30 16:14:01.771 DBG] StreamElements Service :: Retrying client connection
+[2025-05-30 16:14:01.771 INF] StreamElements Service :: Connecting to Client
+[2025-05-30 16:14:01.771 DBG] StreamElements Socket :: Opening connection
+[2025-05-30 16:14:02.097 INF] StreamElements Service :: Connected to Client
+[2025-05-30 16:14:04.703 ERR] StreamElements Socket :: Tried to send message to StreamElements, connection is not open. 2
+[2025-05-30 16:14:28.793 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 16:14:28.887 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.3052ms)
+[2025-05-30 16:15:28.818 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2025-05-30 16:15:28.911 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.461ms)
+[2025-05-30 16:16:28.832 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0285ms
+[2025-05-30 16:16:28.932 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.9071ms)
+[2025-05-30 16:17:19.023 DBG] Credits :: Time to save 1.5491ms
+[2025-05-30 16:17:24.260 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 16:17:24.260 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 16:17:24.260 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 16:17:24.260 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, e3978555-b559-42a5-918d-f3351c620367)
+[2025-05-30 16:17:28.843 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0272ms
+[2025-05-30 16:17:28.936 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8488ms)
+[2025-05-30 16:18:28.844 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0288ms
+[2025-05-30 16:18:28.942 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.018ms)
+[2025-05-30 16:19:28.853 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 16:19:28.952 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.7228ms)
+[2025-05-30 16:20:28.860 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0255ms
+[2025-05-30 16:20:28.954 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.404ms)
+[2025-05-30 16:21:19.851 DBG] StreamElements Socket :: Disconnected
+[2025-05-30 16:21:19.851 INF] StreamElements Service :: Disconnected from Client
+[2025-05-30 16:21:21.853 DBG] StreamElements Service :: Retrying client connection
+[2025-05-30 16:21:21.853 INF] StreamElements Service :: Connecting to Client
+[2025-05-30 16:21:21.853 DBG] StreamElements Socket :: Opening connection
+[2025-05-30 16:21:22.242 INF] StreamElements Service :: Connected to Client
+[2025-05-30 16:21:28.873 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2025-05-30 16:21:28.971 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8433ms)
+[2025-05-30 16:22:19.026 DBG] Credits :: Time to save 1.469ms
+[2025-05-30 16:22:28.876 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0261ms
+[2025-05-30 16:22:28.974 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.7672ms)
+[2025-05-30 16:23:28.883 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0382ms
+[2025-05-30 16:23:28.977 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.7615ms)
+[2025-05-30 16:24:28.893 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0243ms
+[2025-05-30 16:24:28.990 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9645ms)
+[2025-05-30 16:25:28.903 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0322ms
+[2025-05-30 16:25:28.998 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8977ms)
+[2025-05-30 16:26:28.907 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.033ms
+[2025-05-30 16:26:28.998 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.284ms)
+[2025-05-30 16:27:19.027 DBG] Credits :: Time to save 1.309ms
+[2025-05-30 16:27:24.461 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 16:27:24.461 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 16:27:24.461 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 16:27:24.461 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 108468c3-1804-45af-8f8c-91452b0dba4d)
+[2025-05-30 16:27:28.919 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0267ms
+[2025-05-30 16:27:29.019 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.0906ms)
+[2025-05-30 16:28:28.921 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0277ms
+[2025-05-30 16:28:29.022 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.0546ms)
+[2025-05-30 16:29:28.921 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0263ms
+[2025-05-30 16:29:29.017 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4009ms)
+[2025-05-30 16:30:28.935 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0332ms
+[2025-05-30 16:30:29.028 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8892ms)
+[2025-05-30 16:31:28.940 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0284ms
+[2025-05-30 16:31:29.034 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2173ms)
+[2025-05-30 16:32:19.032 DBG] Credits :: Time to save 2.3354ms
+[2025-05-30 16:32:28.941 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.026ms
+[2025-05-30 16:32:29.035 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.7336ms)
+[2025-05-30 16:33:28.957 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.028ms
+[2025-05-30 16:33:29.050 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2023ms)
+[2025-05-30 16:34:28.968 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0349ms
+[2025-05-30 16:34:29.067 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.8768ms)
+[2025-05-30 16:35:28.972 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0279ms
+[2025-05-30 16:35:29.067 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0106ms)
+[2025-05-30 16:36:28.987 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 16:36:29.082 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5503ms)
+[2025-05-30 16:37:19.037 DBG] Credits :: Time to save 1.6483ms
+[2025-05-30 16:37:25.056 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 16:37:25.056 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 16:37:25.056 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 16:37:25.056 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 5538d48f-bc22-4605-b50b-bf64d056f7ed)
+[2025-05-30 16:37:28.998 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0318ms
+[2025-05-30 16:37:29.095 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4788ms)
+[2025-05-30 16:38:29.002 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 16:38:29.100 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1216ms)
+[2025-05-30 16:39:29.016 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0265ms
+[2025-05-30 16:39:29.112 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.6905ms)
+[2025-05-30 16:40:29.023 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2025-05-30 16:40:29.119 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0901ms)
+[2025-05-30 16:41:29.024 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0267ms
+[2025-05-30 16:41:29.122 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1823ms)
+[2025-05-30 16:42:19.045 DBG] Credits :: Time to save 1.3822ms
+[2025-05-30 16:42:29.038 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 16:42:29.133 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3638ms)
+[2025-05-30 16:42:30.304 DBG] Streamer.bot Website Socket :: Disconnected
+[2025-05-30 16:42:30.314 INF] Streamer.bot Service :: Disconnected from Website Client
+[2025-05-30 16:42:32.346 DBG] Streamer.bot Service :: Retrying website client connection
+[2025-05-30 16:42:32.346 INF] Streamer.bot Service :: Connecting to Website Client
+[2025-05-30 16:42:32.346 DBG] Streamer.bot Website Socket :: Opening connection
+[2025-05-30 16:42:32.670 INF] Streamer.bot Service :: Website Client authenticated
+[2025-05-30 16:42:32.670 INF] Streamer.bot Service :: Connected to Website Client
+[2025-05-30 16:43:29.044 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0248ms
+[2025-05-30 16:43:29.136 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.0141ms)
+[2025-05-30 16:44:29.056 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0267ms
+[2025-05-30 16:44:29.154 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.9667ms)
+[2025-05-30 16:45:29.062 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 16:45:29.163 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.4511ms)
+[2025-05-30 16:46:29.067 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0249ms
+[2025-05-30 16:46:29.161 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.1801ms)
+[2025-05-30 16:47:19.057 DBG] Credits :: Time to save 1.9332ms
+[2025-05-30 16:47:25.393 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 16:47:25.393 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 16:47:25.393 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 16:47:25.393 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 381ef45f-26ec-4b73-bb4d-4bc375c01c9b)
+[2025-05-30 16:47:29.074 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0277ms
+[2025-05-30 16:47:29.172 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.7606ms)
+[2025-05-30 16:48:29.079 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0306ms
+[2025-05-30 16:48:29.216 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (137.8262ms)
+[2025-05-30 16:49:29.098 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0304ms
+[2025-05-30 16:49:29.749 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (650.8787ms)
+[2025-05-30 16:50:29.105 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 16:50:29.202 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3127ms)
+[2025-05-30 16:51:29.119 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2025-05-30 16:51:29.216 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.4318ms)
+[2025-05-30 16:52:19.055 DBG] Credits :: Time to save 1.3176ms
+[2025-05-30 16:52:29.133 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 16:52:29.227 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.6952ms)
+[2025-05-30 16:53:29.142 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.025ms
+[2025-05-30 16:53:29.233 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.5289ms)
+[2025-05-30 16:54:29.153 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0269ms
+[2025-05-30 16:54:29.247 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7294ms)
+[2025-05-30 16:55:29.161 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.027ms
+[2025-05-30 16:55:29.263 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.8142ms)
+[2025-05-30 16:56:29.173 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0243ms
+[2025-05-30 16:56:29.285 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (112.4872ms)
+[2025-05-30 16:57:19.068 DBG] Credits :: Time to save 1.3127ms
+[2025-05-30 16:57:26.006 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 16:57:26.006 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 16:57:26.006 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 16:57:26.006 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 983c3c6d-db51-443f-84b7-5c65e602831b)
+[2025-05-30 16:57:29.180 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0287ms
+[2025-05-30 16:57:29.274 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.723ms)
+[2025-05-30 16:58:29.208 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0268ms
+[2025-05-30 16:58:29.306 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9186ms)
+[2025-05-30 16:59:29.223 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0283ms
+[2025-05-30 16:59:29.331 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (108.3262ms)
+[2025-05-30 17:00:29.227 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0283ms
+[2025-05-30 17:00:29.327 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.3779ms)
+[2025-05-30 17:01:29.234 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 17:01:29.328 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6014ms)
+[2025-05-30 17:02:19.071 DBG] Credits :: Time to save 1.4754ms
+[2025-05-30 17:02:29.245 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0294ms
+[2025-05-30 17:02:29.345 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.2893ms)
+[2025-05-30 17:03:29.261 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2025-05-30 17:03:29.360 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.7332ms)
+[2025-05-30 17:04:29.275 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0269ms
+[2025-05-30 17:04:29.368 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5387ms)
+[2025-05-30 17:05:29.281 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2025-05-30 17:05:29.407 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (126.7196ms)
+[2025-05-30 17:06:29.295 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2025-05-30 17:06:29.389 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8022ms)
+[2025-05-30 17:07:19.072 DBG] Credits :: Time to save 1.3058ms
+[2025-05-30 17:07:26.643 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 17:07:26.643 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 17:07:26.643 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:07:26.643 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 0af8383f-9893-4301-878e-f555da9eaf41)
+[2025-05-30 17:07:29.295 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0279ms
+[2025-05-30 17:07:29.394 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.3368ms)
+[2025-05-30 17:08:29.296 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2025-05-30 17:08:29.396 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.9144ms)
+[2025-05-30 17:09:29.306 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0436ms
+[2025-05-30 17:09:29.401 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1019ms)
+[2025-05-30 17:10:29.313 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0296ms
+[2025-05-30 17:10:29.494 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (181.1892ms)
+[2025-05-30 17:11:29.320 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0288ms
+[2025-05-30 17:11:29.415 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0263ms)
+[2025-05-30 17:11:50.051 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 15 arguments
+[2025-05-30 17:11:50.051 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2025-05-30 17:11:50.051 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:11:50.051 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067, 2eb393d3-232c-48ee-9b7f-bddc8ef5f259)
+[2025-05-30 17:12:11.674 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by volanradooga with 27 arguments
+[2025-05-30 17:12:11.674 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:12:11.674 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:12:11.674 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 068d6920-972e-4ce5-bdf3-e5e4626232ee), initiated by volanradooga with 28 arguments
+[2025-05-30 17:12:19.086 DBG] Credits :: Time to save 1.3479ms
+[2025-05-30 17:12:29.334 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0248ms
+[2025-05-30 17:12:29.426 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8886ms)
+[2025-05-30 17:13:29.338 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.2391ms
+[2025-05-30 17:13:29.428 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.9725ms)
+[2025-05-30 17:14:29.343 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0252ms
+[2025-05-30 17:14:29.446 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (103.772ms)
+[2025-05-30 17:15:29.356 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0304ms
+[2025-05-30 17:15:29.448 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.6545ms)
+[2025-05-30 17:16:29.381 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0263ms
+[2025-05-30 17:16:29.482 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.4839ms)
+[2025-05-30 17:17:19.098 DBG] Credits :: Time to save 1.6603ms
+[2025-05-30 17:17:26.987 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 17:17:26.988 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 17:17:26.988 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:17:26.988 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, ec6d8474-0453-4d72-b6eb-6be80ab2c74e)
+[2025-05-30 17:17:29.386 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0248ms
+[2025-05-30 17:17:29.482 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8155ms)
+[2025-05-30 17:18:29.390 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0284ms
+[2025-05-30 17:18:29.498 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (108.9898ms)
+[2025-05-30 17:19:29.391 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0355ms
+[2025-05-30 17:19:29.486 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3517ms)
+[2025-05-30 17:20:29.404 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2025-05-30 17:20:29.506 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.5571ms)
+[2025-05-30 17:20:40.258 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by chickengood0 with 26 arguments
+[2025-05-30 17:20:40.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:20:40.259 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:20:40.259 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, ad13b7c6-543b-4854-8b6b-cca42b88093d), initiated by chickengood0 with 27 arguments
+[2025-05-30 17:21:29.408 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0282ms
+[2025-05-30 17:21:29.496 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.0774ms)
+[2025-05-30 17:22:14.955 DBG] Actions :: Time to save 5.0753ms
+[2025-05-30 17:22:14.964 DBG] Actions :: Time to save 8.1094ms
+[2025-05-30 17:22:19.106 DBG] Credits :: Time to save 1.6503ms
+[2025-05-30 17:22:29.410 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0266ms
+[2025-05-30 17:22:29.504 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by rija18 with 26 arguments
+[2025-05-30 17:22:29.504 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:22:29.504 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:22:29.504 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, b5d4f3ec-4940-412b-9e80-1ab3ecd15f22), initiated by rija18 with 27 arguments
+[2025-05-30 17:22:29.506 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.1686ms)
+[2025-05-30 17:23:29.419 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0292ms
+[2025-05-30 17:23:29.514 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9145ms)
+[2025-05-30 17:24:26.262 DBG] Actions :: Time to save 7.9781ms
+[2025-05-30 17:24:26.270 DBG] Actions :: Time to save 8.0488ms
+[2025-05-30 17:24:28.108 DBG] Actions :: Time to save 7.8995ms
+[2025-05-30 17:24:29.433 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0265ms
+[2025-05-30 17:24:29.529 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.439ms)
+[2025-05-30 17:24:33.886 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by movo with 26 arguments
+[2025-05-30 17:24:33.886 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:24:33.886 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:24:33.888 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 51f2c256-c24d-4498-b062-a042ab4aa7c8), initiated by movo with 27 arguments
+[2025-05-30 17:25:10.658 ERR] Delay :: Unable to parse '30,867' to an integer
+[2025-05-30 17:25:29.435 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0404ms
+[2025-05-30 17:25:29.534 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.4635ms)
+[2025-05-30 17:26:29.441 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0291ms
+[2025-05-30 17:26:29.536 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7957ms)
+[2025-05-30 17:27:19.119 DBG] Credits :: Time to save 1.4714ms
+[2025-05-30 17:27:27.409 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 17:27:27.409 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 17:27:27.409 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:27:27.409 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 18900dd4-257c-49a3-8e72-5bb41b91fb30)
+[2025-05-30 17:27:29.446 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 17:27:29.540 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.9992ms)
+[2025-05-30 17:27:52.416 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by agentreckoner with 26 arguments
+[2025-05-30 17:27:52.416 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:27:52.416 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:27:52.416 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 6a757ec6-f600-4095-9f59-600ef8b70f80), initiated by agentreckoner with 27 arguments
+[2025-05-30 17:28:29.451 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0291ms
+[2025-05-30 17:28:29.545 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.7332ms)
+[2025-05-30 17:29:29.452 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0322ms
+[2025-05-30 17:29:29.559 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (107.4979ms)
+[2025-05-30 17:30:10.166 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 15 arguments
+[2025-05-30 17:30:10.166 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2025-05-30 17:30:10.166 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:30:10.166 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067, de763aa5-d9e1-46cb-ad10-68dd54234544)
+[2025-05-30 17:30:13.445 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by kaysahs with 26 arguments
+[2025-05-30 17:30:13.445 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:30:13.445 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:30:13.445 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 91f911bb-f866-4b97-93bc-d3b6fbba160e), initiated by kaysahs with 27 arguments
+[2025-05-30 17:30:29.466 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2025-05-30 17:30:29.565 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.49ms)
+[2025-05-30 17:31:29.466 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0304ms
+[2025-05-30 17:31:29.559 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2182ms)
+[2025-05-30 17:32:19.134 DBG] Credits :: Time to save 1.3507ms
+[2025-05-30 17:32:29.478 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0285ms
+[2025-05-30 17:32:29.573 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1535ms)
+[2025-05-30 17:33:29.506 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2025-05-30 17:33:29.606 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.2902ms)
+[2025-05-30 17:34:29.515 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0307ms
+[2025-05-30 17:34:29.611 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.3877ms)
+[2025-05-30 17:34:44.817 DBG] ActionDispatcher :: Queueing 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202) to 'Default' (00000000-0000-0000-0000-000000000000), initiated by chrism146 with 26 arguments
+[2025-05-30 17:34:44.817 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 5e3037f6-014e-48b7-8fc0-cea63e523202
+[2025-05-30 17:34:44.817 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:34:44.817 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'User Banned' (5e3037f6-014e-48b7-8fc0-cea63e523202, 800437ef-2a0a-4e60-8568-0dc528dc2073), initiated by chrism146 with 27 arguments
+[2025-05-30 17:35:29.524 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0282ms
+[2025-05-30 17:35:29.616 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.9958ms)
+[2025-05-30 17:36:29.529 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0434ms
+[2025-05-30 17:36:29.629 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.7829ms)
+[2025-05-30 17:37:19.147 DBG] Credits :: Time to save 1.3981ms
+[2025-05-30 17:37:27.582 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 17:37:27.582 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 17:37:27.582 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:37:27.582 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, f69e4a90-9be7-474a-b79a-13d5cebe49e8)
+[2025-05-30 17:37:29.542 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0348ms
+[2025-05-30 17:37:29.633 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.2466ms)
+[2025-05-30 17:38:29.547 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0261ms
+[2025-05-30 17:38:29.681 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (134.9014ms)
+[2025-05-30 17:39:29.550 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0282ms
+[2025-05-30 17:39:29.647 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.71ms)
+[2025-05-30 17:40:29.559 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0331ms
+[2025-05-30 17:40:29.653 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2934ms)
+[2025-05-30 17:41:29.559 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0241ms
+[2025-05-30 17:41:29.658 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.2218ms)
+[2025-05-30 17:42:19.159 DBG] Credits :: Time to save 1.5027ms
+[2025-05-30 17:42:29.565 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2025-05-30 17:42:29.662 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.411ms)
+[2025-05-30 17:43:29.580 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0336ms
+[2025-05-30 17:43:29.685 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (105.1903ms)
+[2025-05-30 17:44:29.592 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2025-05-30 17:44:29.697 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (105.6651ms)
+[2025-05-30 17:45:29.595 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.025ms
+[2025-05-30 17:45:29.690 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1855ms)
+[2025-05-30 17:46:29.596 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0281ms
+[2025-05-30 17:46:29.693 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3489ms)
+[2025-05-30 17:47:19.163 DBG] Credits :: Time to save 1.5912ms
+[2025-05-30 17:47:28.239 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 17:47:28.239 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 17:47:28.239 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:47:28.239 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, c085cfdd-12c0-4733-b5e7-bba96a140b1c)
+[2025-05-30 17:47:29.610 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2025-05-30 17:47:29.705 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9362ms)
+[2025-05-30 17:48:29.624 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0267ms
+[2025-05-30 17:48:29.725 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.5465ms)
+[2025-05-30 17:49:29.625 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0265ms
+[2025-05-30 17:49:29.720 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2218ms)
+[2025-05-30 17:50:29.625 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0249ms
+[2025-05-30 17:50:30.311 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (685.8999ms)
+[2025-05-30 17:51:29.638 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0271ms
+[2025-05-30 17:51:29.728 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.0114ms)
+[2025-05-30 17:52:19.179 DBG] Credits :: Time to save 1.2783ms
+[2025-05-30 17:52:29.647 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0269ms
+[2025-05-30 17:52:29.737 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.5372ms)
+[2025-05-30 17:53:29.647 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0525ms
+[2025-05-30 17:53:29.739 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7146ms)
+[2025-05-30 17:54:29.659 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0274ms
+[2025-05-30 17:54:29.750 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.0256ms)
+[2025-05-30 17:55:29.669 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0262ms
+[2025-05-30 17:55:29.799 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (130.8997ms)
+[2025-05-30 17:56:29.672 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0253ms
+[2025-05-30 17:56:29.784 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (112.8371ms)
+[2025-05-30 17:57:19.185 DBG] Credits :: Time to save 1.3303ms
+[2025-05-30 17:57:28.738 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 17:57:28.738 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 17:57:28.738 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 17:57:28.738 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, ab092fd6-b547-4f97-a9fd-f34c4e8453a5)
+[2025-05-30 17:57:29.685 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0238ms
+[2025-05-30 17:57:29.810 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (126.5245ms)
+[2025-05-30 17:58:29.709 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.044ms
+[2025-05-30 17:58:29.805 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4759ms)
+[2025-05-30 17:59:29.717 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0248ms
+[2025-05-30 17:59:29.806 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.339ms)
+[2025-05-30 18:00:29.729 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0319ms
+[2025-05-30 18:00:29.846 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (117.8229ms)
+[2025-05-30 18:01:29.735 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.024ms
+[2025-05-30 18:01:29.831 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.3483ms)
+[2025-05-30 18:02:19.188 DBG] Credits :: Time to save 1.3341ms
+[2025-05-30 18:02:29.756 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0245ms
+[2025-05-30 18:02:29.852 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0355ms)
+[2025-05-30 18:03:29.761 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0261ms
+[2025-05-30 18:03:29.853 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.7284ms)
+[2025-05-30 18:04:29.762 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2025-05-30 18:04:29.858 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.8161ms)
+[2025-05-30 18:05:29.778 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0258ms
+[2025-05-30 18:05:30.153 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (375.852ms)
+[2025-05-30 18:06:29.790 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0273ms
+[2025-05-30 18:06:29.887 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.7798ms)
+[2025-05-30 18:07:19.211 DBG] Credits :: Time to save 1.5362ms
+[2025-05-30 18:07:28.981 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2025-05-30 18:07:28.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2025-05-30 18:07:28.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2025-05-30 18:07:28.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 896b9f0a-28af-46a5-a304-367cfd3b1025)
+[2025-05-30 18:07:29.804 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0271ms
+[2025-05-30 18:07:29.898 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2143ms)
+[2025-05-30 18:08:29.815 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0269ms
+[2025-05-30 18:08:29.910 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4899ms)
+[2025-05-30 18:09:03.368 DBG] OBS-Websocket5 :: Disconnected
+[2025-05-30 18:09:03.369 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2025-05-30 18:09:03.548 DBG] Actions :: Time to save 4.8415ms
+[2025-05-30 18:09:03.549 DBG] Users :: Time to save 1.6838ms
+[2025-05-30 18:09:03.551 DBG] Quotes :: Time to save 1.3202ms
+[2025-05-30 18:09:03.552 DBG] Commands :: Time to save 1.7738ms
+[2025-05-30 18:09:03.554 DBG] Twitch Rewards :: Time to save 1.3916ms
+[2025-05-30 18:09:03.555 DBG] Midi :: Time to save 1.0285ms
+[2025-05-30 18:09:03.556 DBG] OBS Settings :: Time to save 0.9638ms
+[2025-05-30 18:09:03.556 DBG] MeldStudio Settings :: Time to save 0.9374ms
+[2025-05-30 18:09:03.747 DBG] Config :: Time to save 2.1121ms
+[2025-05-30 18:09:23.343 INF] Shutting down...
+[2025-05-30 18:09:23.401 INF] Main window unloaded...
+[2025-05-30 18:09:23.572 INF] Closing services...
+[2025-05-30 18:09:23.586 DBG] UsbRemovalWatcher :: Disposed
+[2025-05-30 18:09:23.586 DBG] ProcessWatcher :: Disposed
+[2025-05-30 18:09:23.587 DBG] ProcessWatcher :: Disposed
+[2025-05-30 18:09:23.588 DBG] Events Service :: Shutting down raw event queue thread
+[2025-05-30 18:09:23.588 DBG] Events Service :: Shutting down event queue thread
+[2025-05-30 18:09:23.588 DBG] Events Service :: Shutting down application event queue thread
+[2025-05-30 18:09:23.590 DBG] Http Listener :: Channel is not active
+[2025-05-30 18:09:23.591 DBG] Websocket Server :: Stopping server
+[2025-05-30 18:09:23.592 DBG] DonorDrive :: Stopping service
+[2025-05-30 18:09:23.595 DBG] MIDI Service :: Stopping service
+[2025-05-30 18:09:23.616 DBG] Websocket Server :: Shutting down command queue thread
+[2025-05-30 18:09:23.616 DBG] Websocket Server :: Shutting down queue thread
+[2025-05-30 18:09:23.616 DBG] MIDI Service :: Shutting down event thread
+[2025-05-30 18:09:23.629 DBG] SpeechToText :: Disposing recognition engine
+[2025-05-30 18:09:23.630 DBG] SpeechToText :: Shutting down queue thread
+[2025-05-30 18:09:23.633 DBG] OBS Service :: Stopping service
+[2025-05-30 18:09:23.634 DBG] Websocket Client :: Disconnecting from all connected clients
+[2025-05-30 18:09:23.635 DBG] Websocket Custom Server :: Stopping all servers
+[2025-05-30 18:09:23.636 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2025-05-30 18:09:23.636 DBG] SLOBS Service :: Stopping service
+[2025-05-30 18:09:23.636 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2025-05-30 18:09:23.643 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2025-05-30 18:09:23.645 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2025-05-30 18:09:23.640 DBG] ActionDispatcher :: Shutting down action queues
+[2025-05-30 18:09:23.657 INF] InlineCode :: Cleaning up '0' execute code instances
+[2025-05-30 18:09:23.658 DBG] OBS Service :: Shutting down event thread
+[2025-05-30 18:09:23.660 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2025-05-30 18:09:23.660 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2025-05-30 18:09:23.660 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2025-05-30 18:09:23.660 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2025-05-30 18:09:23.660 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2025-05-30 18:09:23.660 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2025-05-30 18:09:23.670 DBG] Twitch (Broadcaster) :: Disconnected
+[2025-05-30 18:09:23.671 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2025-05-30 18:09:23.671 DBG] InlineCode :: Cleaned up execute code instances
+[2025-05-30 18:09:23.696 DBG] MeldStudio Service :: Stopping service
+[2025-05-30 18:09:23.700 DBG] MeldStudio Service :: Shutting down event thread
+[2025-05-30 18:09:23.735 DBG] Streamer.bot Website Socket :: Disconnected
+[2025-05-30 18:09:23.735 INF] Streamer.bot Service :: Disconnected from Website Client
+[2025-05-30 18:09:23.777 DBG] StreamElements Socket :: Disconnected
+[2025-05-30 18:09:23.777 INF] StreamElements Service :: Disconnected from Client
+[2025-05-30 18:09:23.855 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2025-05-30 18:09:23.856 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2025-05-30 18:09:23.954 INF] BTTV :: WebSocket Disconnected
+[2025-05-30 18:09:24.140 DBG] Twitch EventSub (Bot) :: Disconnected
+[2025-05-30 18:09:24.143 INF] TwitchService :: Disconnected from Bot EventSub
+[2025-05-30 18:09:24.205 DBG] Quotes :: Time to save 5.6167ms
+[2025-05-30 18:09:24.205 DBG] Users :: Time to save 5.8183ms
+[2025-05-30 18:09:24.205 DBG] Credits :: Time to save 5.2005ms
+[2025-05-30 18:09:24.206 DBG] OBS Settings :: Time to save 6.8512ms
+[2025-05-30 18:09:24.212 DBG] MeldStudio Settings :: Time to save 12.5763ms
+[2025-05-30 18:09:24.215 DBG] Midi :: Time to save 15.6674ms
+[2025-05-30 18:09:24.216 DBG] Commands :: Time to save 16.2236ms
+[2025-05-30 18:09:24.218 DBG] Twitch Rewards :: Time to save 17.9402ms
+[2025-05-30 18:09:24.220 DBG] Config :: Time to save 19.7921ms
+[2025-05-30 18:09:24.223 DBG] Actions :: Time to save 22.8407ms
+[2025-05-30 18:09:24.230 INF] Streamer.bot exited

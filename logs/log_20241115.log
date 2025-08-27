@@ -1,0 +1,690 @@
+[2024-11-15 12:42:14.978 INF] Streamer.bot (0.2.4)
+[2024-11-15 12:42:14.995 INF] Startup Path: C:\Users\littl\Downloads\Streamer.bot-x64-0.2.4
+[2024-11-15 12:42:14.995 INF] Startup Args: 
+[2024-11-15 12:42:14.995 INF] Startup Mode: OldUI
+[2024-11-15 12:42:14.996 INF] Logging Level: Debug
+[2024-11-15 12:42:14.996 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2024-11-15 12:42:14.996 INF] Instance Name: Streamer.bot
+[2024-11-15 12:42:14.996 INF] Operating System: Windows
+[2024-11-15 12:42:14.996 INF] WebView2: Found (v130.0.2849.80)
+[2024-11-15 12:42:15.005 INF] Backing up data files
+[2024-11-15 12:42:15.085 INF] Loading config
+[2024-11-15 12:42:15.439 INF] Users :: Upgrade checks finished, 4.0231ms
+[2024-11-15 12:42:15.457 DBG] Users :: Loaded 88 users.
+[2024-11-15 12:42:15.469 DBG] Twitch Rewards :: Loaded 3 rewards.
+[2024-11-15 12:42:16.535 DBG] Actions :: Loaded 99 actions.
+[2024-11-15 12:42:16.542 DBG] OBS Settings :: Loaded.
+[2024-11-15 12:42:16.569 DBG] Commands :: Loaded 36 commands.
+[2024-11-15 12:42:16.639 DBG] MIDI :: Loaded 0 actions.
+[2024-11-15 12:42:16.892 DBG] Credits :: Performing auto reset of data, 17.4013856745833 > 12
+[2024-11-15 12:42:18.151 DBG] Splash screen opened
+[2024-11-15 12:42:18.208 DBG] UsbRemovalWatcher :: Initializing
+[2024-11-15 12:42:18.266 DBG] Trigger Service :: Initialized
+[2024-11-15 12:42:18.267 DBG] Events Service :: Starting application event queue thread
+[2024-11-15 12:42:18.267 DBG] Events Service :: Starting raw event queue thread
+[2024-11-15 12:42:18.268 DBG] Events Service :: Starting event queue thread
+[2024-11-15 12:42:18.273 DBG] Quotes :: Loaded 3 quotes.
+[2024-11-15 12:42:19.592 DBG] Setting up remaining UI
+[2024-11-15 12:42:20.486 DBG] Main UI ready
+[2024-11-15 12:42:20.490 INF] MIDI Service :: Initializing 0 MIDI devices
+[2024-11-15 12:42:20.490 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2024-11-15 12:42:20.490 INF] Hot Key Service :: Registering 0 hot key
+[2024-11-15 12:42:20.491 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2024-11-15 12:42:20.491 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2024-11-15 12:42:20.491 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2024-11-15 12:42:20.491 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2024-11-15 12:42:20.491 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2024-11-15 12:42:20.492 DBG] Websocket Client :: Auto connecting to clients
+[2024-11-15 12:42:20.494 DBG] OBS Service :: Starting event thread
+[2024-11-15 12:42:20.494 DBG] Websocket Custom Server :: Auto starting servers
+[2024-11-15 12:42:20.494 DBG] MIDI Service :: Starting event thread
+[2024-11-15 12:42:20.504 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2024-11-15 12:42:20.508 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2024-11-15 12:42:20.530 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2024-11-15 12:42:20.532 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2024-11-15 12:42:20.538 DBG] Main Window Shown
+[2024-11-15 12:42:20.694 INF] StreamElements :: Logging into account
+[2024-11-15 12:42:20.698 DBG] OBS :: Connected to OBS (127.0.0.1:4455)
+[2024-11-15 12:42:20.832 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2024-11-15 12:42:20.833 INF] StreamElements Service :: Connecting to Client
+[2024-11-15 12:42:20.837 DBG] StreamElements Socket :: Opening connection
+[2024-11-15 12:42:21.046 INF] TwitchService :: Logging into bot account
+[2024-11-15 12:42:21.071 INF] TwitchService :: Logging into broadcaster account
+[2024-11-15 12:42:21.209 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2024-11-15 12:42:21.210 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2024-11-15 12:42:21.211 INF] TwitchService :: Connecting to Bot Chat Client
+[2024-11-15 12:42:21.258 DBG] Splash screen closed
+[2024-11-15 12:42:21.266 INF] StreamElements Service :: Connected to Client
+[2024-11-15 12:42:21.316 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2024-11-15 12:42:21.317 DBG] Twitch (Bot) :: Opening connection
+[2024-11-15 12:42:21.319 DBG] Twitch Service :: Init rest
+[2024-11-15 12:42:21.321 INF] 7TV :: Initializing user '50822403', on twitch
+[2024-11-15 12:42:21.331 INF] BTTV :: Initializing user '50822403', on twitch
+[2024-11-15 12:42:21.333 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2024-11-15 12:42:21.339 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2024-11-15 12:42:21.412 INF] 7TV :: Loaded 42 global emotes
+[2024-11-15 12:42:21.443 DBG] Twitch (Bot) :: Connected to irc.chat.twitch.tv:6697 (44.227.173.36:6697)
+[2024-11-15 12:42:21.443 DBG] Twitch (Bot) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2024-11-15 12:42:21.457 INF] BTTV :: Loaded 65 global emotes
+[2024-11-15 12:42:21.466 INF] FFZ :: Loaded 15 global emotes
+[2024-11-15 12:42:21.534 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2024-11-15 12:42:21.534 INF] FFZ :: Loaded 0 channel emotes
+[2024-11-15 12:42:21.555 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2024-11-15 12:42:21.600 DBG] Twitch (Bot) :: Twitch Client Socket opened
+[2024-11-15 12:42:21.627 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2024-11-15 12:42:21.774 DBG] Twitch (Bot) :: Listening and Authenticated
+[2024-11-15 12:42:21.775 INF] TwitchService :: Connected to Bot Chat Client
+[2024-11-15 12:42:21.779 DBG] Twitch Service :: Loaded 35 Twitch cheer emotes
+[2024-11-15 12:42:21.885 DBG] Config :: Time to save 67.3567ms
+[2024-11-15 12:42:22.023 DBG] Twitch Service :: Loaded 129 Twitch badges
+[2024-11-15 12:42:23.460 DBG] Twitch Service :: Loaded 932 Twitch user emotes
+[2024-11-15 12:42:23.915 DBG] Getting viewers for channel "atomsmasher101" (2)
+[2024-11-15 12:42:23.917 DBG] Twitch Service :: Fetched viewers for channel (2)
+[2024-11-15 12:42:23.922 DBG] Twitch Service :: (2) - Existing: 2, New Users: 0 (3.5811ms)
+[2024-11-15 12:42:23.922 DBG] Twitch Service :: Viewers init in 458.4092ms
+[2024-11-15 12:42:23.923 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2024-11-15 12:42:24.023 DBG] Twitch Service :: Found 0 editors for channel atomsmasher101
+[2024-11-15 12:42:24.170 INF] Twitch Service :: Found 11 Moderators for the channel atomsmasher101
+[2024-11-15 12:42:24.296 INF] Twitch Service :: Found 3 VIPs for the channel atomsmasher101
+[2024-11-15 12:42:24.299 DBG] ViewerRepo :: Time to update mods and VIPs, 0.7695ms (nm: 0, em: 11, nv: 0, ev: 3, ru: 0)
+[2024-11-15 12:42:24.299 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 273.0425ms
+[2024-11-15 12:42:24.301 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2024-11-15 12:42:24.726 DBG] Twitch Service :: "AtomSmasher101" has 14 subscriptions.
+[2024-11-15 12:42:24.758 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2024-11-15 12:42:24.760 INF] TwitchService :: Connecting to Broadcaster PubSub
+[2024-11-15 12:42:24.765 DBG] Twitch PubSub :: Opening connection
+[2024-11-15 12:42:24.765 DBG] Twitch PubSub :: Clearing listening topics.
+[2024-11-15 12:42:24.769 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2024-11-15 12:42:24.773 DBG] Twitch EventSub :: Opening connection
+[2024-11-15 12:42:24.857 DBG] Twitch (Broadcaster) :: Opening connection
+[2024-11-15 12:42:24.926 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (44.227.173.36:6697)
+[2024-11-15 12:42:24.926 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2024-11-15 12:42:24.952 DBG] Twitch EventSub :: Subscribing to 54 events
+[2024-11-15 12:42:25.063 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2024-11-15 12:42:25.091 DBG] Twitch PubSub :: Socket opened
+[2024-11-15 12:42:25.093 DBG] Twitch PubSub :: Sending 4 topics for listening
+[2024-11-15 12:42:25.221 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2024-11-15 12:42:25.224 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2024-11-15 12:42:25.227 DBG] Twitch (Bot) :: Joining chanel #atomsmasher101
+[2024-11-15 12:42:25.227 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2024-11-15 12:42:25.330 INF] TwitchService :: Connected to Broadcaster PubSub, and authenticated
+[2024-11-15 12:42:25.393 DBG] Twitch Service :: 1 users joined, existing (1), new (0)
+[2024-11-15 12:42:28.901 DBG] Twitch Service :: 1 users joined, existing (1), new (0)
+[2024-11-15 12:42:31.293 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2024-11-15 12:43:17.610 DBG] Actions :: Time to save 102.2004ms
+[2024-11-15 12:43:24.734 INF] BTTV :: WebSocket Connected
+[2024-11-15 12:43:25.083 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.1899ms
+[2024-11-15 12:43:25.184 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.7125ms)
+[2024-11-15 12:43:32.598 DBG] Actions :: Time to save 10.6786ms
+[2024-11-15 12:44:03.127 DBG] Actions :: Time to save 10.5395ms
+[2024-11-15 12:44:03.137 DBG] Actions :: Time to save 9.461ms
+[2024-11-15 12:44:09.629 DBG] Actions :: Time to save 10.0726ms
+[2024-11-15 12:44:09.641 DBG] Actions :: Time to save 10.3505ms
+[2024-11-15 12:44:25.099 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0204ms
+[2024-11-15 12:44:25.190 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.6426ms)
+[2024-11-15 12:44:25.448 DBG] Actions :: Time to save 11.6866ms
+[2024-11-15 12:44:25.458 DBG] Actions :: Time to save 10.5462ms
+[2024-11-15 12:44:32.105 DBG] Twitch Service :: 1 users joined, existing (1), new (0)
+[2024-11-15 12:44:36.815 DBG] StreamElements Socket :: Disconnected
+[2024-11-15 12:44:36.817 INF] StreamElements Service :: Disconnected from Client
+[2024-11-15 12:44:38.822 DBG] StreamElements Service :: Retrying client connection
+[2024-11-15 12:44:38.822 INF] StreamElements Service :: Connecting to Client
+[2024-11-15 12:44:38.822 DBG] StreamElements Socket :: Opening connection
+[2024-11-15 12:44:39.150 INF] StreamElements Service :: Connected to Client
+[2024-11-15 12:45:04.783 DBG] Actions :: Time to save 11.8375ms
+[2024-11-15 12:45:04.793 DBG] Actions :: Time to save 10.217ms
+[2024-11-15 12:45:06.563 DBG] Actions :: Time to save 10.3659ms
+[2024-11-15 12:45:25.114 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0244ms
+[2024-11-15 12:45:25.210 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5684ms)
+[2024-11-15 12:46:04.665 DBG] HotKey Service :: Registered hot key Alt, Ctrl + VK_OEM_6
+[2024-11-15 12:46:18.595 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:46:18.597 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:46:18.597 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:46:18.604 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (22380772-5b2c-4a4b-a099-c8c791900892)
+[2024-11-15 12:46:25.121 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0271ms
+[2024-11-15 12:46:25.212 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.43ms)
+[2024-11-15 12:46:29.060 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:46:29.060 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:46:29.060 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:46:29.060 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:46:29.060 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (5d38ddff-cb56-4a83-9840-d95fa2974328)
+[2024-11-15 12:46:29.060 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:46:29.060 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:46:29.060 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (5739bebe-f9af-434c-98df-ecee6ffafade)
+[2024-11-15 12:46:46.740 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:46:46.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:46:46.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:46:46.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (c1a56809-f289-476a-b112-866901a83556)
+[2024-11-15 12:46:46.740 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:46:46.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:46:46.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:46:46.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (5929fe6f-2662-43d1-a7aa-59eebd72ede1)
+[2024-11-15 12:46:50.966 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:46:50.966 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:46:50.966 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:46:50.966 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (fd431951-9116-424f-b5f0-2f057d2d021c)
+[2024-11-15 12:47:00.791 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:00.791 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:47:00.791 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:00.791 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (f1c52f14-fa75-46b7-a8f9-be5412c687d4)
+[2024-11-15 12:47:00.791 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:00.791 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:47:00.791 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:00.791 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (6b3c358c-8981-4eac-9a78-42d0d9621693)
+[2024-11-15 12:47:10.274 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:10.274 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:47:10.274 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:10.274 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:10.274 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (08a0ca89-2b59-44c0-9946-dd5ff27b2b0b)
+[2024-11-15 12:47:10.274 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:47:10.274 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:10.274 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (040e3180-30de-4f75-975a-0326696a2dae)
+[2024-11-15 12:47:16.910 DBG] Credits :: Time to save 4.617ms
+[2024-11-15 12:47:24.847 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:47:24.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:47:24.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:24.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (aa30cefe-604d-4022-8e39-33f2050af4aa)
+[2024-11-15 12:47:25.130 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0258ms
+[2024-11-15 12:47:25.223 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8175ms)
+[2024-11-15 12:47:34.675 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:34.675 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:47:34.675 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:34.675 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (51244fa6-bbaf-4df0-a468-7d83cc27feb0)
+[2024-11-15 12:47:34.675 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:34.675 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:47:34.675 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:34.675 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (df9b13d8-3cee-41b8-b714-1a4b1e5657ba)
+[2024-11-15 12:47:48.141 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:48.141 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:47:48.141 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:48.141 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:47:48.141 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (77734d7c-ddb6-4c0f-a27a-02a37cc8f4ad)
+[2024-11-15 12:47:48.141 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:47:48.141 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:47:48.141 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (9ba2cdbe-baab-43ab-b78d-df8e98af7933)
+[2024-11-15 12:48:06.793 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:48:06.793 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:48:06.793 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:06.793 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (0444e942-56a8-4507-95f2-f5b983f7449a)
+[2024-11-15 12:48:16.608 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:48:16.608 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:48:16.608 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:16.608 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:48:16.608 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (0cca6a9b-b89c-4eb2-ae73-5b980ea57d53)
+[2024-11-15 12:48:16.608 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:48:16.608 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:16.608 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (1cc82c31-aaf9-4121-b964-6c655b8bdf65)
+[2024-11-15 12:48:25.135 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0339ms
+[2024-11-15 12:48:25.230 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3221ms)
+[2024-11-15 12:48:36.258 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:48:36.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:48:36.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:36.258 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:48:36.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (3cb518b8-81f5-4eab-aa50-9f79a42c062b)
+[2024-11-15 12:48:36.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:48:36.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:36.258 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (3617d707-e61e-4e3b-9ca2-e60e3112dfa1)
+[2024-11-15 12:48:39.332 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:48:39.332 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:48:39.332 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:39.332 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (abea4af0-1cd9-41f3-a955-c728fbabe66e)
+[2024-11-15 12:48:49.160 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:48:49.160 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:48:49.160 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:49.160 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:48:49.160 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (f670b9b3-80f9-4670-9fe2-741b7064e590)
+[2024-11-15 12:48:49.160 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:48:49.160 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:48:49.160 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (6ff4153d-9bcb-4350-9ee4-319a41379933)
+[2024-11-15 12:48:57.753 DBG] OBS-Websocket5 :: Disconnected
+[2024-11-15 12:48:57.754 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2024-11-15 12:49:25.144 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0251ms
+[2024-11-15 12:49:25.239 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2085ms)
+[2024-11-15 12:49:27.765 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2024-11-15 12:49:27.765 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2024-11-15 12:49:27.765 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2024-11-15 12:49:27.767 DBG] OBS :: Connected to OBS (127.0.0.1:4455)
+[2024-11-15 12:49:28.264 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:49:28.264 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:49:28.264 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:49:28.264 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (650aba13-0fe8-4a20-a02a-fc0d2eb9a9b5)
+[2024-11-15 12:49:38.082 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:49:38.082 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:49:38.082 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:49:38.082 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (57d243dc-569e-4571-8550-32099f0177aa)
+[2024-11-15 12:49:38.082 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:49:38.082 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:49:38.082 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:49:38.082 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (61b9a14a-bf58-4255-aa2e-73b934953a8b)
+[2024-11-15 12:50:25.152 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0314ms
+[2024-11-15 12:50:25.260 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (108.4112ms)
+[2024-11-15 12:50:57.702 DBG] ActionDispatcher :: Queueing 'Reset Webcam Robot Wars' (325e921d-e006-464d-8d59-53b8cbb3a80f) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:50:57.703 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 325e921d-e006-464d-8d59-53b8cbb3a80f
+[2024-11-15 12:50:57.703 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:50:57.703 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Robot Wars' (885b8f26-e475-4c5e-83f0-69165760a8ef)
+[2024-11-15 12:50:57.703 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:50:57.703 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:50:57.703 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:50:57.703 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (d0450ddf-fd12-465b-bc33-87d0279f637e)
+[2024-11-15 12:51:01.249 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:51:01.249 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:51:01.249 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:51:01.249 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (c72b82f0-e75e-412b-924b-86e7888f50c0)
+[2024-11-15 12:51:01.249 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:51:01.249 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:51:01.249 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:51:01.249 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (2d7e27a0-a919-4695-8ce5-cb1cb4712276)
+[2024-11-15 12:51:25.168 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0237ms
+[2024-11-15 12:51:25.259 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.1822ms)
+[2024-11-15 12:52:16.935 DBG] Credits :: Time to save 7.7811ms
+[2024-11-15 12:52:25.174 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0192ms
+[2024-11-15 12:52:25.265 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.2943ms)
+[2024-11-15 12:53:25.176 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0286ms
+[2024-11-15 12:53:25.264 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (88.4719ms)
+[2024-11-15 12:54:25.201 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0296ms
+[2024-11-15 12:54:25.293 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.948ms)
+[2024-11-15 12:55:25.207 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2024-11-15 12:55:25.297 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.5779ms)
+[2024-11-15 12:56:25.222 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0208ms
+[2024-11-15 12:56:25.315 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8955ms)
+[2024-11-15 12:56:32.566 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:56:32.566 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:56:32.566 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:32.566 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (20074590-9afa-4ab0-b28b-b380f9b692ba)
+[2024-11-15 12:56:40.397 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:56:40.397 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:56:40.397 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:40.397 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (8d150814-b10c-42de-b19b-291a15a6c142)
+[2024-11-15 12:56:42.388 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:42.388 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:56:42.388 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:42.388 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (8c65faef-2078-4dde-96be-b7b169c67ad8)
+[2024-11-15 12:56:42.388 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:42.388 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:56:42.388 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:42.388 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (75c65283-5653-4ea6-b8b3-f30042be1424)
+[2024-11-15 12:56:49.672 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:49.672 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:56:49.672 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:49.672 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (316f654a-9887-499b-96ec-93f2d2995651)
+[2024-11-15 12:56:49.672 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:49.672 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:56:49.672 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:49.672 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (9ad483ad-5d22-445e-9a87-23608e4e7f1d)
+[2024-11-15 12:56:50.205 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:50.208 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:56:50.208 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:50.208 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (181e02e0-2d4a-4acc-8847-20fd15d09e0f)
+[2024-11-15 12:56:50.208 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:50.208 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:56:50.208 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:50.208 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (5f6fb4c3-1e5b-4e07-ab93-161e092e94d2)
+[2024-11-15 12:56:52.238 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:52.238 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:56:52.238 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:52.238 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (b90dd2e3-adc2-47ab-9071-c3b74800a8fa)
+[2024-11-15 12:56:52.238 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:56:52.238 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:56:52.238 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:56:52.238 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (2dd5c495-6b80-4bb4-8672-b1c569ace8f2)
+[2024-11-15 12:57:16.946 DBG] Credits :: Time to save 5.8367ms
+[2024-11-15 12:57:25.232 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2024-11-15 12:57:25.329 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8817ms)
+[2024-11-15 12:57:41.293 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 12:57:41.293 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 12:57:41.293 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:57:41.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (3643a479-ef33-45f0-89c7-4d444647c0d9)
+[2024-11-15 12:57:51.107 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:57:51.107 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 12:57:51.107 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:57:51.107 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (09491165-3146-43df-9247-cb2ffa8d92a1)
+[2024-11-15 12:57:51.107 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:57:51.107 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 12:57:51.107 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:57:51.107 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (1773fe64-6e15-4373-a67e-020be0a1fef8)
+[2024-11-15 12:57:55.740 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:57:55.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 12:57:55.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:57:55.740 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 12:57:55.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (a5dd6275-1c87-4307-bd3f-1dc2366d0c1d)
+[2024-11-15 12:57:55.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 12:57:55.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 12:57:55.740 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (5afb8d5f-e15f-4564-8fc6-455abbd103f8)
+[2024-11-15 12:58:25.243 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0206ms
+[2024-11-15 12:58:25.334 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.1673ms)
+[2024-11-15 12:59:25.249 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0274ms
+[2024-11-15 12:59:25.341 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.1619ms)
+[2024-11-15 13:00:25.265 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0189ms
+[2024-11-15 13:00:25.358 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8809ms)
+[2024-11-15 13:01:25.278 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0226ms
+[2024-11-15 13:01:25.367 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (88.888ms)
+[2024-11-15 13:01:54.979 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:01:54.980 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:01:54.980 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:01:54.980 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (3bb8337a-d633-40a3-b0ad-1ef6d078d536)
+[2024-11-15 13:02:04.793 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:02:04.793 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:02:04.793 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:02:04.794 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (cb01258d-7c0f-4f26-9c8a-81556676add8)
+[2024-11-15 13:02:04.794 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:02:04.794 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:02:04.794 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (a1279e0d-ed94-4da8-86ba-8441d5b98e4e)
+[2024-11-15 13:02:09.193 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:02:09.194 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:02:09.194 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:02:09.194 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (ed448c64-a6b6-474b-bcd7-8ae88d91b35e)
+[2024-11-15 13:02:09.194 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:02:09.194 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:02:09.194 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:02:09.194 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (d87e0caa-96a2-4446-b485-3e3f6c5daaa5)
+[2024-11-15 13:02:16.954 DBG] Credits :: Time to save 7.9612ms
+[2024-11-15 13:02:25.290 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.023ms
+[2024-11-15 13:02:25.381 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3588ms)
+[2024-11-15 13:02:57.057 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:02:57.057 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:02:57.057 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:02:57.057 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (e169cde5-9e8a-43b8-98b7-0c86856a3be1)
+[2024-11-15 13:03:06.878 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:06.878 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:03:06.878 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:06.878 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (1ae37232-2529-425a-892a-237020d2c2f2)
+[2024-11-15 13:03:06.878 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:06.878 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:03:06.878 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:06.878 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (3e40c02f-9703-49e9-94f7-991cdd4cea47)
+[2024-11-15 13:03:08.294 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:08.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:03:08.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:08.294 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:08.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (e490b2c3-9bf8-47db-9a24-221b8ced6a08)
+[2024-11-15 13:03:08.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:03:08.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:08.294 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (ca0ebbe1-7a82-4fa7-9ca7-9baf95d34a13)
+[2024-11-15 13:03:25.304 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0211ms
+[2024-11-15 13:03:25.400 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.4681ms)
+[2024-11-15 13:03:39.027 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:03:39.027 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:03:39.028 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:39.028 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (693885ff-9be9-4275-9f51-3a3898771b19)
+[2024-11-15 13:03:48.847 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:48.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:03:48.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:48.847 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:48.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (534b7a91-5a8e-4055-a888-89cf73430ff9)
+[2024-11-15 13:03:48.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:03:48.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:48.847 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (4636362b-99e3-4371-9c14-ef303f4795c0)
+[2024-11-15 13:03:52.111 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:52.111 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:03:52.111 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:52.111 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (9abd0e77-bf6f-4f7b-b689-caa29bfa567b)
+[2024-11-15 13:03:52.111 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:03:52.111 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:03:52.112 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:03:52.112 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (a519b0ba-f803-4e0e-8d8e-bcd0a916cd17)
+[2024-11-15 13:04:25.307 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0236ms
+[2024-11-15 13:04:25.405 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.4407ms)
+[2024-11-15 13:05:14.940 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:05:14.941 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:05:14.941 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:14.941 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (2e157ef5-9444-4342-8692-59a6e5fdf40e)
+[2024-11-15 13:05:24.764 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:05:24.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:05:24.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:24.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (d82b1690-0414-4f93-85a8-4c33f494bd21)
+[2024-11-15 13:05:24.764 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:05:24.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:05:24.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:24.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (7bc3dcf3-6878-4f73-b803-76ccebf2070d)
+[2024-11-15 13:05:25.310 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0288ms
+[2024-11-15 13:05:25.405 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7297ms)
+[2024-11-15 13:05:27.981 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:05:27.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:05:27.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:27.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (40515f13-dc17-4f0f-9a2c-fd9010c191bd)
+[2024-11-15 13:05:27.981 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:05:27.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:05:27.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:27.981 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (f87a5c30-e1e8-46ac-bf74-9950ace372ce)
+[2024-11-15 13:05:31.844 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:05:31.844 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:05:31.844 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:31.844 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (25b0e4dc-acf0-465e-811e-a5f4085d4b44)
+[2024-11-15 13:05:41.648 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:05:41.648 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:05:41.648 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:41.648 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:05:41.648 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (3ee68bfc-a3af-47c4-937c-9587207f5825)
+[2024-11-15 13:05:41.648 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:05:41.648 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:05:41.648 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (e3043c86-f797-4005-831a-bcfe8fcabc9f)
+[2024-11-15 13:06:03.423 DBG] Actions :: Time to save 12.0754ms
+[2024-11-15 13:06:03.433 DBG] Actions :: Time to save 10.2338ms
+[2024-11-15 13:06:08.547 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:08.547 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:06:08.547 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:08.547 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:08.547 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (a132fda0-5b6a-45fa-aec9-60b285d3311c)
+[2024-11-15 13:06:08.547 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:06:08.547 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:08.547 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (76b7ec5e-473b-4976-a025-de4eee51c34e)
+[2024-11-15 13:06:12.943 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:06:12.943 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:06:12.943 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:12.943 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (b7e371d0-45a8-46c9-8fba-b6acdfad76e5)
+[2024-11-15 13:06:22.764 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:22.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:06:22.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:22.764 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:22.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:06:22.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:22.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (35f449d9-fe5f-425a-89ee-113086408216)
+[2024-11-15 13:06:22.764 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (92007cb7-1b5b-4487-a217-0bde726a4c0d)
+[2024-11-15 13:06:25.334 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0259ms
+[2024-11-15 13:06:25.429 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.642ms)
+[2024-11-15 13:06:26.964 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:26.964 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:06:26.964 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:26.964 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (7955b6e2-a967-41bd-a58c-f975ed928423)
+[2024-11-15 13:06:26.964 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:26.964 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:06:26.964 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:26.964 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (55da68a8-c382-48a6-9a69-9c9a2cadd048)
+[2024-11-15 13:06:29.738 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:06:29.738 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:06:29.738 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:29.738 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (1b6fca11-f40e-46ea-9705-9a70789e8718)
+[2024-11-15 13:06:33.700 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:06:33.700 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:06:33.700 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:33.700 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (eae8cb65-c82e-4cc8-b31d-55e0ca26146c)
+[2024-11-15 13:06:39.565 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:39.565 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:06:39.565 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:39.565 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:39.565 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:06:39.565 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (859fa04a-5de8-4754-9688-eaa1f9e72dea)
+[2024-11-15 13:06:39.565 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (938ebd6e-b010-4fac-920b-700ca3f6b85b)
+[2024-11-15 13:06:46.665 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:46.665 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:06:46.665 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:46.665 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:06:46.665 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:06:46.665 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:06:46.665 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (594f40b7-be1a-4bc3-984f-c45c657988ef)
+[2024-11-15 13:06:46.665 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (14ac2e46-3637-443c-b94a-3334181a201b)
+[2024-11-15 13:07:16.961 DBG] Credits :: Time to save 8.7296ms
+[2024-11-15 13:07:25.341 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0399ms
+[2024-11-15 13:07:25.437 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6459ms)
+[2024-11-15 13:08:15.859 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:08:15.859 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:08:15.859 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:15.859 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (a8474454-9c1a-4550-ad6c-c481d71f8232)
+[2024-11-15 13:08:25.352 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0191ms
+[2024-11-15 13:08:25.445 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.6339ms)
+[2024-11-15 13:08:25.684 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:08:25.684 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:08:25.684 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:25.684 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (ee6158e9-ef25-4290-8319-1975053dc746)
+[2024-11-15 13:08:25.684 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:08:25.684 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:08:25.684 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:25.684 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (d16cbdcc-81d4-4b05-b5af-e169c32a8873)
+[2024-11-15 13:08:32.549 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:08:32.549 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:08:32.549 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:32.549 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (af4b5690-26a3-4dfc-9865-1e340bdc8db3)
+[2024-11-15 13:08:32.549 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:08:32.549 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:08:32.549 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:32.549 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (81450bb0-18ba-4551-bf96-d1e35d9e006f)
+[2024-11-15 13:08:48.804 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:08:48.804 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:08:48.804 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:48.804 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (09ee8756-87c7-4865-a1f6-61b67207e1cd)
+[2024-11-15 13:08:58.636 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:08:58.636 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:08:58.636 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:58.636 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (b881a220-0e7d-4253-b339-51905212d6eb)
+[2024-11-15 13:08:58.636 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:08:58.636 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:08:58.636 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:08:58.636 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (8339fda9-f17e-4a0a-acef-ac9c343a9555)
+[2024-11-15 13:09:11.183 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:09:11.183 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:09:11.183 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:09:11.183 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:09:11.183 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (90665ec5-b556-42ae-957a-42ad62ed41cd)
+[2024-11-15 13:09:11.183 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:09:11.183 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:09:11.183 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (63ba9a93-8f39-4250-9697-8f969516b106)
+[2024-11-15 13:09:25.363 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2024-11-15 13:09:25.458 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7187ms)
+[2024-11-15 13:10:25.376 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0272ms
+[2024-11-15 13:10:25.470 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.1715ms)
+[2024-11-15 13:10:33.469 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:10:33.469 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:10:33.469 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:10:33.469 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (d849a19c-9205-476d-bf11-ed663eda6c0a)
+[2024-11-15 13:10:43.303 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:10:43.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:10:43.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:10:43.303 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:10:43.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (7b9f8d52-7412-423b-b19f-ae2b651c497f)
+[2024-11-15 13:10:43.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:10:43.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:10:43.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (6d0c109e-acfd-4500-ab09-28d23a46a507)
+[2024-11-15 13:11:16.620 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:11:16.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:11:16.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:11:16.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (fab2d9f1-edc6-4a5c-bf12-a023fd7282f9)
+[2024-11-15 13:11:16.620 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:11:16.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:11:16.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:11:16.620 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (204d7b8d-3088-49a8-a71e-45e8ac8dd360)
+[2024-11-15 13:11:25.393 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0278ms
+[2024-11-15 13:11:25.488 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0211ms)
+[2024-11-15 13:11:38.744 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:11:38.745 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:11:38.745 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:11:38.745 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (b131ba78-8f21-429b-8e96-6302ed499c2c)
+[2024-11-15 13:11:48.571 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:11:48.571 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:11:48.571 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:11:48.571 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:11:48.571 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (3cf6846d-25b8-4e8e-9c09-d9ba9d874441)
+[2024-11-15 13:11:48.571 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:11:48.571 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:11:48.571 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (5a32178e-0e16-4dd8-ba69-617823ed8ca6)
+[2024-11-15 13:11:53.153 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:11:53.153 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:11:53.153 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:11:53.153 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:11:53.153 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:11:53.153 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (afe59b85-abca-4144-aed5-1f40b8a992e5)
+[2024-11-15 13:11:53.153 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (7bbe60b4-d7fd-4daa-bc73-12cebbf2d13d)
+[2024-11-15 13:12:16.980 DBG] Credits :: Time to save 5.9164ms
+[2024-11-15 13:12:25.395 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0277ms
+[2024-11-15 13:12:25.491 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0518ms)
+[2024-11-15 13:12:38.480 DBG] ActionDispatcher :: Queueing 'Welcome Screen' (b1087d7e-df94-4db4-ba96-6c36ca2988dd) to 'Default' (00000000-0000-0000-0000-000000000000), with 13 arguments
+[2024-11-15 13:12:38.481 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action b1087d7e-df94-4db4-ba96-6c36ca2988dd
+[2024-11-15 13:12:38.481 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:12:38.481 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Welcome Screen' (dffa40c6-ee62-415c-a825-5bf83572259c)
+[2024-11-15 13:12:48.303 DBG] ActionDispatcher :: Queueing 'Reset Webcam Just Cam' (8acf7942-d3c1-428e-9d7b-bf801bfe3788) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:12:48.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 8acf7942-d3c1-428e-9d7b-bf801bfe3788
+[2024-11-15 13:12:48.303 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:12:48.304 DBG] ActionDispatcher :: Queueing 'Enable Rads' (a6f39ad9-e4df-4cc5-8d10-46e610fa0067) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:12:48.304 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Just Cam' (5ad5a70c-3772-4d82-a7df-bef2c36eb798)
+[2024-11-15 13:12:48.304 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action a6f39ad9-e4df-4cc5-8d10-46e610fa0067
+[2024-11-15 13:12:48.304 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:12:48.304 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Enable Rads' (3980ebe5-59fd-4928-8af4-d9d51340bbd0)
+[2024-11-15 13:12:56.054 DBG] ActionDispatcher :: Queueing 'Disable Rads' (bcfc4d53-41bf-449e-a2a7-334913971725) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:12:56.054 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action bcfc4d53-41bf-449e-a2a7-334913971725
+[2024-11-15 13:12:56.054 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2024-11-15 13:12:56.054 DBG] ActionDispatcher :: Queueing 'Reset Webcam Starting Soon' (3fd82150-46ce-4bd1-82a9-cf5d143a4721) to 'Default' (00000000-0000-0000-0000-000000000000), with 14 arguments
+[2024-11-15 13:12:56.054 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 3fd82150-46ce-4bd1-82a9-cf5d143a4721
+[2024-11-15 13:12:56.054 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Reset Webcam Starting Soon' (53d274ba-a40c-4077-b413-6bfde7c8b0eb)
+[2024-11-15 13:12:56.054 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Disable Rads' (d20ac416-05a5-4c1d-a74e-ebcd2bba4c41)
+[2024-11-15 13:13:01.449 DBG] OBS-Websocket5 :: Disconnected
+[2024-11-15 13:13:01.449 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2024-11-15 13:13:08.751 DBG] Actions :: Time to save 10.3353ms
+[2024-11-15 13:13:08.761 DBG] Users :: Time to save 9.075ms
+[2024-11-15 13:13:08.769 DBG] Quotes :: Time to save 6.841ms
+[2024-11-15 13:13:08.781 DBG] Commands :: Time to save 10.3122ms
+[2024-11-15 13:13:08.792 DBG] Twitch Rewards :: Time to save 9.3502ms
+[2024-11-15 13:13:08.800 DBG] Midi :: Time to save 6.7441ms
+[2024-11-15 13:13:08.957 DBG] Config :: Time to save 8.9541ms
+[2024-11-15 13:13:11.214 INF] Shutting down...
+[2024-11-15 13:13:11.253 INF] Main window unloaded...
+[2024-11-15 13:13:11.311 INF] Closing services...
+[2024-11-15 13:13:11.316 DBG] UsbRemovalWatcher :: Disposed
+[2024-11-15 13:13:11.316 DBG] ProcessWatcher :: Disposed
+[2024-11-15 13:13:11.317 DBG] ProcessWatcher :: Disposed
+[2024-11-15 13:13:11.318 DBG] Events Service :: Shutting down event queue thread
+[2024-11-15 13:13:11.318 DBG] Events Service :: Shutting down raw event queue thread
+[2024-11-15 13:13:11.318 DBG] Events Service :: Shutting down application event queue thread
+[2024-11-15 13:13:11.328 DBG] DonorDrive :: Stopping service
+[2024-11-15 13:13:11.329 DBG] OBS Service :: Stopping service
+[2024-11-15 13:13:11.331 DBG] SLOBS Service :: Stopping service
+[2024-11-15 13:13:11.332 DBG] Websocket Client :: Disconnecting from all connected clients
+[2024-11-15 13:13:11.333 DBG] Websocket Custom Server :: Stopping all servers
+[2024-11-15 13:13:11.334 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2024-11-15 13:13:11.335 DBG] OBS Service :: Shutting down event thread
+[2024-11-15 13:13:11.335 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2024-11-15 13:13:11.337 DBG] MIDI Service :: Stopping service
+[2024-11-15 13:13:11.337 DBG] Http Listener :: Channel is not active
+[2024-11-15 13:13:11.337 DBG] MIDI Service :: Shutting down event thread
+[2024-11-15 13:13:11.345 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2024-11-15 13:13:11.346 DBG] ActionDispatcher :: Shutting down action queues
+[2024-11-15 13:13:11.346 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2024-11-15 13:13:11.347 DBG] Twitch (Broadcaster) :: Disconnected
+[2024-11-15 13:13:11.348 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2024-11-15 13:13:11.349 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2024-11-15 13:13:11.349 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2024-11-15 13:13:11.349 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2024-11-15 13:13:11.349 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2024-11-15 13:13:11.349 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2024-11-15 13:13:11.349 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2024-11-15 13:13:11.350 DBG] UDP Listener :: Channel is not active
+[2024-11-15 13:13:11.350 INF] InlineCode :: Cleaning up '0' execute code instances
+[2024-11-15 13:13:11.353 DBG] InlineCode :: Cleaned up execute code instances
+[2024-11-15 13:13:11.357 DBG] SpeechToText :: Channel was null when trying to stop
+[2024-11-15 13:13:11.504 DBG] StreamElements Socket :: Disconnected
+[2024-11-15 13:13:11.504 INF] StreamElements Service :: Disconnected from Client
+[2024-11-15 13:13:11.552 DBG] Twitch PubSub :: Disconnected
+[2024-11-15 13:13:11.554 INF] TwitchService :: Disconnected from Broadcaster PubSub
+[2024-11-15 13:13:11.684 DBG] Twitch EventSub :: Disconnected
+[2024-11-15 13:13:11.685 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2024-11-15 13:13:11.778 INF] BTTV :: WebSocket Disconnected
+[2024-11-15 13:13:11.781 DBG] Twitch (Bot) :: Disconnected
+[2024-11-15 13:13:11.782 INF] TwitchService :: Disconnected from Bot Chat Client
+[2024-11-15 13:13:11.850 DBG] Credits :: Time to save 27.4764ms
+[2024-11-15 13:13:11.850 DBG] Midi :: Time to save 26.804ms
+[2024-11-15 13:13:11.852 DBG] Actions :: Time to save 29.1756ms
+[2024-11-15 13:13:11.854 DBG] OBS Settings :: Time to save 28.8563ms
+[2024-11-15 13:13:11.856 DBG] Commands :: Time to save 32.8805ms
+[2024-11-15 13:13:11.864 DBG] Quotes :: Time to save 41.387ms
+[2024-11-15 13:13:11.876 DBG] Twitch Rewards :: Time to save 52.3905ms
+[2024-11-15 13:13:11.880 DBG] Config :: Time to save 55.885ms
+[2024-11-15 13:13:11.893 DBG] Users :: Time to save 70.5888ms
+[2024-11-15 13:13:11.896 INF] Streamer.bot exited
