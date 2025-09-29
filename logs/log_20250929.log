@@ -1,0 +1,322 @@
+[2025-09-29 16:33:39.196 INF] Streamer.bot (1.0.0)
+[2025-09-29 16:33:39.199 INF] Startup Path: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot
+[2025-09-29 16:33:39.199 INF] Startup Args: 
+[2025-09-29 16:33:39.199 INF] Startup Mode: UI
+[2025-09-29 16:33:39.199 INF] Logging Level: Debug
+[2025-09-29 16:33:39.199 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2025-09-29 16:33:39.199 INF] Instance Name: Streamer.bot
+[2025-09-29 16:33:39.199 INF] Operating System: Windows
+[2025-09-29 16:33:39.199 INF] UserInteractive: True
+[2025-09-29 16:33:39.199 INF] WebView2: Found (v140.0.3485.94)
+[2025-09-29 16:33:39.206 INF] Backing up data files
+[2025-09-29 16:33:39.281 INF] Loading config
+[2025-09-29 16:33:39.530 INF] Users :: Upgrade checks finished, 4.2936ms
+[2025-09-29 16:33:39.548 DBG] Users :: Loaded 147 users.
+[2025-09-29 16:33:39.559 DBG] Twitch Rewards :: Loaded 21 rewards.
+[2025-09-29 16:33:41.325 DBG] Actions :: Loaded 131 actions.
+[2025-09-29 16:33:41.331 DBG] OBS Settings :: Loaded.
+[2025-09-29 16:33:41.336 DBG] MeldStudio Settings :: Loaded.
+[2025-09-29 16:33:41.360 DBG] Commands :: Loaded 43 commands.
+[2025-09-29 16:33:41.436 DBG] MIDI :: Loaded 0 actions.
+[2025-09-29 16:33:41.693 DBG] Credits :: Performing auto reset of data, 796.656991416722 > 12
+[2025-09-29 16:33:42.019 DBG] Streamer.bot Service :: Forgetting account
+[2025-09-29 16:33:42.191 INF] Update Available! 1.0.1
+[2025-09-29 16:33:43.710 DBG] Events Service :: Starting raw event queue thread
+[2025-09-29 16:33:43.710 DBG] Events Service :: Starting event queue thread
+[2025-09-29 16:33:43.710 DBG] Events Service :: Starting application event queue thread
+[2025-09-29 16:33:43.713 DBG] Trigger Service :: Initialized
+[2025-09-29 16:33:43.717 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2025-09-29 16:33:43.719 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2025-09-29 16:33:43.719 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2025-09-29 16:33:43.719 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2025-09-29 16:33:43.719 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2025-09-29 16:33:43.719 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2025-09-29 16:33:43.719 DBG] ActionQueue :: Starting queue ae5d9109-9a6d-4e18-97f5-21a70b15dd8b thread
+[2025-09-29 16:33:43.725 DBG] Quotes :: Loaded 8 quotes.
+[2025-09-29 16:33:43.803 DBG] Viewers :: 4.4924ms to populate view model
+[2025-09-29 16:33:43.902 INF] Changing logging level to "Debug"
+[2025-09-29 16:33:44.093 DBG] MeldStudio Service :: Starting event thread
+[2025-09-29 16:33:44.093 DBG] OBS Service :: Starting event thread
+[2025-09-29 16:33:44.099 DBG] TwitchService :: Initializing
+[2025-09-29 16:33:44.106 DBG] TwitchService :: Logging into Broadcaster account
+[2025-09-29 16:33:44.112 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2025-09-29 16:33:44.112 DBG] TwitchService :: Logging into Bot account
+[2025-09-29 16:33:44.115 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2025-09-29 16:33:44.118 DBG] Websocket Client :: Auto connecting to clients
+[2025-09-29 16:33:44.118 DBG] Websocket Custom Server :: Auto starting servers
+[2025-09-29 16:33:44.119 DBG] Websocket Server :: Starting server (ws://127.0.0.1:8080)
+[2025-09-29 16:33:44.121 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2025-09-29 16:33:44.123 DBG] Websocket Server :: Starting queue thread
+[2025-09-29 16:33:44.124 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2025-09-29 16:33:44.124 DBG] Websocket Server :: Starting command queue thread
+[2025-09-29 16:33:44.131 INF] MIDI Service :: Initializing 0 MIDI devices
+[2025-09-29 16:33:44.138 INF] SpeechToText :: Initializing recognition engine
+[2025-09-29 16:33:44.138 DBG] UsbRemovalWatcher :: Disposed
+[2025-09-29 16:33:44.139 DBG] MIDI Service :: Starting event thread
+[2025-09-29 16:33:44.139 INF] Input Service: Found 2 valid key inputs.
+[2025-09-29 16:33:44.296 DBG] SpeechToText :: Starting recognition engine
+[2025-09-29 16:33:44.297 DBG] SpeechToText :: Starting queue thread
+[2025-09-29 16:33:44.332 ERR] Speech :: Error starting speech recognition
+System.Runtime.InteropServices.COMException (0x88890004): Exception from HRESULT: 0x88890004
+   at NAudio.CoreAudioApi.Interfaces.IMMDevice.Activate(Guid& id, ClsCtx clsCtx, IntPtr activationParams, Object& interfacePointer)
+   at NAudio.CoreAudioApi.MMDevice.GetAudioClient()
+   at NAudio.CoreAudioApi.WasapiCapture..ctor(MMDevice captureDevice, Boolean useEventSync, Int32 audioBufferMillisecondsLength)
+   at _vBGaYNl8l0NBOKOSrWcP4z1ltIN._PODrh59U7cChEmVWuJDUDNSXgUd.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at _vBGaYNl8l0NBOKOSrWcP4z1ltIN._YIR4jvbTr6xze5x1xavIH6uYiNH.MoveNext()
+[2025-09-29 16:33:44.332 DBG] SpeechToText :: Unable to start recognition engine
+[2025-09-29 16:33:44.336 DBG] SpeechToText :: Shutting down queue thread
+[2025-09-29 16:33:44.583 INF] TwitchService :: Fetching Broadcaster account information
+[2025-09-29 16:33:44.598 INF] TwitchService :: Fetching Bot account information
+[2025-09-29 16:33:44.613 INF] StreamElements :: Logging into account
+[2025-09-29 16:33:44.730 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2025-09-29 16:33:44.730 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2025-09-29 16:33:44.732 INF] TwitchService :: Connecting to Bot EventSub
+[2025-09-29 16:33:44.738 DBG] Twitch EventSub (Bot) :: Opening connection
+[2025-09-29 16:33:44.772 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2025-09-29 16:33:44.773 INF] StreamElements Service :: Connecting to Client
+[2025-09-29 16:33:44.775 DBG] StreamElements Socket :: Opening connection
+[2025-09-29 16:33:44.823 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2025-09-29 16:33:44.826 DBG] Twitch Service :: Init rest
+[2025-09-29 16:33:44.828 INF] 7TV :: Initializing user '50822403', on twitch
+[2025-09-29 16:33:44.835 INF] BTTV :: Initializing user '50822403', on twitch
+[2025-09-29 16:33:44.837 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2025-09-29 16:33:44.844 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2025-09-29 16:33:44.908 INF] 7TV :: Loaded 43 global emotes
+[2025-09-29 16:33:44.918 INF] BTTV :: Loaded 65 global emotes
+[2025-09-29 16:33:44.956 INF] FFZ :: Loaded 15 global emotes
+[2025-09-29 16:33:44.972 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2025-09-29 16:33:45.028 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2025-09-29 16:33:45.028 INF] FFZ :: Loaded 0 channel emotes
+[2025-09-29 16:33:45.063 DBG] Twitch Service :: Loaded 167 Twitch badges
+[2025-09-29 16:33:45.089 DBG] Twitch Service :: Loaded 33 Twitch cheer emotes
+[2025-09-29 16:33:45.096 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2025-09-29 16:33:45.247 INF] StreamElements Service :: Connected to Client
+[2025-09-29 16:33:45.256 DBG] Twitch Rewards :: Time to save 20.9989ms
+[2025-09-29 16:33:45.319 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2025-09-29 16:33:45.460 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2025-09-29 16:33:46.161 DBG] OBS-Websocket5 :: Disconnected
+[2025-09-29 16:33:46.162 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2025-09-29 16:33:46.468 DBG] Twitch Service :: Loaded 630 Twitch user emotes
+[2025-09-29 16:33:46.761 DBG] Getting viewers for channel "atomsmasher101" (4)
+[2025-09-29 16:33:46.761 DBG] Twitch Service :: Fetched viewers for channel (4)
+[2025-09-29 16:33:46.765 DBG] Twitch Service :: (4) - Existing: 4, New Users: 0 (2.9859ms)
+[2025-09-29 16:33:46.765 DBG] Twitch Service :: Viewers init in 293.7727ms
+[2025-09-29 16:33:46.767 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2025-09-29 16:33:46.856 DBG] Twitch Service :: Found 7 editors for channel atomsmasher101
+[2025-09-29 16:33:46.993 INF] Twitch Service :: Found 12 Moderators for the channel atomsmasher101
+[2025-09-29 16:33:47.102 INF] Twitch Service :: Found 18 VIPs for the channel atomsmasher101
+[2025-09-29 16:33:47.105 DBG] ViewerRepo :: Time to update mods and VIPs, 0.8414ms (nm: 0, em: 0, nv: 0, ev: 2, ru: 2)
+[2025-09-29 16:33:47.105 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 246.2463ms
+[2025-09-29 16:33:47.107 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2025-09-29 16:33:47.462 DBG] Twitch Service :: "AtomSmasher101" has 5 subscriptions.
+[2025-09-29 16:33:47.492 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2025-09-29 16:33:47.497 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2025-09-29 16:33:47.497 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2025-09-29 16:33:47.664 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 56 events
+[2025-09-29 16:33:47.710 DBG] Twitch (Broadcaster) :: Opening connection
+[2025-09-29 16:33:47.790 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (44.237.40.50:6697)
+[2025-09-29 16:33:47.790 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2025-09-29 16:33:47.939 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2025-09-29 16:33:48.074 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2025-09-29 16:33:48.077 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2025-09-29 16:33:48.081 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2025-09-29 16:33:55.608 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2025-09-29 16:33:58.914 INF] Update :: Starting update from 1.0.0 to 1.0.1
+[2025-09-29 16:33:58.914 INF] Update :: Update file: Streamer.bot-x64-1.0.1.zip
+[2025-09-29 16:33:58.914 INF] Update :: Extracting update to: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot\update
+[2025-09-29 16:33:59.291 INF] Update :: Moving 110 files to C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot\old-1.0.0
+[2025-09-29 16:33:59.351 INF] Update :: Deleting update folder
+[2025-09-29 16:33:59.351 INF] Update :: Deleting update zip file
+[2025-09-29 16:33:59.351 INF] Update :: Starting new version of Streamer.bot!
+[2025-09-29 16:33:59.369 DBG] Users :: Time to save 12.3086ms
+[2025-09-29 16:33:59.479 DBG] Actions :: Time to save 109.0774ms
+[2025-09-29 16:33:59.493 DBG] Commands :: Time to save 13.0983ms
+[2025-09-29 16:33:59.503 DBG] Twitch Rewards :: Time to save 8.5343ms
+[2025-09-29 16:33:59.512 DBG] Midi :: Time to save 8.9236ms
+[2025-09-29 16:33:59.523 DBG] OBS Settings :: Time to save 10.0322ms
+[2025-09-29 16:33:59.535 DBG] MeldStudio Settings :: Time to save 9.4602ms
+[2025-09-29 16:33:59.544 DBG] Credits :: Time to save 8.9935ms
+[2025-09-29 16:33:59.556 DBG] Quotes :: Time to save 9.4247ms
+[2025-09-29 16:33:59.557 INF] Shutting down...
+[2025-09-29 16:33:59.638 INF] Closing services...
+[2025-09-29 16:33:59.638 DBG] UsbRemovalWatcher :: Disposed
+[2025-09-29 16:33:59.638 DBG] ProcessWatcher :: Disposed
+[2025-09-29 16:33:59.639 DBG] ProcessWatcher :: Disposed
+[2025-09-29 16:33:59.641 DBG] Events Service :: Shutting down event queue thread
+[2025-09-29 16:33:59.641 DBG] Events Service :: Shutting down application event queue thread
+[2025-09-29 16:33:59.641 DBG] Events Service :: Shutting down raw event queue thread
+[2025-09-29 16:33:59.648 DBG] Http Listener :: Channel is not active
+[2025-09-29 16:33:59.649 DBG] DonorDrive :: Stopping service
+[2025-09-29 16:33:59.651 DBG] Websocket Server :: Stopping server
+[2025-09-29 16:33:59.658 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2025-09-29 16:33:59.659 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2025-09-29 16:33:59.660 DBG] Websocket Server :: Shutting down command queue thread
+[2025-09-29 16:33:59.660 DBG] Websocket Server :: Shutting down queue thread
+[2025-09-29 16:33:59.663 DBG] OBS Service :: Stopping service
+[2025-09-29 16:33:59.665 DBG] MIDI Service :: Stopping service
+[2025-09-29 16:33:59.666 DBG] MIDI Service :: Shutting down event thread
+[2025-09-29 16:33:59.666 DBG] SLOBS Service :: Stopping service
+[2025-09-29 16:33:59.669 DBG] ActionDispatcher :: Shutting down action queues
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2025-09-29 16:33:59.671 DBG] ActionQueue :: Shutting down queue ae5d9109-9a6d-4e18-97f5-21a70b15dd8b thread
+[2025-09-29 16:33:59.675 DBG] SpeechToText :: Channel was null when trying to stop
+[2025-09-29 16:33:59.680 DBG] Websocket Client :: Disconnecting from all connected clients
+[2025-09-29 16:33:59.681 INF] InlineCode :: Cleaning up '0' execute code instances
+[2025-09-29 16:33:59.684 DBG] InlineCode :: Cleaned up execute code instances
+[2025-09-29 16:33:59.686 DBG] Websocket Custom Server :: Stopping all servers
+[2025-09-29 16:33:59.687 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2025-09-29 16:33:59.690 DBG] Twitch (Broadcaster) :: Disconnected
+[2025-09-29 16:33:59.690 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2025-09-29 16:33:59.692 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2025-09-29 16:33:59.693 DBG] OBS Service :: Shutting down event thread
+[2025-09-29 16:33:59.720 DBG] MeldStudio Service :: Stopping service
+[2025-09-29 16:33:59.723 DBG] MeldStudio Service :: Shutting down event thread
+[2025-09-29 16:33:59.751 DBG] Config :: Time to save 183.6828ms
+[2025-09-29 16:33:59.899 DBG] StreamElements Socket :: Disconnected
+[2025-09-29 16:33:59.903 INF] StreamElements Service :: Disconnected from Client
+[2025-09-29 16:33:59.971 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2025-09-29 16:33:59.973 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2025-09-29 16:34:00.253 DBG] Twitch EventSub (Bot) :: Disconnected
+[2025-09-29 16:34:00.255 INF] TwitchService :: Disconnected from Bot EventSub
+[2025-09-29 16:34:00.301 DBG] Credits :: Time to save 16.2349ms
+[2025-09-29 16:34:00.301 DBG] Midi :: Time to save 15.8643ms
+[2025-09-29 16:34:00.302 DBG] OBS Settings :: Time to save 16.6741ms
+[2025-09-29 16:34:00.302 DBG] MeldStudio Settings :: Time to save 16.431ms
+[2025-09-29 16:34:00.302 DBG] Quotes :: Time to save 17.0548ms
+[2025-09-29 16:34:00.302 DBG] Twitch Rewards :: Time to save 16.6299ms
+[2025-09-29 16:34:00.302 DBG] Users :: Time to save 17.7267ms
+[2025-09-29 16:34:00.303 DBG] Config :: Time to save 16.8724ms
+[2025-09-29 16:34:00.303 DBG] Commands :: Time to save 17.5092ms
+[2025-09-29 16:34:00.311 DBG] Actions :: Time to save 26.9493ms
+[2025-09-29 16:34:00.313 INF] Streamer.bot exited
+[2025-09-29 16:34:00.313 INF] Update :: Launching updated Streamer.bot
+[2025-09-29 16:34:00.817 INF] Streamer.bot (1.0.1)
+[2025-09-29 16:34:00.819 INF] Startup Path: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot
+[2025-09-29 16:34:00.820 INF] Startup Args: /wait 37640
+[2025-09-29 16:34:00.820 INF] Startup Mode: UI
+[2025-09-29 16:34:00.820 INF] Logging Level: Debug
+[2025-09-29 16:34:00.820 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2025-09-29 16:34:00.820 INF] Instance Name: Streamer.bot
+[2025-09-29 16:34:00.820 INF] Operating System: Windows
+[2025-09-29 16:34:00.820 INF] UserInteractive: True
+[2025-09-29 16:34:00.820 INF] WebView2: Found (v140.0.3485.94)
+[2025-09-29 16:34:00.827 INF] Backing up data files
+[2025-09-29 16:34:00.901 INF] Loading config
+[2025-09-29 16:34:01.155 INF] Users :: Upgrade checks finished, 3.954ms
+[2025-09-29 16:34:01.171 DBG] Users :: Loaded 147 users.
+[2025-09-29 16:34:01.183 DBG] Twitch Rewards :: Loaded 21 rewards.
+[2025-09-29 16:34:02.933 DBG] Actions :: Loaded 131 actions.
+[2025-09-29 16:34:02.940 DBG] OBS Settings :: Loaded.
+[2025-09-29 16:34:02.946 DBG] MeldStudio Settings :: Loaded.
+[2025-09-29 16:34:02.969 DBG] Commands :: Loaded 43 commands.
+[2025-09-29 16:34:03.052 DBG] MIDI :: Loaded 0 actions.
+[2025-09-29 16:34:03.357 INF] Deleting old update folder: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot\old-1.0.0
+[2025-09-29 16:34:05.673 DBG] Events Service :: Starting event queue thread
+[2025-09-29 16:34:05.673 DBG] Events Service :: Starting application event queue thread
+[2025-09-29 16:34:05.674 DBG] Events Service :: Starting raw event queue thread
+[2025-09-29 16:34:05.680 DBG] Trigger Service :: Initialized
+[2025-09-29 16:34:05.685 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2025-09-29 16:34:05.686 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2025-09-29 16:34:05.686 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2025-09-29 16:34:05.686 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2025-09-29 16:34:05.686 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2025-09-29 16:34:05.686 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2025-09-29 16:34:05.686 DBG] ActionQueue :: Starting queue ae5d9109-9a6d-4e18-97f5-21a70b15dd8b thread
+[2025-09-29 16:34:05.692 DBG] Quotes :: Loaded 8 quotes.
+[2025-09-29 16:34:05.770 DBG] Viewers :: 4.214ms to populate view model
+[2025-09-29 16:34:06.069 DBG] OBS Service :: Starting event thread
+[2025-09-29 16:34:06.069 DBG] MeldStudio Service :: Starting event thread
+[2025-09-29 16:34:06.075 DBG] TwitchService :: Initializing
+[2025-09-29 16:34:06.081 DBG] TwitchService :: Logging into Broadcaster account
+[2025-09-29 16:34:06.089 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2025-09-29 16:34:06.089 DBG] TwitchService :: Logging into Bot account
+[2025-09-29 16:34:06.091 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2025-09-29 16:34:06.094 DBG] Websocket Client :: Auto connecting to clients
+[2025-09-29 16:34:06.095 DBG] Websocket Custom Server :: Auto starting servers
+[2025-09-29 16:34:06.095 DBG] Websocket Server :: Starting server (ws://127.0.0.1:8080)
+[2025-09-29 16:34:06.097 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2025-09-29 16:34:06.099 DBG] Websocket Server :: Starting queue thread
+[2025-09-29 16:34:06.100 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2025-09-29 16:34:06.102 DBG] Websocket Server :: Starting command queue thread
+[2025-09-29 16:34:06.108 INF] MIDI Service :: Initializing 0 MIDI devices
+[2025-09-29 16:34:06.114 INF] SpeechToText :: Initializing recognition engine
+[2025-09-29 16:34:06.115 DBG] UsbRemovalWatcher :: Disposed
+[2025-09-29 16:34:06.115 DBG] MIDI Service :: Starting event thread
+[2025-09-29 16:34:06.115 INF] Input Service: Found 2 valid key inputs.
+[2025-09-29 16:34:06.199 DBG] SpeechToText :: Starting recognition engine
+[2025-09-29 16:34:06.201 DBG] SpeechToText :: Starting queue thread
+[2025-09-29 16:34:06.217 ERR] Speech :: Error starting speech recognition
+System.Runtime.InteropServices.COMException (0x88890004): Exception from HRESULT: 0x88890004
+   at NAudio.CoreAudioApi.Interfaces.IMMDevice.Activate(Guid& id, ClsCtx clsCtx, IntPtr activationParams, Object& interfacePointer)
+   at NAudio.CoreAudioApi.MMDevice.GetAudioClient()
+   at NAudio.CoreAudioApi.WasapiCapture..ctor(MMDevice captureDevice, Boolean useEventSync, Int32 audioBufferMillisecondsLength)
+   at _iSbW0SuuvFJQHMgx4y5JLnmCiRF._SYeJFlSUC2UcaB0CUCe5wKvgaRw.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at _iSbW0SuuvFJQHMgx4y5JLnmCiRF._HMwbE6of3Mj6eSGhPHcBbcKYaK5b.MoveNext()
+[2025-09-29 16:34:06.217 DBG] SpeechToText :: Unable to start recognition engine
+[2025-09-29 16:34:06.231 DBG] SpeechToText :: Shutting down queue thread
+[2025-09-29 16:34:06.383 INF] StreamElements :: Logging into account
+[2025-09-29 16:34:06.529 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2025-09-29 16:34:06.533 INF] TwitchService :: Fetching Bot account information
+[2025-09-29 16:34:06.536 INF] StreamElements Service :: Connecting to Client
+[2025-09-29 16:34:06.539 DBG] StreamElements Socket :: Opening connection
+[2025-09-29 16:34:06.549 INF] TwitchService :: Fetching Broadcaster account information
+[2025-09-29 16:34:06.682 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2025-09-29 16:34:06.682 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2025-09-29 16:34:06.685 INF] TwitchService :: Connecting to Bot EventSub
+[2025-09-29 16:34:06.691 DBG] Twitch EventSub (Bot) :: Opening connection
+[2025-09-29 16:34:06.776 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2025-09-29 16:34:06.779 DBG] Twitch Service :: Init rest
+[2025-09-29 16:34:06.780 INF] 7TV :: Initializing user '50822403', on twitch
+[2025-09-29 16:34:06.788 INF] BTTV :: Initializing user '50822403', on twitch
+[2025-09-29 16:34:06.790 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2025-09-29 16:34:06.797 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2025-09-29 16:34:06.857 INF] 7TV :: Loaded 43 global emotes
+[2025-09-29 16:34:06.864 INF] StreamElements Service :: Connected to Client
+[2025-09-29 16:34:06.870 INF] BTTV :: Loaded 65 global emotes
+[2025-09-29 16:34:06.879 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2025-09-29 16:34:06.891 INF] FFZ :: Loaded 15 global emotes
+[2025-09-29 16:34:06.904 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2025-09-29 16:34:06.908 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2025-09-29 16:34:06.973 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2025-09-29 16:34:06.973 INF] FFZ :: Loaded 0 channel emotes
+[2025-09-29 16:34:07.047 DBG] Twitch Service :: Loaded 33 Twitch cheer emotes
+[2025-09-29 16:34:07.058 DBG] Twitch Service :: Loaded 167 Twitch badges
+[2025-09-29 16:34:07.169 DBG] Twitch Rewards :: Time to save 20.27ms
+[2025-09-29 16:34:07.253 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2025-09-29 16:34:08.121 DBG] OBS-Websocket5 :: Disconnected
+[2025-09-29 16:34:08.122 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2025-09-29 16:34:08.299 DBG] Twitch Service :: Loaded 630 Twitch user emotes
+[2025-09-29 16:34:08.574 DBG] Getting viewers for channel "atomsmasher101" (4)
+[2025-09-29 16:34:08.576 DBG] Twitch Service :: Fetched viewers for channel (4)
+[2025-09-29 16:34:08.579 DBG] Twitch Service :: (4) - Existing: 4, New Users: 0 (3.0991ms)
+[2025-09-29 16:34:08.579 DBG] Twitch Service :: Viewers init in 276.2828ms
+[2025-09-29 16:34:08.580 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2025-09-29 16:34:08.681 DBG] Twitch Service :: Found 7 editors for channel atomsmasher101
+[2025-09-29 16:34:08.815 INF] Twitch Service :: Found 12 Moderators for the channel atomsmasher101
+[2025-09-29 16:34:08.926 INF] Twitch Service :: Found 18 VIPs for the channel atomsmasher101
+[2025-09-29 16:34:08.929 DBG] ViewerRepo :: Time to update mods and VIPs, 0.7767ms (nm: 0, em: 0, nv: 0, ev: 2, ru: 2)
+[2025-09-29 16:34:08.929 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 245.6887ms
+[2025-09-29 16:34:08.931 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2025-09-29 16:34:09.160 DBG] Twitch Service :: "AtomSmasher101" has 5 subscriptions.
+[2025-09-29 16:34:09.187 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2025-09-29 16:34:09.192 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2025-09-29 16:34:09.192 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2025-09-29 16:34:09.280 DBG] Twitch (Broadcaster) :: Opening connection
+[2025-09-29 16:34:09.340 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (44.237.40.50:6697)
+[2025-09-29 16:34:09.340 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2025-09-29 16:34:09.366 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 56 events
+[2025-09-29 16:34:09.461 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2025-09-29 16:34:09.603 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2025-09-29 16:34:09.606 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2025-09-29 16:34:09.609 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2025-09-29 16:34:17.547 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated

@@ -1,7 +1,7 @@
 {
   "collapsedGroups": [],
   "version": 2,
-  "t": "2025-08-27T11:54:16.5254914-05:00",
+  "t": "2025-09-29T16:34:07.1498917-05:00",
   "rewards": [
     {
       "id": "5c64bc95-ef25-4f22-b75d-dde3098c64f8",
@@ -151,7 +151,7 @@
       "name": "Pucker Up!",
       "prompt": "Atom will eat something sour!",
       "group": "",
-      "cost": 750,
+      "cost": 1000,
       "userInput": false,
       "persistCounter": false,
       "persistUserCounter": false,
