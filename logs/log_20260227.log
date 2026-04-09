@@ -1,0 +1,1138 @@
+[2026-02-27 08:33:16.232 INF] Streamer.bot (1.0.4)
+[2026-02-27 08:33:16.234 INF] Startup Path: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot
+[2026-02-27 08:33:16.234 INF] Startup Args: 
+[2026-02-27 08:33:16.234 INF] Startup Mode: UI
+[2026-02-27 08:33:16.234 INF] Logging Level: Debug
+[2026-02-27 08:33:16.234 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2026-02-27 08:33:16.234 INF] Instance Name: Streamer.bot
+[2026-02-27 08:33:16.234 INF] Operating System: Windows
+[2026-02-27 08:33:16.234 INF] UserInteractive: True
+[2026-02-27 08:33:16.234 INF] WebView2: Found (v145.0.3800.70)
+[2026-02-27 08:33:16.241 INF] Backing up data files
+[2026-02-27 08:33:16.462 INF] Loading config
+[2026-02-27 08:33:17.100 INF] Users :: Upgrade checks finished, 4.322ms
+[2026-02-27 08:33:17.117 DBG] Users :: Loaded 166 users.
+[2026-02-27 08:33:17.164 DBG] Twitch Rewards :: Loaded 24 rewards.
+[2026-02-27 08:33:19.302 DBG] Actions :: Loaded 143 actions.
+[2026-02-27 08:33:19.308 DBG] OBS Settings :: Loaded.
+[2026-02-27 08:33:19.313 DBG] MeldStudio Settings :: Loaded.
+[2026-02-27 08:33:19.337 DBG] Commands :: Loaded 42 commands.
+[2026-02-27 08:33:19.403 DBG] MIDI :: Loaded 0 actions.
+[2026-02-27 08:33:19.786 DBG] Credits :: Performing auto reset of data, 12.263911281 > 12
+[2026-02-27 08:33:20.325 INF] Streamer.bot Service :: Logging into account
+[2026-02-27 08:33:20.447 INF] Streamer.bot Service :: Account (firehair) authenticated
+[2026-02-27 08:33:23.092 DBG] Events Service :: Starting event queue thread
+[2026-02-27 08:33:23.092 DBG] Events Service :: Starting raw event queue thread
+[2026-02-27 08:33:23.092 DBG] Events Service :: Starting application event queue thread
+[2026-02-27 08:33:23.098 DBG] Trigger Service :: Initialized
+[2026-02-27 08:33:23.103 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2026-02-27 08:33:23.104 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-02-27 08:33:23.104 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-02-27 08:33:23.104 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-02-27 08:33:23.104 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-02-27 08:33:23.104 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-02-27 08:33:23.110 DBG] Quotes :: Loaded 8 quotes.
+[2026-02-27 08:33:23.194 DBG] Viewers :: 10.3654ms to populate view model
+[2026-02-27 08:33:23.524 INF] Streamer.bot Service :: Connecting to Website Client
+[2026-02-27 08:33:23.526 DBG] Streamer.bot Website Socket :: Opening connection
+[2026-02-27 08:33:23.536 DBG] MeldStudio Service :: Starting event thread
+[2026-02-27 08:33:23.536 DBG] OBS Service :: Starting event thread
+[2026-02-27 08:33:23.542 DBG] TwitchService :: Initializing
+[2026-02-27 08:33:23.548 DBG] TwitchService :: Logging into Broadcaster account
+[2026-02-27 08:33:23.555 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 08:33:23.557 DBG] TwitchService :: Logging into Bot account
+[2026-02-27 08:33:23.557 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 08:33:23.563 DBG] Websocket Client :: Auto connecting to clients
+[2026-02-27 08:33:23.564 DBG] Websocket Custom Server :: Auto starting servers
+[2026-02-27 08:33:23.565 DBG] Websocket Server :: Starting server (ws://127.0.0.1:8080)
+[2026-02-27 08:33:23.567 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2026-02-27 08:33:23.569 DBG] Websocket Server :: Starting queue thread
+[2026-02-27 08:33:23.570 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2026-02-27 08:33:23.572 DBG] Websocket Server :: Starting command queue thread
+[2026-02-27 08:33:23.579 INF] MIDI Service :: Initializing 0 MIDI devices
+[2026-02-27 08:33:23.580 INF] SpeechToText :: Initializing recognition engine
+[2026-02-27 08:33:23.581 DBG] UsbRemovalWatcher :: Disposed
+[2026-02-27 08:33:23.582 DBG] MIDI Service :: Starting event thread
+[2026-02-27 08:33:23.583 INF] Input Service: Found 3 valid key inputs.
+[2026-02-27 08:33:23.752 DBG] SpeechToText :: Starting recognition engine
+[2026-02-27 08:33:23.754 DBG] SpeechToText :: Starting queue thread
+[2026-02-27 08:33:23.822 INF] Streamer.bot Service :: Website Client authenticated
+[2026-02-27 08:33:23.823 INF] Streamer.bot Service :: Connected to Website Client
+[2026-02-27 08:33:23.997 INF] TwitchService :: Fetching Bot account information
+[2026-02-27 08:33:24.012 INF] TwitchService :: Fetching Broadcaster account information
+[2026-02-27 08:33:24.047 INF] StreamElements :: Logging into account
+[2026-02-27 08:33:24.166 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2026-02-27 08:33:24.168 INF] StreamElements Service :: Connecting to Client
+[2026-02-27 08:33:24.171 DBG] StreamElements Socket :: Opening connection
+[2026-02-27 08:33:24.182 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2026-02-27 08:33:24.182 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2026-02-27 08:33:24.184 INF] TwitchService :: Connecting to Bot EventSub
+[2026-02-27 08:33:24.189 DBG] Twitch EventSub (Bot) :: Opening connection
+[2026-02-27 08:33:24.294 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2026-02-27 08:33:24.296 DBG] Twitch Service :: Init rest
+[2026-02-27 08:33:24.297 INF] 7TV :: Initializing user '50822403', on twitch
+[2026-02-27 08:33:24.305 INF] BTTV :: Initializing user '50822403', on twitch
+[2026-02-27 08:33:24.307 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2026-02-27 08:33:24.314 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2026-02-27 08:33:24.362 INF] BTTV :: Loaded 65 global emotes
+[2026-02-27 08:33:24.407 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2026-02-27 08:33:24.424 INF] FFZ :: Loaded 15 global emotes
+[2026-02-27 08:33:24.444 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2026-02-27 08:33:24.452 INF] StreamElements Service :: Connected to Client
+[2026-02-27 08:33:24.489 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2026-02-27 08:33:24.489 INF] FFZ :: Loaded 0 channel emotes
+[2026-02-27 08:33:24.590 INF] BTTV :: WebSocket Connected
+[2026-02-27 08:33:24.653 DBG] Twitch Service :: Loaded 230 Twitch badges
+[2026-02-27 08:33:24.670 DBG] Twitch Service :: Loaded 33 Twitch cheer emotes
+[2026-02-27 08:33:24.694 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2026-02-27 08:33:24.786 DBG] Twitch Rewards :: Time to save 19.0323ms
+[2026-02-27 08:33:25.167 INF] 7TV :: Loaded 44 global emotes
+[2026-02-27 08:33:25.338 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2026-02-27 08:33:25.611 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 08:33:25.612 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 08:33:26.946 DBG] Twitch Service :: Loaded 629 Twitch user emotes
+[2026-02-27 08:33:27.400 DBG] Getting viewers for channel "atomsmasher101" (4)
+[2026-02-27 08:33:27.401 DBG] Twitch Service :: Fetched viewers for channel (4)
+[2026-02-27 08:33:27.404 DBG] Twitch Service :: (4) - Existing: 4, New Users: 0 (3.01ms)
+[2026-02-27 08:33:27.404 DBG] Twitch Service :: Viewers init in 454.2698ms
+[2026-02-27 08:33:27.406 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2026-02-27 08:33:27.505 DBG] Twitch Service :: Found 7 editors for channel atomsmasher101
+[2026-02-27 08:33:27.785 INF] Twitch Service :: Found 13 Moderators for the channel atomsmasher101
+[2026-02-27 08:33:27.905 INF] Twitch Service :: Found 18 VIPs for the channel atomsmasher101
+[2026-02-27 08:33:27.908 DBG] ViewerRepo :: Time to update mods and VIPs, 0.9104ms (nm: 0, em: 1, nv: 0, ev: 0, ru: 1)
+[2026-02-27 08:33:27.908 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 399.7835ms
+[2026-02-27 08:33:27.910 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2026-02-27 08:33:28.304 DBG] Twitch Service :: "AtomSmasher101" has 12 subscriptions.
+[2026-02-27 08:33:28.334 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2026-02-27 08:33:28.339 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2026-02-27 08:33:28.339 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2026-02-27 08:33:28.439 DBG] Twitch (Broadcaster) :: Opening connection
+[2026-02-27 08:33:28.464 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 56 events
+[2026-02-27 08:33:28.507 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (44.227.173.36:6697)
+[2026-02-27 08:33:28.507 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2026-02-27 08:33:28.687 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2026-02-27 08:33:28.822 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2026-02-27 08:33:28.825 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2026-02-27 08:33:28.827 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2026-02-27 08:33:33.560 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2026-02-27 08:33:46.088 DBG] Users :: Time to save 13.7214ms
+[2026-02-27 08:33:46.158 DBG] Actions :: Time to save 68.9384ms
+[2026-02-27 08:33:46.174 DBG] Commands :: Time to save 13.8999ms
+[2026-02-27 08:33:46.185 DBG] Twitch Rewards :: Time to save 11.349ms
+[2026-02-27 08:33:46.197 DBG] Midi :: Time to save 9.5859ms
+[2026-02-27 08:33:46.208 DBG] OBS Settings :: Time to save 10.1575ms
+[2026-02-27 08:33:46.220 DBG] MeldStudio Settings :: Time to save 9.9046ms
+[2026-02-27 08:33:46.233 DBG] Credits :: Time to save 10.7661ms
+[2026-02-27 08:33:46.247 DBG] Quotes :: Time to save 11.7947ms
+[2026-02-27 08:33:46.254 INF] Shutting down...
+[2026-02-27 08:33:46.325 INF] Closing services...
+[2026-02-27 08:33:46.325 DBG] UsbRemovalWatcher :: Disposed
+[2026-02-27 08:33:46.325 DBG] ProcessWatcher :: Disposed
+[2026-02-27 08:33:46.326 DBG] ProcessWatcher :: Disposed
+[2026-02-27 08:33:46.329 DBG] Events Service :: Shutting down application event queue thread
+[2026-02-27 08:33:46.329 DBG] Events Service :: Shutting down event queue thread
+[2026-02-27 08:33:46.329 DBG] Events Service :: Shutting down raw event queue thread
+[2026-02-27 08:33:46.333 DBG] Websocket Server :: Stopping server
+[2026-02-27 08:33:46.334 DBG] Http Listener :: Channel is not active
+[2026-02-27 08:33:46.337 DBG] DonorDrive :: Stopping service
+[2026-02-27 08:33:46.338 DBG] MIDI Service :: Stopping service
+[2026-02-27 08:33:46.339 DBG] SLOBS Service :: Stopping service
+[2026-02-27 08:33:46.345 DBG] ActionDispatcher :: Shutting down action queues
+[2026-02-27 08:33:46.347 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2026-02-27 08:33:46.347 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2026-02-27 08:33:46.351 DBG] Websocket Server :: Shutting down command queue thread
+[2026-02-27 08:33:46.351 DBG] Websocket Server :: Shutting down queue thread
+[2026-02-27 08:33:46.351 DBG] MIDI Service :: Shutting down event thread
+[2026-02-27 08:33:46.354 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2026-02-27 08:33:46.354 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-02-27 08:33:46.354 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-02-27 08:33:46.354 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-02-27 08:33:46.354 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-02-27 08:33:46.354 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-02-27 08:33:46.355 DBG] Websocket Client :: Disconnecting from all connected clients
+[2026-02-27 08:33:46.356 DBG] Websocket Custom Server :: Stopping all servers
+[2026-02-27 08:33:46.357 DBG] OBS Service :: Stopping service
+[2026-02-27 08:33:46.361 INF] InlineCode :: Cleaning up '0' execute code instances
+[2026-02-27 08:33:46.365 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2026-02-27 08:33:46.366 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2026-02-27 08:33:46.366 DBG] SpeechToText :: Disposing recognition engine
+[2026-02-27 08:33:46.368 DBG] SpeechToText :: Shutting down queue thread
+[2026-02-27 08:33:46.370 DBG] InlineCode :: Cleaned up execute code instances
+[2026-02-27 08:33:46.378 DBG] OBS Service :: Shutting down event thread
+[2026-02-27 08:33:46.380 DBG] Twitch (Broadcaster) :: Disconnected
+[2026-02-27 08:33:46.382 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2026-02-27 08:33:46.404 DBG] MeldStudio Service :: Stopping service
+[2026-02-27 08:33:46.409 DBG] MeldStudio Service :: Shutting down event thread
+[2026-02-27 08:33:46.416 DBG] Streamer.bot Website Socket :: Disconnected
+[2026-02-27 08:33:46.418 INF] Streamer.bot Service :: Disconnected from Website Client
+[2026-02-27 08:33:46.451 DBG] Config :: Time to save 171.6718ms
+[2026-02-27 08:33:46.565 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2026-02-27 08:33:46.566 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2026-02-27 08:33:46.656 INF] BTTV :: WebSocket Disconnected
+[2026-02-27 08:33:46.839 DBG] Twitch EventSub (Bot) :: Disconnected
+[2026-02-27 08:33:46.842 INF] TwitchService :: Disconnected from Bot EventSub
+[2026-02-27 08:33:49.356 ERR] StreamElements Socket :: Tried to send message to StreamElements, connection is not open. 2
+[2026-02-27 08:33:51.447 DBG] StreamElements Socket :: Disconnected
+[2026-02-27 08:33:51.450 INF] StreamElements Service :: Disconnected from Client
+[2026-02-27 08:33:51.471 DBG] Midi :: Time to save 19.1943ms
+[2026-02-27 08:33:51.472 DBG] MeldStudio Settings :: Time to save 19.9581ms
+[2026-02-27 08:33:51.472 DBG] Twitch Rewards :: Time to save 20.2715ms
+[2026-02-27 08:33:51.472 DBG] Quotes :: Time to save 20.963ms
+[2026-02-27 08:33:51.473 DBG] OBS Settings :: Time to save 20.8442ms
+[2026-02-27 08:33:51.473 DBG] Credits :: Time to save 21.5266ms
+[2026-02-27 08:33:51.473 DBG] Commands :: Time to save 20.9944ms
+[2026-02-27 08:33:51.474 DBG] Users :: Time to save 22.2547ms
+[2026-02-27 08:33:51.477 DBG] Config :: Time to save 24.1913ms
+[2026-02-27 08:33:51.483 DBG] Actions :: Time to save 31.467ms
+[2026-02-27 08:33:51.485 INF] Streamer.bot exited
+[2026-02-27 09:19:26.039 INF] Streamer.bot (1.0.4)
+[2026-02-27 09:19:26.041 INF] Startup Path: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot
+[2026-02-27 09:19:26.042 INF] Startup Args: 
+[2026-02-27 09:19:26.042 INF] Startup Mode: UI
+[2026-02-27 09:19:26.042 INF] Logging Level: Debug
+[2026-02-27 09:19:26.042 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2026-02-27 09:19:26.042 INF] Instance Name: Streamer.bot
+[2026-02-27 09:19:26.042 INF] Operating System: Windows
+[2026-02-27 09:19:26.042 INF] UserInteractive: True
+[2026-02-27 09:19:26.042 INF] WebView2: Found (v145.0.3800.70)
+[2026-02-27 09:19:26.049 INF] Backing up data files
+[2026-02-27 09:19:26.134 INF] Loading config
+[2026-02-27 09:19:26.387 INF] Users :: Upgrade checks finished, 4.3052ms
+[2026-02-27 09:19:26.403 DBG] Users :: Loaded 166 users.
+[2026-02-27 09:19:26.414 DBG] Twitch Rewards :: Loaded 24 rewards.
+[2026-02-27 09:19:28.343 DBG] Actions :: Loaded 143 actions.
+[2026-02-27 09:19:28.349 DBG] OBS Settings :: Loaded.
+[2026-02-27 09:19:28.355 DBG] MeldStudio Settings :: Loaded.
+[2026-02-27 09:19:28.377 DBG] Commands :: Loaded 42 commands.
+[2026-02-27 09:19:28.449 DBG] MIDI :: Loaded 0 actions.
+[2026-02-27 09:19:29.081 INF] Streamer.bot Service :: Logging into account
+[2026-02-27 09:19:29.167 INF] Streamer.bot Service :: Account (firehair) authenticated
+[2026-02-27 09:19:30.969 DBG] Events Service :: Starting event queue thread
+[2026-02-27 09:19:30.970 DBG] Events Service :: Starting raw event queue thread
+[2026-02-27 09:19:30.970 DBG] Events Service :: Starting application event queue thread
+[2026-02-27 09:19:30.973 DBG] Trigger Service :: Initialized
+[2026-02-27 09:19:30.979 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2026-02-27 09:19:30.980 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-02-27 09:19:30.980 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-02-27 09:19:30.980 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-02-27 09:19:30.980 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-02-27 09:19:30.980 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-02-27 09:19:30.987 DBG] Quotes :: Loaded 8 quotes.
+[2026-02-27 09:19:31.072 DBG] Viewers :: 9.0176ms to populate view model
+[2026-02-27 09:19:31.375 INF] Streamer.bot Service :: Connecting to Website Client
+[2026-02-27 09:19:31.377 DBG] Streamer.bot Website Socket :: Opening connection
+[2026-02-27 09:19:31.388 DBG] OBS Service :: Starting event thread
+[2026-02-27 09:19:31.388 DBG] MeldStudio Service :: Starting event thread
+[2026-02-27 09:19:31.393 DBG] TwitchService :: Initializing
+[2026-02-27 09:19:31.400 DBG] TwitchService :: Logging into Broadcaster account
+[2026-02-27 09:19:31.406 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:19:31.407 DBG] TwitchService :: Logging into Bot account
+[2026-02-27 09:19:31.409 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:19:31.412 DBG] Websocket Client :: Auto connecting to clients
+[2026-02-27 09:19:31.413 DBG] Websocket Custom Server :: Auto starting servers
+[2026-02-27 09:19:31.413 DBG] Websocket Server :: Starting server (ws://127.0.0.1:8080)
+[2026-02-27 09:19:31.414 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2026-02-27 09:19:31.417 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2026-02-27 09:19:31.417 DBG] Websocket Server :: Starting queue thread
+[2026-02-27 09:19:31.420 DBG] Websocket Server :: Starting command queue thread
+[2026-02-27 09:19:31.426 INF] MIDI Service :: Initializing 0 MIDI devices
+[2026-02-27 09:19:31.427 INF] SpeechToText :: Initializing recognition engine
+[2026-02-27 09:19:31.429 DBG] MIDI Service :: Starting event thread
+[2026-02-27 09:19:31.429 DBG] UsbRemovalWatcher :: Disposed
+[2026-02-27 09:19:31.431 INF] Input Service: Found 3 valid key inputs.
+[2026-02-27 09:19:31.531 DBG] SpeechToText :: Starting recognition engine
+[2026-02-27 09:19:31.533 DBG] SpeechToText :: Starting queue thread
+[2026-02-27 09:19:31.706 INF] StreamElements :: Logging into account
+[2026-02-27 09:19:31.756 INF] Streamer.bot Service :: Website Client authenticated
+[2026-02-27 09:19:31.757 INF] Streamer.bot Service :: Connected to Website Client
+[2026-02-27 09:19:31.832 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2026-02-27 09:19:31.833 INF] TwitchService :: Fetching Bot account information
+[2026-02-27 09:19:31.840 INF] StreamElements Service :: Connecting to Client
+[2026-02-27 09:19:31.843 DBG] StreamElements Socket :: Opening connection
+[2026-02-27 09:19:31.846 INF] TwitchService :: Fetching Broadcaster account information
+[2026-02-27 09:19:31.950 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2026-02-27 09:19:31.950 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2026-02-27 09:19:31.952 INF] TwitchService :: Connecting to Bot EventSub
+[2026-02-27 09:19:31.958 DBG] Twitch EventSub (Bot) :: Opening connection
+[2026-02-27 09:19:32.021 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2026-02-27 09:19:32.023 DBG] Twitch Service :: Init rest
+[2026-02-27 09:19:32.024 INF] 7TV :: Initializing user '50822403', on twitch
+[2026-02-27 09:19:32.033 INF] BTTV :: Initializing user '50822403', on twitch
+[2026-02-27 09:19:32.034 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2026-02-27 09:19:32.041 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2026-02-27 09:19:32.084 INF] BTTV :: Loaded 65 global emotes
+[2026-02-27 09:19:32.113 INF] StreamElements Service :: Connected to Client
+[2026-02-27 09:19:32.131 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2026-02-27 09:19:32.141 INF] FFZ :: Loaded 15 global emotes
+[2026-02-27 09:19:32.156 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2026-02-27 09:19:32.165 DBG] Twitch Service :: Loaded 33 Twitch cheer emotes
+[2026-02-27 09:19:32.210 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2026-02-27 09:19:32.210 INF] FFZ :: Loaded 0 channel emotes
+[2026-02-27 09:19:32.269 DBG] Twitch Service :: Loaded 230 Twitch badges
+[2026-02-27 09:19:32.327 INF] BTTV :: WebSocket Connected
+[2026-02-27 09:19:32.335 DBG] Twitch Rewards :: Time to save 22.1301ms
+[2026-02-27 09:19:32.366 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2026-02-27 09:19:32.880 INF] 7TV :: Loaded 44 global emotes
+[2026-02-27 09:19:33.156 DBG] Twitch Service :: Loaded 629 Twitch user emotes
+[2026-02-27 09:19:33.162 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2026-02-27 09:19:33.377 DBG] Getting viewers for channel "atomsmasher101" (4)
+[2026-02-27 09:19:33.377 DBG] Twitch Service :: Fetched viewers for channel (4)
+[2026-02-27 09:19:33.381 DBG] Twitch Service :: (4) - Existing: 4, New Users: 0 (3.1849ms)
+[2026-02-27 09:19:33.381 DBG] Twitch Service :: Viewers init in 216.1622ms
+[2026-02-27 09:19:33.383 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2026-02-27 09:19:33.455 DBG] Twitch Service :: Found 7 editors for channel atomsmasher101
+[2026-02-27 09:19:33.472 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:19:33.472 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:19:33.563 INF] Twitch Service :: Found 13 Moderators for the channel atomsmasher101
+[2026-02-27 09:19:33.717 INF] Twitch Service :: Found 18 VIPs for the channel atomsmasher101
+[2026-02-27 09:19:33.722 DBG] ViewerRepo :: Time to update mods and VIPs, 1.0624ms (nm: 0, em: 1, nv: 0, ev: 0, ru: 1)
+[2026-02-27 09:19:33.722 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 263.6641ms
+[2026-02-27 09:19:33.723 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2026-02-27 09:19:33.916 DBG] Twitch Service :: "AtomSmasher101" has 12 subscriptions.
+[2026-02-27 09:19:33.943 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2026-02-27 09:19:33.949 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2026-02-27 09:19:33.949 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2026-02-27 09:19:34.013 DBG] Twitch (Broadcaster) :: Opening connection
+[2026-02-27 09:19:34.075 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 56 events
+[2026-02-27 09:19:34.079 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (44.237.40.50:6697)
+[2026-02-27 09:19:34.079 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2026-02-27 09:19:34.208 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2026-02-27 09:19:34.345 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2026-02-27 09:19:34.349 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2026-02-27 09:19:34.352 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2026-02-27 09:19:39.120 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2026-02-27 09:20:03.490 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:20:03.490 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:20:03.490 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:20:05.532 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:20:05.532 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:20:34.221 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.1882ms
+[2026-02-27 09:20:34.283 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (62.8357ms)
+[2026-02-27 09:20:35.541 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:20:35.541 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:20:35.541 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:20:37.597 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:20:37.597 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:21:07.598 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:21:07.598 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:21:07.598 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:21:09.640 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:21:09.640 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:21:34.221 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0314ms
+[2026-02-27 09:21:34.279 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (58.3927ms)
+[2026-02-27 09:21:39.649 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:21:39.649 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:21:39.649 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:21:41.709 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:21:41.709 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:22:11.714 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:22:11.714 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:22:11.714 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:22:13.773 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:22:13.773 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:22:34.242 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0319ms
+[2026-02-27 09:22:34.299 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (56.6986ms)
+[2026-02-27 09:22:43.790 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:22:43.790 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:22:43.790 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:22:45.847 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:22:45.847 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:23:15.861 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:23:15.861 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:23:15.861 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:23:17.903 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:23:17.903 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:23:34.257 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0326ms
+[2026-02-27 09:23:34.310 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (52.52ms)
+[2026-02-27 09:23:47.917 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:23:47.917 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:23:47.917 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:23:49.973 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:23:49.973 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:24:19.986 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:24:19.986 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:24:19.986 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:24:22.043 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:24:22.043 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:24:28.728 DBG] Credits :: Time to save 18.1449ms
+[2026-02-27 09:24:31.065 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:24:31.086 DBG] Users :: Time to save 18.8998ms
+[2026-02-27 09:24:31.160 DBG] Actions :: Time to save 71.4619ms
+[2026-02-27 09:24:31.176 DBG] Commands :: Time to save 14.6522ms
+[2026-02-27 09:24:31.187 DBG] Twitch Rewards :: Time to save 11.1345ms
+[2026-02-27 09:24:31.203 DBG] Midi :: Time to save 13.5682ms
+[2026-02-27 09:24:31.217 DBG] OBS Settings :: Time to save 11.4236ms
+[2026-02-27 09:24:31.231 DBG] MeldStudio Settings :: Time to save 11.0203ms
+[2026-02-27 09:24:31.243 DBG] Credits :: Time to save 11.7829ms
+[2026-02-27 09:24:31.260 DBG] Quotes :: Time to save 14.9523ms
+[2026-02-27 09:24:31.322 DBG] Config :: Time to save 54.1775ms
+[2026-02-27 09:24:34.259 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2026-02-27 09:24:34.316 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.144ms)
+[2026-02-27 09:24:52.047 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:24:52.047 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:24:52.047 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:24:54.077 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:24:54.077 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:25:24.083 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:25:24.083 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:25:24.083 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:25:26.126 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:25:26.126 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:25:34.267 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-02-27 09:25:34.326 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (59.1883ms)
+[2026-02-27 09:25:56.139 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:25:56.139 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:25:56.139 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:25:58.183 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:25:58.183 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:26:28.192 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:26:28.192 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:26:28.192 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:26:30.234 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:26:30.234 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:26:34.267 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0307ms
+[2026-02-27 09:26:34.326 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (59.5899ms)
+[2026-02-27 09:27:00.241 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:27:00.241 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:27:00.241 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:27:02.271 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:27:02.271 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:27:32.282 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:27:32.282 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:27:32.282 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:27:34.277 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0313ms
+[2026-02-27 09:27:34.324 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:27:34.324 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:27:34.332 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (55.0182ms)
+[2026-02-27 09:28:04.332 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:28:04.332 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:28:04.332 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:28:06.363 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:28:06.363 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:28:34.287 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0543ms
+[2026-02-27 09:28:34.343 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (56.3647ms)
+[2026-02-27 09:28:36.376 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:28:36.376 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:28:36.376 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:28:38.417 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:28:38.417 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:29:08.425 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:29:08.425 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:29:08.425 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:29:10.483 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:29:10.483 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:29:26.952 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-02-27 09:29:26.955 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-02-27 09:29:26.955 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-02-27 09:29:26.961 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 1ce77cfa-0507-46f4-bdfe-923bcde033d2)
+[2026-02-27 09:29:28.739 DBG] Credits :: Time to save 17.1722ms
+[2026-02-27 09:29:31.384 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:29:31.399 DBG] Users :: Time to save 14.5933ms
+[2026-02-27 09:29:31.422 DBG] Actions :: Time to save 22.8373ms
+[2026-02-27 09:29:31.437 DBG] Commands :: Time to save 16.564ms
+[2026-02-27 09:29:31.455 DBG] Twitch Rewards :: Time to save 16.8572ms
+[2026-02-27 09:29:31.465 DBG] Midi :: Time to save 10.4985ms
+[2026-02-27 09:29:31.479 DBG] OBS Settings :: Time to save 13.5294ms
+[2026-02-27 09:29:31.489 DBG] MeldStudio Settings :: Time to save 9.9908ms
+[2026-02-27 09:29:31.503 DBG] Credits :: Time to save 14.2627ms
+[2026-02-27 09:29:31.520 DBG] Quotes :: Time to save 16.3841ms
+[2026-02-27 09:29:31.602 DBG] Config :: Time to save 13.034ms
+[2026-02-27 09:29:34.296 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-02-27 09:29:34.358 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (62.7335ms)
+[2026-02-27 09:29:40.484 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:29:40.484 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:29:40.484 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:29:42.515 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:29:42.515 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:30:12.517 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:30:12.517 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:30:12.517 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:30:14.572 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:30:14.572 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:30:34.302 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0561ms
+[2026-02-27 09:30:34.362 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (59.4855ms)
+[2026-02-27 09:30:44.577 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:30:44.577 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:30:44.577 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:30:46.625 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:30:46.625 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:31:16.639 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:31:16.639 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:31:16.639 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:31:18.683 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:31:18.683 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:31:34.310 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0426ms
+[2026-02-27 09:31:34.367 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (58.5349ms)
+[2026-02-27 09:31:48.696 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:31:48.696 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:31:48.696 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:31:50.739 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:31:50.739 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:32:20.745 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:32:20.745 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:32:20.745 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:32:22.774 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:32:22.774 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:32:34.319 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0301ms
+[2026-02-27 09:32:34.376 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.3435ms)
+[2026-02-27 09:32:52.780 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:32:52.780 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:32:52.780 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:32:54.810 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:32:54.810 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:33:24.817 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:33:24.817 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:33:24.817 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:33:26.872 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:33:26.872 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:33:34.325 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0286ms
+[2026-02-27 09:33:34.381 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (56.2082ms)
+[2026-02-27 09:33:56.874 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:33:56.874 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:33:56.874 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:33:58.916 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:33:58.916 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:34:28.744 DBG] Credits :: Time to save 12.5612ms
+[2026-02-27 09:34:28.918 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:34:28.918 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:34:28.918 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:34:30.964 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:34:30.964 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:34:31.619 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:34:31.633 DBG] Users :: Time to save 14.5521ms
+[2026-02-27 09:34:31.656 DBG] Actions :: Time to save 23.2496ms
+[2026-02-27 09:34:31.673 DBG] Commands :: Time to save 16.4347ms
+[2026-02-27 09:34:31.690 DBG] Twitch Rewards :: Time to save 16.3733ms
+[2026-02-27 09:34:31.703 DBG] Midi :: Time to save 13.7569ms
+[2026-02-27 09:34:31.718 DBG] OBS Settings :: Time to save 14.4912ms
+[2026-02-27 09:34:31.731 DBG] MeldStudio Settings :: Time to save 13.5603ms
+[2026-02-27 09:34:31.746 DBG] Credits :: Time to save 14.2421ms
+[2026-02-27 09:34:31.756 DBG] Quotes :: Time to save 10.8046ms
+[2026-02-27 09:34:31.834 DBG] Config :: Time to save 12.9552ms
+[2026-02-27 09:34:34.329 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.032ms
+[2026-02-27 09:34:34.387 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (58.2816ms)
+[2026-02-27 09:35:00.972 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:35:00.972 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:35:00.972 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:35:03.028 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:35:03.028 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:35:33.031 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:35:33.031 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:35:33.031 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:35:34.340 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0322ms
+[2026-02-27 09:35:34.397 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (58.5403ms)
+[2026-02-27 09:35:35.089 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:35:35.089 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:36:05.099 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:36:05.099 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:36:05.099 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:36:07.142 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:36:07.142 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:36:34.350 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-02-27 09:36:34.407 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.3367ms)
+[2026-02-27 09:36:37.165 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:36:37.165 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:36:37.165 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:36:39.196 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:36:39.196 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:37:01.282 DBG] Users :: Time to save 14.8875ms
+[2026-02-27 09:37:01.300 DBG] Actions :: Time to save 17.5445ms
+[2026-02-27 09:37:01.312 DBG] Commands :: Time to save 12.1575ms
+[2026-02-27 09:37:01.324 DBG] Twitch Rewards :: Time to save 12.0154ms
+[2026-02-27 09:37:01.335 DBG] Midi :: Time to save 10.9772ms
+[2026-02-27 09:37:01.345 DBG] OBS Settings :: Time to save 10.7515ms
+[2026-02-27 09:37:01.356 DBG] MeldStudio Settings :: Time to save 10.449ms
+[2026-02-27 09:37:01.366 DBG] Credits :: Time to save 10.3599ms
+[2026-02-27 09:37:01.379 DBG] Quotes :: Time to save 12.5154ms
+[2026-02-27 09:37:01.387 INF] Shutting down...
+[2026-02-27 09:37:01.457 INF] Closing services...
+[2026-02-27 09:37:01.457 DBG] UsbRemovalWatcher :: Disposed
+[2026-02-27 09:37:01.457 DBG] ProcessWatcher :: Disposed
+[2026-02-27 09:37:01.459 DBG] ProcessWatcher :: Disposed
+[2026-02-27 09:37:01.462 DBG] Events Service :: Shutting down event queue thread
+[2026-02-27 09:37:01.462 DBG] Events Service :: Shutting down application event queue thread
+[2026-02-27 09:37:01.462 DBG] Events Service :: Shutting down raw event queue thread
+[2026-02-27 09:37:01.465 DBG] DonorDrive :: Stopping service
+[2026-02-27 09:37:01.465 DBG] Websocket Server :: Stopping server
+[2026-02-27 09:37:01.466 DBG] SLOBS Service :: Stopping service
+[2026-02-27 09:37:01.468 DBG] Http Listener :: Channel is not active
+[2026-02-27 09:37:01.476 DBG] OBS Service :: Stopping service
+[2026-02-27 09:37:01.476 DBG] MIDI Service :: Stopping service
+[2026-02-27 09:37:01.477 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2026-02-27 09:37:01.479 DBG] ActionDispatcher :: Shutting down action queues
+[2026-02-27 09:37:01.481 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2026-02-27 09:37:01.481 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-02-27 09:37:01.481 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-02-27 09:37:01.481 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-02-27 09:37:01.481 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-02-27 09:37:01.481 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-02-27 09:37:01.482 DBG] Websocket Server :: Shutting down queue thread
+[2026-02-27 09:37:01.482 DBG] Websocket Server :: Shutting down command queue thread
+[2026-02-27 09:37:01.482 DBG] MIDI Service :: Shutting down event thread
+[2026-02-27 09:37:01.490 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2026-02-27 09:37:01.492 INF] InlineCode :: Cleaning up '0' execute code instances
+[2026-02-27 09:37:01.500 DBG] SpeechToText :: Disposing recognition engine
+[2026-02-27 09:37:01.500 DBG] Websocket Client :: Disconnecting from all connected clients
+[2026-02-27 09:37:01.503 DBG] SpeechToText :: Shutting down queue thread
+[2026-02-27 09:37:01.503 DBG] OBS Service :: Shutting down event thread
+[2026-02-27 09:37:01.504 DBG] InlineCode :: Cleaned up execute code instances
+[2026-02-27 09:37:01.509 DBG] Websocket Custom Server :: Stopping all servers
+[2026-02-27 09:37:01.510 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2026-02-27 09:37:01.510 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2026-02-27 09:37:01.515 DBG] Config :: Time to save 26.9662ms
+[2026-02-27 09:37:01.523 DBG] Twitch (Broadcaster) :: Disconnected
+[2026-02-27 09:37:01.525 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2026-02-27 09:37:01.531 DBG] MeldStudio Service :: Stopping service
+[2026-02-27 09:37:01.535 DBG] MeldStudio Service :: Shutting down event thread
+[2026-02-27 09:37:01.558 DBG] Streamer.bot Website Socket :: Disconnected
+[2026-02-27 09:37:01.560 INF] Streamer.bot Service :: Disconnected from Website Client
+[2026-02-27 09:37:01.667 DBG] StreamElements Socket :: Disconnected
+[2026-02-27 09:37:01.669 INF] StreamElements Service :: Disconnected from Client
+[2026-02-27 09:37:01.704 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2026-02-27 09:37:01.707 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2026-02-27 09:37:01.806 INF] BTTV :: WebSocket Disconnected
+[2026-02-27 09:37:01.992 DBG] Twitch EventSub (Bot) :: Disconnected
+[2026-02-27 09:37:01.994 INF] TwitchService :: Disconnected from Bot EventSub
+[2026-02-27 09:37:02.067 DBG] OBS Settings :: Time to save 25.9077ms
+[2026-02-27 09:37:02.067 DBG] MeldStudio Settings :: Time to save 25.997ms
+[2026-02-27 09:37:02.069 DBG] Credits :: Time to save 27.5432ms
+[2026-02-27 09:37:02.069 DBG] Config :: Time to save 26.856ms
+[2026-02-27 09:37:02.069 DBG] Midi :: Time to save 27.1579ms
+[2026-02-27 09:37:02.074 DBG] Commands :: Time to save 32.3768ms
+[2026-02-27 09:37:02.076 DBG] Twitch Rewards :: Time to save 33.8405ms
+[2026-02-27 09:37:02.076 DBG] Quotes :: Time to save 34.7555ms
+[2026-02-27 09:37:02.076 DBG] Users :: Time to save 34.989ms
+[2026-02-27 09:37:02.101 DBG] Actions :: Time to save 58.8703ms
+[2026-02-27 09:37:02.103 INF] Streamer.bot exited
+[2026-02-27 09:39:52.679 INF] Streamer.bot (1.0.4)
+[2026-02-27 09:39:52.682 INF] Startup Path: C:\Users\littl\Documents\GitHub\AtomSmasherStreamerbot
+[2026-02-27 09:39:52.682 INF] Startup Args: 
+[2026-02-27 09:39:52.682 INF] Startup Mode: UI
+[2026-02-27 09:39:52.682 INF] Logging Level: Debug
+[2026-02-27 09:39:52.682 INF] Instance Id: 06fed1eb-4928-42ca-9057-06594f534c13
+[2026-02-27 09:39:52.682 INF] Instance Name: Streamer.bot
+[2026-02-27 09:39:52.682 INF] Operating System: Windows
+[2026-02-27 09:39:52.682 INF] UserInteractive: True
+[2026-02-27 09:39:52.682 INF] WebView2: Found (v145.0.3800.70)
+[2026-02-27 09:39:52.688 INF] Backing up data files
+[2026-02-27 09:39:52.769 INF] Loading config
+[2026-02-27 09:39:53.013 INF] Users :: Upgrade checks finished, 4.013ms
+[2026-02-27 09:39:53.030 DBG] Users :: Loaded 166 users.
+[2026-02-27 09:39:53.039 DBG] Twitch Rewards :: Loaded 24 rewards.
+[2026-02-27 09:39:54.854 DBG] Actions :: Loaded 143 actions.
+[2026-02-27 09:39:54.861 DBG] OBS Settings :: Loaded.
+[2026-02-27 09:39:54.866 DBG] MeldStudio Settings :: Loaded.
+[2026-02-27 09:39:54.887 DBG] Commands :: Loaded 42 commands.
+[2026-02-27 09:39:54.959 DBG] MIDI :: Loaded 0 actions.
+[2026-02-27 09:39:55.650 INF] Streamer.bot Service :: Logging into account
+[2026-02-27 09:39:55.744 INF] Streamer.bot Service :: Account (firehair) authenticated
+[2026-02-27 09:39:57.633 DBG] Events Service :: Starting event queue thread
+[2026-02-27 09:39:57.633 DBG] Events Service :: Starting raw event queue thread
+[2026-02-27 09:39:57.633 DBG] Events Service :: Starting application event queue thread
+[2026-02-27 09:39:57.637 DBG] Trigger Service :: Initialized
+[2026-02-27 09:39:57.643 DBG] ActionQueue :: Starting queue 00000000-0000-0000-0000-000000000000 thread
+[2026-02-27 09:39:57.644 DBG] ActionQueue :: Starting queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-02-27 09:39:57.644 DBG] ActionQueue :: Starting queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-02-27 09:39:57.644 DBG] ActionQueue :: Starting queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-02-27 09:39:57.644 DBG] ActionQueue :: Starting queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-02-27 09:39:57.644 DBG] ActionQueue :: Starting queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-02-27 09:39:57.650 DBG] Quotes :: Loaded 8 quotes.
+[2026-02-27 09:39:57.740 DBG] Viewers :: 9.9963ms to populate view model
+[2026-02-27 09:39:58.065 INF] Streamer.bot Service :: Connecting to Website Client
+[2026-02-27 09:39:58.067 DBG] Streamer.bot Website Socket :: Opening connection
+[2026-02-27 09:39:58.078 DBG] MeldStudio Service :: Starting event thread
+[2026-02-27 09:39:58.078 DBG] OBS Service :: Starting event thread
+[2026-02-27 09:39:58.085 DBG] TwitchService :: Initializing
+[2026-02-27 09:39:58.092 DBG] TwitchService :: Logging into Broadcaster account
+[2026-02-27 09:39:58.100 DBG] TwitchService :: Logging into Bot account
+[2026-02-27 09:39:58.105 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:39:58.106 DBG] Websocket Client :: Auto connecting to clients
+[2026-02-27 09:39:58.107 DBG] Websocket Custom Server :: Auto starting servers
+[2026-02-27 09:39:58.107 DBG] Websocket Server :: Starting server (ws://127.0.0.1:8080)
+[2026-02-27 09:39:58.108 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:39:58.110 DBG] Websocket Server (Godot Websocket) :: Starting server (ws://127.0.0.1:9090/)
+[2026-02-27 09:39:58.113 DBG] Websocket Server :: Starting queue thread
+[2026-02-27 09:39:58.114 DBG] Websocket Server (Godot Websocket) :: Starting message queue thread
+[2026-02-27 09:39:58.114 DBG] Websocket Server :: Starting command queue thread
+[2026-02-27 09:39:58.123 INF] MIDI Service :: Initializing 0 MIDI devices
+[2026-02-27 09:39:58.125 DBG] MIDI Service :: Starting event thread
+[2026-02-27 09:39:58.127 INF] SpeechToText :: Initializing recognition engine
+[2026-02-27 09:39:58.127 DBG] UsbRemovalWatcher :: Disposed
+[2026-02-27 09:39:58.129 INF] Input Service: Found 3 valid key inputs.
+[2026-02-27 09:39:58.247 DBG] SpeechToText :: Starting recognition engine
+[2026-02-27 09:39:58.249 DBG] SpeechToText :: Starting queue thread
+[2026-02-27 09:39:58.436 INF] Streamer.bot Service :: Website Client authenticated
+[2026-02-27 09:39:58.436 INF] Streamer.bot Service :: Connected to Website Client
+[2026-02-27 09:39:58.450 INF] StreamElements :: Logging into account
+[2026-02-27 09:39:58.539 INF] TwitchService :: Fetching Broadcaster account information
+[2026-02-27 09:39:58.554 INF] TwitchService :: Fetching Bot account information
+[2026-02-27 09:39:58.585 INF] StreamElements :: Account (atomsmasher101) authenticated
+[2026-02-27 09:39:58.591 INF] StreamElements Service :: Connecting to Client
+[2026-02-27 09:39:58.594 DBG] StreamElements Socket :: Opening connection
+[2026-02-27 09:39:58.670 INF] TwitchService :: Broadcaster account (atomsmasher101) authenticated
+[2026-02-27 09:39:58.670 INF] TwitchService :: Bot account (atomsmasherbot) authenticated
+[2026-02-27 09:39:58.672 INF] TwitchService :: Connecting to Bot EventSub
+[2026-02-27 09:39:58.677 DBG] Twitch EventSub (Bot) :: Opening connection
+[2026-02-27 09:39:58.737 DBG] Twitch Service :: Initializing Third Party Emote Handlers
+[2026-02-27 09:39:58.740 DBG] Twitch Service :: Init rest
+[2026-02-27 09:39:58.741 INF] 7TV :: Initializing user '50822403', on twitch
+[2026-02-27 09:39:58.750 INF] BTTV :: Initializing user '50822403', on twitch
+[2026-02-27 09:39:58.751 INF] BetterTTV.Socket :: Connecting to BTTV WebSocket, monitoring for changes for user '50822403' on twitch
+[2026-02-27 09:39:58.757 INF] FFZ :: Initializing user 'atomsmasher101' (50822403), on twitch
+[2026-02-27 09:39:58.813 INF] BTTV :: Loaded 65 global emotes
+[2026-02-27 09:39:58.873 INF] FFZ :: Loaded 15 global emotes
+[2026-02-27 09:39:58.876 INF] StreamElements Service :: Connected to Client
+[2026-02-27 09:39:58.892 ERR] BTTV :: Response error NotFound from BTTV channel endpoint.
+[2026-02-27 09:39:58.927 DBG] Twitch Service :: Loaded 33 Twitch cheer emotes
+[2026-02-27 09:39:58.937 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2026-02-27 09:39:58.946 WRN] FFZ :: Room not found, user does not have channel emotes configured.
+[2026-02-27 09:39:58.946 INF] FFZ :: Loaded 0 channel emotes
+[2026-02-27 09:39:58.946 DBG] Twitch Service :: Loaded 230 Twitch badges
+[2026-02-27 09:39:59.047 INF] BTTV :: WebSocket Connected
+[2026-02-27 09:39:59.160 DBG] Twitch Rewards :: Time to save 21.1149ms
+[2026-02-27 09:39:59.271 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2026-02-27 09:39:59.861 INF] 7TV :: Loaded 44 global emotes
+[2026-02-27 09:39:59.982 DBG] Twitch Service :: Loaded 629 Twitch user emotes
+[2026-02-27 09:40:00.055 ERR] 7TV :: Response error NotFound from 7TV channel endpoint.
+[2026-02-27 09:40:00.136 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:40:00.136 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:40:00.330 DBG] Getting viewers for channel "atomsmasher101" (4)
+[2026-02-27 09:40:00.331 DBG] Twitch Service :: Fetched viewers for channel (4)
+[2026-02-27 09:40:00.334 DBG] Twitch Service :: (4) - Existing: 4, New Users: 0 (3.2496ms)
+[2026-02-27 09:40:00.334 DBG] Twitch Service :: Viewers init in 275.4927ms
+[2026-02-27 09:40:00.336 DBG] Twitch Service :: Loading editors for channel atomsmasher101
+[2026-02-27 09:40:00.402 DBG] Twitch Service :: Found 7 editors for channel atomsmasher101
+[2026-02-27 09:40:00.514 INF] Twitch Service :: Found 13 Moderators for the channel atomsmasher101
+[2026-02-27 09:40:00.670 INF] Twitch Service :: Found 18 VIPs for the channel atomsmasher101
+[2026-02-27 09:40:00.672 DBG] ViewerRepo :: Time to update mods and VIPs, 1.014ms (nm: 0, em: 1, nv: 0, ev: 0, ru: 1)
+[2026-02-27 09:40:00.672 DBG] Twitch Service :: Time to update/add mods and vips for the channel atomsmasher101, 268.6679ms
+[2026-02-27 09:40:00.674 DBG] Twitch Service :: Loading subscribers for atomsmasher101
+[2026-02-27 09:40:01.006 DBG] Twitch Service :: "AtomSmasher101" has 12 subscriptions.
+[2026-02-27 09:40:01.033 INF] TwitchService :: Connecting to Broadcaster Chat Client
+[2026-02-27 09:40:01.038 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2026-02-27 09:40:01.039 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2026-02-27 09:40:01.102 DBG] Twitch (Broadcaster) :: Opening connection
+[2026-02-27 09:40:01.173 DBG] Twitch (Broadcaster) :: Connected to irc.chat.twitch.tv:6697 (44.227.173.36:6697)
+[2026-02-27 09:40:01.173 DBG] Twitch (Broadcaster) :: Negotiating SSL stream with irc.chat.twitch.tv
+[2026-02-27 09:40:01.255 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 56 events
+[2026-02-27 09:40:01.285 DBG] Twitch (Broadcaster) :: Twitch Client Socket opened
+[2026-02-27 09:40:01.430 DBG] Twitch (Broadcaster) :: Listening and Authenticated
+[2026-02-27 09:40:01.433 DBG] Twitch (Broadcaster) :: Joining chanel #atomsmasher101
+[2026-02-27 09:40:01.436 INF] TwitchService :: Connected to Broadcaster Chat Client
+[2026-02-27 09:40:10.885 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2026-02-27 09:40:30.147 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:40:30.147 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:40:30.147 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:40:32.163 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:40:32.163 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:41:01.309 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.1718ms
+[2026-02-27 09:41:01.368 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (61.0273ms)
+[2026-02-27 09:41:02.176 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:41:02.176 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:41:02.176 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:41:04.193 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:41:04.193 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:41:34.199 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:41:34.199 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:41:34.199 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:41:36.211 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:41:36.211 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:42:01.309 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0482ms
+[2026-02-27 09:42:01.364 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (55.198ms)
+[2026-02-27 09:42:06.217 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:42:06.217 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:42:06.217 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:42:08.236 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:42:08.236 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:42:38.247 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:42:38.247 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:42:38.247 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:42:40.275 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:42:40.275 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:43:01.323 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0269ms
+[2026-02-27 09:43:01.379 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.1722ms)
+[2026-02-27 09:43:10.278 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:43:10.278 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:43:10.278 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:43:12.316 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:43:12.316 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:43:42.318 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:43:42.318 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:43:42.318 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:43:44.351 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:43:44.351 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:44:01.338 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0286ms
+[2026-02-27 09:44:01.397 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (59.131ms)
+[2026-02-27 09:44:14.352 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:44:14.352 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:44:14.352 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:44:16.372 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:44:16.372 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:44:46.381 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:44:46.381 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:44:46.381 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:44:48.401 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:44:48.401 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:44:55.234 DBG] Credits :: Time to save 12.9011ms
+[2026-02-27 09:44:57.738 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:44:57.757 DBG] Users :: Time to save 15.6462ms
+[2026-02-27 09:44:57.830 DBG] Actions :: Time to save 71.8649ms
+[2026-02-27 09:44:57.846 DBG] Commands :: Time to save 13.6934ms
+[2026-02-27 09:44:57.856 DBG] Twitch Rewards :: Time to save 9.8765ms
+[2026-02-27 09:44:57.865 DBG] Midi :: Time to save 8.7966ms
+[2026-02-27 09:44:57.879 DBG] OBS Settings :: Time to save 11.1298ms
+[2026-02-27 09:44:57.892 DBG] MeldStudio Settings :: Time to save 10.3266ms
+[2026-02-27 09:44:57.900 DBG] Credits :: Time to save 8.6777ms
+[2026-02-27 09:44:57.913 DBG] Quotes :: Time to save 11.1653ms
+[2026-02-27 09:44:57.993 DBG] Config :: Time to save 49.35ms
+[2026-02-27 09:45:01.349 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-02-27 09:45:01.405 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (56.8095ms)
+[2026-02-27 09:45:18.415 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:45:18.415 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:45:18.415 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:45:20.431 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:45:20.431 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:45:50.445 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:45:50.445 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:45:50.445 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:45:52.454 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:45:52.454 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:46:01.356 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.04ms
+[2026-02-27 09:46:01.414 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (58.044ms)
+[2026-02-27 09:46:22.465 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:46:22.465 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:46:22.465 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:46:24.477 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:46:24.477 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:46:54.483 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:46:54.483 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:46:54.483 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:46:56.511 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:46:56.511 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:47:01.364 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0284ms
+[2026-02-27 09:47:01.422 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.6277ms)
+[2026-02-27 09:47:26.525 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:47:26.525 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:47:26.525 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:47:28.548 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:47:28.548 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:47:58.561 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:47:58.561 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:47:58.561 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:48:00.582 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:48:00.582 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:48:01.368 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0275ms
+[2026-02-27 09:48:01.420 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (52.1018ms)
+[2026-02-27 09:48:30.591 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:48:30.591 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:48:30.591 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:48:32.612 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:48:32.612 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:49:01.383 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0286ms
+[2026-02-27 09:49:01.436 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (53.3698ms)
+[2026-02-27 09:49:02.623 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:49:02.623 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:49:02.623 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:49:04.643 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:49:04.643 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:49:34.659 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:49:34.659 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:49:34.659 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:49:36.677 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:49:36.677 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:49:53.755 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-02-27 09:49:53.757 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-02-27 09:49:53.757 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-02-27 09:49:53.763 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 4418aa4f-6ea3-44b1-a998-60e5aa7c7b46)
+[2026-02-27 09:49:55.241 DBG] Credits :: Time to save 10.9236ms
+[2026-02-27 09:49:57.979 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:49:57.991 DBG] Users :: Time to save 12.3097ms
+[2026-02-27 09:49:58.007 DBG] Actions :: Time to save 15.2269ms
+[2026-02-27 09:49:58.017 DBG] Commands :: Time to save 10.5899ms
+[2026-02-27 09:49:58.027 DBG] Twitch Rewards :: Time to save 9.5295ms
+[2026-02-27 09:49:58.035 DBG] Midi :: Time to save 8.4139ms
+[2026-02-27 09:49:58.044 DBG] OBS Settings :: Time to save 8.2454ms
+[2026-02-27 09:49:58.052 DBG] MeldStudio Settings :: Time to save 7.7881ms
+[2026-02-27 09:49:58.060 DBG] Credits :: Time to save 8.3963ms
+[2026-02-27 09:49:58.069 DBG] Quotes :: Time to save 9.2488ms
+[2026-02-27 09:49:58.194 DBG] Config :: Time to save 12.4992ms
+[2026-02-27 09:50:01.392 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0554ms
+[2026-02-27 09:50:01.446 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (54.6166ms)
+[2026-02-27 09:50:06.686 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:50:06.686 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:50:06.686 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:50:08.714 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:50:08.714 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:50:38.718 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:50:38.718 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:50:38.718 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:50:40.750 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:50:40.750 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:51:01.406 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0639ms
+[2026-02-27 09:51:01.463 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.9681ms)
+[2026-02-27 09:51:10.762 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:51:10.762 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:51:10.762 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:51:12.786 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:51:12.786 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:51:42.799 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:51:42.799 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:51:42.799 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:51:44.833 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:51:44.833 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:52:01.418 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0426ms
+[2026-02-27 09:52:01.472 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (54.483ms)
+[2026-02-27 09:52:14.851 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:52:14.851 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:52:14.851 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:52:16.904 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:52:16.904 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:52:46.908 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:52:46.908 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:52:46.908 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:52:48.925 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:52:48.925 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:53:01.429 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0317ms
+[2026-02-27 09:53:01.485 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.3568ms)
+[2026-02-27 09:53:18.938 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:53:18.938 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:53:18.938 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:53:20.987 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:53:20.987 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:53:51.004 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:53:51.004 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:53:51.004 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:53:53.024 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:53:53.024 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:54:01.441 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0313ms
+[2026-02-27 09:54:01.494 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (53.5843ms)
+[2026-02-27 09:54:23.027 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:54:23.027 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:54:23.027 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:54:25.047 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:54:25.047 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:54:55.052 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:54:55.052 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:54:55.052 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:54:55.255 DBG] Credits :: Time to save 14.7921ms
+[2026-02-27 09:54:57.072 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:54:57.072 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:54:58.154 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:54:58.171 DBG] Users :: Time to save 17.3696ms
+[2026-02-27 09:54:58.187 DBG] Actions :: Time to save 16.5293ms
+[2026-02-27 09:54:58.203 DBG] Commands :: Time to save 15.2975ms
+[2026-02-27 09:54:58.218 DBG] Twitch Rewards :: Time to save 14.729ms
+[2026-02-27 09:54:58.227 DBG] Midi :: Time to save 9.2266ms
+[2026-02-27 09:54:58.235 DBG] OBS Settings :: Time to save 8.8616ms
+[2026-02-27 09:54:58.245 DBG] MeldStudio Settings :: Time to save 8.8401ms
+[2026-02-27 09:54:58.257 DBG] Credits :: Time to save 11.3724ms
+[2026-02-27 09:54:58.271 DBG] Quotes :: Time to save 15.0041ms
+[2026-02-27 09:54:58.377 DBG] Config :: Time to save 17.8103ms
+[2026-02-27 09:55:01.458 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0318ms
+[2026-02-27 09:55:01.515 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.7117ms)
+[2026-02-27 09:55:27.087 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:55:27.087 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:55:27.087 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:55:29.114 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:55:29.114 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:55:59.127 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:55:59.127 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:55:59.127 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:56:01.158 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:56:01.158 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:56:01.469 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0292ms
+[2026-02-27 09:56:01.523 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (54.0127ms)
+[2026-02-27 09:56:31.169 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:56:31.169 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:56:31.169 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:56:33.191 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:56:33.191 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:57:01.483 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0413ms
+[2026-02-27 09:57:01.538 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (55.2281ms)
+[2026-02-27 09:57:03.207 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:57:03.207 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:57:03.207 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:57:05.242 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:57:05.242 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:57:35.257 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:57:35.257 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:57:35.257 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:57:37.272 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:57:37.272 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:57:57.287 DBG] InlineCode :: Creating and compiling instance for ''
+[2026-02-27 09:58:01.483 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.03ms
+[2026-02-27 09:58:01.539 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (55.9114ms)
+[2026-02-27 09:58:07.275 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:58:07.275 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:58:07.275 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:58:09.288 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:58:09.288 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:58:31.731 DBG] ExportService :: Added Action (One Bit Kiss, 48522b24-5d19-41e7-8300-908c389ca679) to export
+[2026-02-27 09:58:39.302 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:58:39.302 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:58:39.302 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:58:41.357 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:58:41.357 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:58:59.975 DBG] ExportService :: Added Timed Action (1 Bit Timer, 6309e815-4ad9-40e2-a42b-9f5eb269bc3d) to export
+[2026-02-27 09:59:01.488 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-02-27 09:59:01.549 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (61.1203ms)
+[2026-02-27 09:59:11.360 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:59:11.360 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:59:11.360 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:59:11.693 DBG] ExportService :: Cleared all actions, queues and commands
+[2026-02-27 09:59:11.695 DBG] ExportService :: Removed Timed Action (1 Bit Timer, 6309e815-4ad9-40e2-a42b-9f5eb269bc3d) to export
+[2026-02-27 09:59:11.697 DBG] ExportService :: Cleared all actions and queues
+[2026-02-27 09:59:11.700 DBG] ExportService :: Removed Action (One Bit Kiss, 48522b24-5d19-41e7-8300-908c389ca679) to export
+[2026-02-27 09:59:13.412 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:59:13.412 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:59:43.430 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:59:43.430 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 09:59:43.430 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 09:59:45.459 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 09:59:45.459 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 09:59:54.724 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-02-27 09:59:54.724 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-02-27 09:59:54.724 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-02-27 09:59:54.724 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a2b14347-11e1-45b9-b3a5-f8395e0a9d4e)
+[2026-02-27 09:59:55.261 DBG] Credits :: Time to save 15.961ms
+[2026-02-27 09:59:58.375 DBG] AutoSave :: Auto saving settings...
+[2026-02-27 09:59:58.394 DBG] Users :: Time to save 18.0592ms
+[2026-02-27 09:59:58.411 DBG] Actions :: Time to save 16.0331ms
+[2026-02-27 09:59:58.421 DBG] Commands :: Time to save 10.5862ms
+[2026-02-27 09:59:58.431 DBG] Twitch Rewards :: Time to save 10.5936ms
+[2026-02-27 09:59:58.445 DBG] Midi :: Time to save 13.3883ms
+[2026-02-27 09:59:58.457 DBG] OBS Settings :: Time to save 12.5963ms
+[2026-02-27 09:59:58.470 DBG] MeldStudio Settings :: Time to save 12.9259ms
+[2026-02-27 09:59:58.484 DBG] Credits :: Time to save 13.6584ms
+[2026-02-27 09:59:58.497 DBG] Quotes :: Time to save 12.8501ms
+[2026-02-27 09:59:58.601 DBG] Config :: Time to save 18.9677ms
+[2026-02-27 10:00:01.494 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0308ms
+[2026-02-27 10:00:01.548 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (54.5244ms)
+[2026-02-27 10:00:15.468 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:00:15.468 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:00:15.468 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:00:17.496 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:00:17.496 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:00:47.501 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:00:47.501 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:00:47.501 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:00:49.528 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:00:49.528 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:01:01.501 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0311ms
+[2026-02-27 10:01:01.555 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (54.6937ms)
+[2026-02-27 10:01:19.539 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:01:19.539 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:01:19.539 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:01:21.560 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:01:21.560 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:01:51.568 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:01:51.568 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:01:51.568 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:01:53.579 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:01:53.579 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:02:01.518 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0404ms
+[2026-02-27 10:02:01.573 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (55.2606ms)
+[2026-02-27 10:02:23.597 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:02:23.597 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:02:23.597 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:02:25.617 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:02:25.617 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:02:55.634 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:02:55.634 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:02:55.634 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:02:57.653 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:02:57.653 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:03:01.525 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0444ms
+[2026-02-27 10:03:01.583 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (58.176ms)
+[2026-02-27 10:03:27.667 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:03:27.667 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:03:27.667 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:03:29.702 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:03:29.702 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:03:59.716 DBG] OBS :: Retrying obs connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:03:59.716 DBG] OBS :: Opening websocket connection to OBS (127.0.0.1:4455)
+[2026-02-27 10:03:59.716 DBG] OBS-Websocket5 :: Opening connection (ws://127.0.0.1:4455/api/websocket)
+[2026-02-27 10:04:01.532 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0297ms
+[2026-02-27 10:04:01.589 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (57.2729ms)
+[2026-02-27 10:04:01.738 DBG] OBS-Websocket5 :: Disconnected
+[2026-02-27 10:04:01.738 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-02-27 10:04:05.704 DBG] Users :: Time to save 12.9318ms
+[2026-02-27 10:04:05.719 DBG] Actions :: Time to save 15.7368ms
+[2026-02-27 10:04:05.730 DBG] Commands :: Time to save 10.9901ms
+[2026-02-27 10:04:05.741 DBG] Twitch Rewards :: Time to save 10.3259ms
+[2026-02-27 10:04:05.750 DBG] Midi :: Time to save 8.9672ms
+[2026-02-27 10:04:05.759 DBG] OBS Settings :: Time to save 8.8346ms
+[2026-02-27 10:04:05.768 DBG] MeldStudio Settings :: Time to save 8.699ms
+[2026-02-27 10:04:05.777 DBG] Credits :: Time to save 9.6265ms
+[2026-02-27 10:04:05.788 DBG] Quotes :: Time to save 10.4849ms
+[2026-02-27 10:04:05.910 DBG] Config :: Time to save 14.0898ms
+[2026-02-27 10:04:08.064 DBG] Users :: Time to save 13.0239ms
+[2026-02-27 10:04:08.081 DBG] Actions :: Time to save 17.7257ms
+[2026-02-27 10:04:08.092 DBG] Commands :: Time to save 11.0422ms
+[2026-02-27 10:04:08.104 DBG] Twitch Rewards :: Time to save 11.382ms
+[2026-02-27 10:04:08.113 DBG] Midi :: Time to save 9.3451ms
+[2026-02-27 10:04:08.122 DBG] OBS Settings :: Time to save 9.1659ms
+[2026-02-27 10:04:08.132 DBG] MeldStudio Settings :: Time to save 9.0601ms
+[2026-02-27 10:04:08.141 DBG] Credits :: Time to save 8.7156ms
+[2026-02-27 10:04:08.151 DBG] Quotes :: Time to save 10.2153ms
+[2026-02-27 10:04:08.152 INF] Shutting down...
+[2026-02-27 10:04:08.212 INF] Closing services...
+[2026-02-27 10:04:08.212 DBG] UsbRemovalWatcher :: Disposed
+[2026-02-27 10:04:08.213 DBG] ProcessWatcher :: Disposed
+[2026-02-27 10:04:08.214 DBG] ProcessWatcher :: Disposed
+[2026-02-27 10:04:08.217 DBG] Events Service :: Shutting down event queue thread
+[2026-02-27 10:04:08.217 DBG] Events Service :: Shutting down application event queue thread
+[2026-02-27 10:04:08.217 DBG] Events Service :: Shutting down raw event queue thread
+[2026-02-27 10:04:08.228 DBG] MIDI Service :: Stopping service
+[2026-02-27 10:04:08.234 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2026-02-27 10:04:08.235 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2026-02-27 10:04:08.239 DBG] Http Listener :: Channel is not active
+[2026-02-27 10:04:08.239 DBG] MIDI Service :: Shutting down event thread
+[2026-02-27 10:04:08.240 DBG] DonorDrive :: Stopping service
+[2026-02-27 10:04:08.242 DBG] OBS Service :: Stopping service
+[2026-02-27 10:04:08.245 DBG] SpeechToText :: Disposing recognition engine
+[2026-02-27 10:04:08.247 DBG] ActionDispatcher :: Shutting down action queues
+[2026-02-27 10:04:08.248 DBG] SLOBS Service :: Stopping service
+[2026-02-27 10:04:08.252 INF] InlineCode :: Cleaning up '1' execute code instances
+[2026-02-27 10:04:08.252 DBG] SpeechToText :: Shutting down queue thread
+[2026-02-27 10:04:08.253 DBG] Websocket Server :: Stopping server
+[2026-02-27 10:04:08.254 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2026-02-27 10:04:08.254 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-02-27 10:04:08.254 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-02-27 10:04:08.254 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-02-27 10:04:08.254 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-02-27 10:04:08.254 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-02-27 10:04:08.254 DBG] Websocket Server :: Shutting down command queue thread
+[2026-02-27 10:04:08.254 DBG] Websocket Server :: Shutting down queue thread
+[2026-02-27 10:04:08.262 DBG] InlineCode :: Unloading 'd933afb31e6b470ca7949c0de541a61a'
+[2026-02-27 10:04:08.263 DBG] OBS Service :: Shutting down event thread
+[2026-02-27 10:04:08.267 DBG] Websocket Client :: Disconnecting from all connected clients
+[2026-02-27 10:04:08.268 DBG] Websocket Custom Server :: Stopping all servers
+[2026-02-27 10:04:08.268 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2026-02-27 10:04:08.270 DBG] Twitch (Broadcaster) :: Disconnected
+[2026-02-27 10:04:08.270 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2026-02-27 10:04:08.272 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2026-02-27 10:04:08.288 DBG] InlineCode :: Cleaned up execute code instances
+[2026-02-27 10:04:08.294 DBG] Config :: Time to save 29.1393ms
+[2026-02-27 10:04:08.302 DBG] MeldStudio Service :: Stopping service
+[2026-02-27 10:04:08.306 DBG] MeldStudio Service :: Shutting down event thread
+[2026-02-27 10:04:08.327 DBG] Streamer.bot Website Socket :: Disconnected
+[2026-02-27 10:04:08.329 INF] Streamer.bot Service :: Disconnected from Website Client
+[2026-02-27 10:04:08.386 DBG] StreamElements Socket :: Disconnected
+[2026-02-27 10:04:08.390 INF] StreamElements Service :: Disconnected from Client
+[2026-02-27 10:04:08.620 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2026-02-27 10:04:08.622 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2026-02-27 10:04:08.713 INF] BTTV :: WebSocket Disconnected
+[2026-02-27 10:04:09.042 DBG] Twitch EventSub (Bot) :: Disconnected
+[2026-02-27 10:04:09.045 INF] TwitchService :: Disconnected from Bot EventSub
+[2026-02-27 10:04:09.109 DBG] OBS Settings :: Time to save 16.6338ms
+[2026-02-27 10:04:09.110 DBG] Credits :: Time to save 17.7574ms
+[2026-02-27 10:04:09.110 DBG] Twitch Rewards :: Time to save 17.1088ms
+[2026-02-27 10:04:09.112 DBG] Midi :: Time to save 19.1434ms
+[2026-02-27 10:04:09.113 DBG] MeldStudio Settings :: Time to save 20.4687ms
+[2026-02-27 10:04:09.114 DBG] Commands :: Time to save 21.4339ms
+[2026-02-27 10:04:09.115 DBG] Config :: Time to save 21.5538ms
+[2026-02-27 10:04:09.115 DBG] Users :: Time to save 22.6732ms
+[2026-02-27 10:04:09.116 DBG] Quotes :: Time to save 23.819ms
+[2026-02-27 10:04:09.128 DBG] Actions :: Time to save 36.1212ms
+[2026-02-27 10:04:09.129 INF] Streamer.bot exited

@@ -1,15 +1,1 @@
-{
-  "version": 1,
-  "t": "2025-09-29T16:33:59.5251494-05:00",
-  "connections": [
-    {
-      "id": "ab067cfa-bc95-4187-bfc0-2e11fdebe237",
-      "name": "Meld",
-      "host": "127.0.0.1",
-      "autoConnect": false,
-      "reconnectOnDisconnect": true,
-      "retryInterval": 30,
-      "default": true
-    }
-  ]
-}
+﻿{"version":1,"t":"2026-04-09T09:42:38.6576682-05:00","connections":[{"id":"ab067cfa-bc95-4187-bfc0-2e11fdebe237","name":"Meld","host":"127.0.0.1","autoConnect":false,"reconnectOnDisconnect":true,"retryInterval":30,"default":true}]}
