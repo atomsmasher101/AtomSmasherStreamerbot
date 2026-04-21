@@ -2960,3 +2960,2169 @@
 [2026-04-09 09:48:18.305 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.1359ms)
 [2026-04-09 09:49:18.211 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0406ms
 [2026-04-09 09:49:18.305 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8293ms)
+[2026-04-09 09:50:18.212 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0381ms
+[2026-04-09 09:50:18.304 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.7366ms)
+[2026-04-09 09:51:18.215 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0476ms
+[2026-04-09 09:51:18.313 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.2952ms)
+[2026-04-09 09:52:04.473 DBG] Credits :: Time to save 17.4951ms
+[2026-04-09 09:52:18.220 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.04ms
+[2026-04-09 09:52:18.315 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0577ms)
+[2026-04-09 09:52:39.027 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 09:52:39.045 DBG] Users :: Time to save 17.8014ms
+[2026-04-09 09:52:39.069 DBG] Actions :: Time to save 24.0204ms
+[2026-04-09 09:52:39.084 DBG] Commands :: Time to save 15.4269ms
+[2026-04-09 09:52:39.099 DBG] Twitch Rewards :: Time to save 14.6129ms
+[2026-04-09 09:52:39.111 DBG] Midi :: Time to save 12.0085ms
+[2026-04-09 09:52:39.122 DBG] OBS Settings :: Time to save 10.7018ms
+[2026-04-09 09:52:39.132 DBG] MeldStudio Settings :: Time to save 9.1826ms
+[2026-04-09 09:52:39.145 DBG] Credits :: Time to save 13.7867ms
+[2026-04-09 09:52:39.163 DBG] Quotes :: Time to save 18.3957ms
+[2026-04-09 09:52:39.247 DBG] Config :: Time to save 17.8438ms
+[2026-04-09 09:53:18.220 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0343ms
+[2026-04-09 09:53:18.317 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0438ms)
+[2026-04-09 09:54:18.222 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0441ms
+[2026-04-09 09:54:18.321 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.3912ms)
+[2026-04-09 09:55:18.250 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0378ms
+[2026-04-09 09:55:18.346 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1118ms)
+[2026-04-09 09:56:18.254 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 09:56:18.350 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6836ms)
+[2026-04-09 09:57:04.481 DBG] Credits :: Time to save 14.7077ms
+[2026-04-09 09:57:18.262 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 09:57:18.355 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9488ms)
+[2026-04-09 09:57:28.637 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 09:57:28.637 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 09:57:28.637 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 09:57:28.637 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 0a1d17ff-56f1-49a5-8c44-faded14b3eb9)
+[2026-04-09 09:57:39.237 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 09:57:39.256 DBG] Users :: Time to save 19.3719ms
+[2026-04-09 09:57:39.280 DBG] Actions :: Time to save 22.8487ms
+[2026-04-09 09:57:39.296 DBG] Commands :: Time to save 17.2257ms
+[2026-04-09 09:57:39.313 DBG] Twitch Rewards :: Time to save 16.2303ms
+[2026-04-09 09:57:39.327 DBG] Midi :: Time to save 14.2083ms
+[2026-04-09 09:57:39.342 DBG] OBS Settings :: Time to save 14.4793ms
+[2026-04-09 09:57:39.356 DBG] MeldStudio Settings :: Time to save 14.2848ms
+[2026-04-09 09:57:39.371 DBG] Credits :: Time to save 14.4791ms
+[2026-04-09 09:57:39.387 DBG] Quotes :: Time to save 16.6536ms
+[2026-04-09 09:57:39.459 DBG] Config :: Time to save 18.6607ms
+[2026-04-09 09:58:18.270 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0391ms
+[2026-04-09 09:58:18.371 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.5017ms)
+[2026-04-09 09:59:18.282 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0485ms
+[2026-04-09 09:59:18.381 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.7275ms)
+[2026-04-09 10:00:18.295 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 10:00:18.387 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.0236ms)
+[2026-04-09 10:01:18.306 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0382ms
+[2026-04-09 10:01:18.400 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.5985ms)
+[2026-04-09 10:02:04.495 DBG] Credits :: Time to save 16.6824ms
+[2026-04-09 10:02:18.316 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0379ms
+[2026-04-09 10:02:18.411 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2364ms)
+[2026-04-09 10:02:39.477 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:02:39.495 DBG] Users :: Time to save 18.1728ms
+[2026-04-09 10:02:39.518 DBG] Actions :: Time to save 22.9093ms
+[2026-04-09 10:02:39.534 DBG] Commands :: Time to save 16.3755ms
+[2026-04-09 10:02:39.551 DBG] Twitch Rewards :: Time to save 16.2985ms
+[2026-04-09 10:02:39.561 DBG] Midi :: Time to save 10.4207ms
+[2026-04-09 10:02:39.575 DBG] OBS Settings :: Time to save 13.621ms
+[2026-04-09 10:02:39.589 DBG] MeldStudio Settings :: Time to save 13.8224ms
+[2026-04-09 10:02:39.599 DBG] Credits :: Time to save 10.0235ms
+[2026-04-09 10:02:39.613 DBG] Quotes :: Time to save 14.0641ms
+[2026-04-09 10:02:39.699 DBG] Config :: Time to save 18.7763ms
+[2026-04-09 10:03:18.342 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 10:03:18.435 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.638ms)
+[2026-04-09 10:04:18.345 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0493ms
+[2026-04-09 10:04:18.440 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2603ms)
+[2026-04-09 10:05:18.349 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0416ms
+[2026-04-09 10:05:18.444 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9239ms)
+[2026-04-09 10:06:18.351 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0343ms
+[2026-04-09 10:06:18.438 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (87.3603ms)
+[2026-04-09 10:07:04.504 DBG] Credits :: Time to save 11.4344ms
+[2026-04-09 10:07:18.356 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 10:07:18.459 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.7412ms)
+[2026-04-09 10:07:29.000 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 10:07:29.000 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 10:07:29.000 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 10:07:29.000 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, e0921813-b0a9-43b3-a60d-a6222f4ea0d3)
+[2026-04-09 10:07:39.695 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:07:39.714 DBG] Users :: Time to save 19.8213ms
+[2026-04-09 10:07:39.736 DBG] Actions :: Time to save 21.3739ms
+[2026-04-09 10:07:39.747 DBG] Commands :: Time to save 11.9021ms
+[2026-04-09 10:07:39.761 DBG] Twitch Rewards :: Time to save 12.1471ms
+[2026-04-09 10:07:39.774 DBG] Midi :: Time to save 14.0994ms
+[2026-04-09 10:07:39.787 DBG] OBS Settings :: Time to save 13.0517ms
+[2026-04-09 10:07:39.802 DBG] MeldStudio Settings :: Time to save 13.6803ms
+[2026-04-09 10:07:39.815 DBG] Credits :: Time to save 13.9908ms
+[2026-04-09 10:07:39.833 DBG] Quotes :: Time to save 16.9097ms
+[2026-04-09 10:07:39.916 DBG] Config :: Time to save 18.9613ms
+[2026-04-09 10:08:18.371 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2026-04-09 10:08:18.464 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2405ms)
+[2026-04-09 10:09:18.389 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 10:09:18.482 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.4377ms)
+[2026-04-09 10:10:18.401 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0372ms
+[2026-04-09 10:10:18.499 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.5505ms)
+[2026-04-09 10:11:18.414 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.038ms
+[2026-04-09 10:11:18.504 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.7945ms)
+[2026-04-09 10:12:04.523 DBG] Credits :: Time to save 16.0129ms
+[2026-04-09 10:12:18.427 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 10:12:18.520 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.1473ms)
+[2026-04-09 10:12:39.917 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:12:39.935 DBG] Users :: Time to save 18.1886ms
+[2026-04-09 10:12:39.952 DBG] Actions :: Time to save 17.7702ms
+[2026-04-09 10:12:39.967 DBG] Commands :: Time to save 13.7671ms
+[2026-04-09 10:12:39.984 DBG] Twitch Rewards :: Time to save 16.8375ms
+[2026-04-09 10:12:39.997 DBG] Midi :: Time to save 14.1622ms
+[2026-04-09 10:12:40.009 DBG] OBS Settings :: Time to save 10.3933ms
+[2026-04-09 10:12:40.022 DBG] MeldStudio Settings :: Time to save 13.0384ms
+[2026-04-09 10:12:40.033 DBG] Credits :: Time to save 12.2158ms
+[2026-04-09 10:12:40.047 DBG] Quotes :: Time to save 13.5583ms
+[2026-04-09 10:12:40.139 DBG] Config :: Time to save 18.5781ms
+[2026-04-09 10:13:18.429 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 10:13:18.524 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.7891ms)
+[2026-04-09 10:14:18.432 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 10:14:18.526 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.088ms)
+[2026-04-09 10:15:18.444 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0399ms
+[2026-04-09 10:15:18.543 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.4491ms)
+[2026-04-09 10:16:18.457 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0355ms
+[2026-04-09 10:16:18.557 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.0413ms)
+[2026-04-09 10:17:04.525 DBG] Credits :: Time to save 16.2925ms
+[2026-04-09 10:17:18.472 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0585ms
+[2026-04-09 10:17:18.567 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.512ms)
+[2026-04-09 10:17:29.635 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 10:17:29.635 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 10:17:29.635 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 10:17:29.635 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, dac2b919-9867-403b-81fc-3caae670ea94)
+[2026-04-09 10:17:40.134 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:17:40.147 DBG] Users :: Time to save 13.0962ms
+[2026-04-09 10:17:40.172 DBG] Actions :: Time to save 24.8719ms
+[2026-04-09 10:17:40.189 DBG] Commands :: Time to save 17.1773ms
+[2026-04-09 10:17:40.205 DBG] Twitch Rewards :: Time to save 14.8796ms
+[2026-04-09 10:17:40.219 DBG] Midi :: Time to save 14.3154ms
+[2026-04-09 10:17:40.232 DBG] OBS Settings :: Time to save 13.7085ms
+[2026-04-09 10:17:40.245 DBG] MeldStudio Settings :: Time to save 13.2679ms
+[2026-04-09 10:17:40.260 DBG] Credits :: Time to save 14.3558ms
+[2026-04-09 10:17:40.277 DBG] Quotes :: Time to save 16.5373ms
+[2026-04-09 10:17:40.356 DBG] Config :: Time to save 19.0772ms
+[2026-04-09 10:18:18.481 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0389ms
+[2026-04-09 10:18:18.575 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5153ms)
+[2026-04-09 10:19:18.494 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 10:19:18.589 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8482ms)
+[2026-04-09 10:20:18.497 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0484ms
+[2026-04-09 10:20:18.590 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.595ms)
+[2026-04-09 10:21:18.509 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 10:21:18.603 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.6393ms)
+[2026-04-09 10:22:04.534 DBG] Credits :: Time to save 17.6407ms
+[2026-04-09 10:22:18.523 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 10:22:18.612 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.4249ms)
+[2026-04-09 10:22:40.333 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:22:40.351 DBG] Users :: Time to save 18.423ms
+[2026-04-09 10:22:40.375 DBG] Actions :: Time to save 23.8046ms
+[2026-04-09 10:22:40.391 DBG] Commands :: Time to save 15.8151ms
+[2026-04-09 10:22:40.407 DBG] Twitch Rewards :: Time to save 16.0093ms
+[2026-04-09 10:22:40.421 DBG] Midi :: Time to save 13.3254ms
+[2026-04-09 10:22:40.434 DBG] OBS Settings :: Time to save 13.8833ms
+[2026-04-09 10:22:40.448 DBG] MeldStudio Settings :: Time to save 13.0572ms
+[2026-04-09 10:22:40.462 DBG] Credits :: Time to save 14.185ms
+[2026-04-09 10:22:40.477 DBG] Quotes :: Time to save 15.9981ms
+[2026-04-09 10:22:40.554 DBG] Config :: Time to save 18.9543ms
+[2026-04-09 10:23:18.546 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 10:23:18.640 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9443ms)
+[2026-04-09 10:24:18.551 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 10:24:18.644 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.7909ms)
+[2026-04-09 10:25:18.579 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 10:25:18.672 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.5516ms)
+[2026-04-09 10:26:18.586 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 10:26:18.675 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.7839ms)
+[2026-04-09 10:27:04.545 DBG] Credits :: Time to save 12.7836ms
+[2026-04-09 10:27:18.600 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0616ms
+[2026-04-09 10:27:18.694 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8918ms)
+[2026-04-09 10:27:30.105 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 10:27:30.105 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 10:27:30.105 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 10:27:30.105 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, e96f7776-e165-43ac-8c6a-39135378cd0f)
+[2026-04-09 10:27:40.555 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:27:40.574 DBG] Users :: Time to save 18.9288ms
+[2026-04-09 10:27:40.596 DBG] Actions :: Time to save 22.2136ms
+[2026-04-09 10:27:40.613 DBG] Commands :: Time to save 16.6496ms
+[2026-04-09 10:27:40.629 DBG] Twitch Rewards :: Time to save 16.5927ms
+[2026-04-09 10:27:40.644 DBG] Midi :: Time to save 14.1054ms
+[2026-04-09 10:27:40.655 DBG] OBS Settings :: Time to save 11.3803ms
+[2026-04-09 10:27:40.669 DBG] MeldStudio Settings :: Time to save 14.0432ms
+[2026-04-09 10:27:40.685 DBG] Credits :: Time to save 15.7527ms
+[2026-04-09 10:27:40.702 DBG] Quotes :: Time to save 17.0418ms
+[2026-04-09 10:27:40.780 DBG] Config :: Time to save 21.1146ms
+[2026-04-09 10:28:18.625 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-04-09 10:28:18.725 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.8512ms)
+[2026-04-09 10:29:18.633 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2026-04-09 10:29:18.726 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9156ms)
+[2026-04-09 10:30:18.644 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 10:30:18.739 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6129ms)
+[2026-04-09 10:31:18.646 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 10:31:18.745 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.2811ms)
+[2026-04-09 10:32:04.547 DBG] Credits :: Time to save 11.2021ms
+[2026-04-09 10:32:18.659 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0506ms
+[2026-04-09 10:32:18.755 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9636ms)
+[2026-04-09 10:32:40.792 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:32:40.808 DBG] Users :: Time to save 15.8544ms
+[2026-04-09 10:32:40.831 DBG] Actions :: Time to save 23.3213ms
+[2026-04-09 10:32:40.848 DBG] Commands :: Time to save 16.8855ms
+[2026-04-09 10:32:40.864 DBG] Twitch Rewards :: Time to save 16.7909ms
+[2026-04-09 10:32:40.880 DBG] Midi :: Time to save 14.7167ms
+[2026-04-09 10:32:40.891 DBG] OBS Settings :: Time to save 11.5409ms
+[2026-04-09 10:32:40.900 DBG] MeldStudio Settings :: Time to save 8.9288ms
+[2026-04-09 10:32:40.914 DBG] Credits :: Time to save 13.8372ms
+[2026-04-09 10:32:40.930 DBG] Quotes :: Time to save 15.6686ms
+[2026-04-09 10:32:41.012 DBG] Config :: Time to save 18.2312ms
+[2026-04-09 10:33:18.667 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0415ms
+[2026-04-09 10:33:18.765 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9487ms)
+[2026-04-09 10:34:18.674 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 10:34:18.767 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9169ms)
+[2026-04-09 10:35:18.701 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 10:35:18.796 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3656ms)
+[2026-04-09 10:36:18.710 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 10:36:18.807 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.6765ms)
+[2026-04-09 10:37:04.556 DBG] Credits :: Time to save 18.9878ms
+[2026-04-09 10:37:18.719 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 10:37:18.814 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.234ms)
+[2026-04-09 10:37:30.837 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 10:37:30.837 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 10:37:30.837 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 10:37:30.837 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a9504f8d-6219-4bf4-ba0a-799c3b26836a)
+[2026-04-09 10:37:41.004 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:37:41.023 DBG] Users :: Time to save 19.2359ms
+[2026-04-09 10:37:41.043 DBG] Actions :: Time to save 19.2734ms
+[2026-04-09 10:37:41.054 DBG] Commands :: Time to save 12.197ms
+[2026-04-09 10:37:41.071 DBG] Twitch Rewards :: Time to save 16.489ms
+[2026-04-09 10:37:41.086 DBG] Midi :: Time to save 14.6794ms
+[2026-04-09 10:37:41.100 DBG] OBS Settings :: Time to save 13.6203ms
+[2026-04-09 10:37:41.114 DBG] MeldStudio Settings :: Time to save 13.8352ms
+[2026-04-09 10:37:41.126 DBG] Credits :: Time to save 13.0406ms
+[2026-04-09 10:37:41.141 DBG] Quotes :: Time to save 13.7113ms
+[2026-04-09 10:37:41.222 DBG] Config :: Time to save 17.2304ms
+[2026-04-09 10:38:18.732 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 10:38:18.826 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.765ms)
+[2026-04-09 10:39:18.746 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 10:39:18.843 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1265ms)
+[2026-04-09 10:40:18.753 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0404ms
+[2026-04-09 10:40:18.853 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.2279ms)
+[2026-04-09 10:41:18.763 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 10:41:18.860 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6673ms)
+[2026-04-09 10:42:04.557 DBG] Credits :: Time to save 15.659ms
+[2026-04-09 10:42:18.767 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 10:42:18.861 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.1292ms)
+[2026-04-09 10:42:41.197 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:42:41.215 DBG] Users :: Time to save 18.1956ms
+[2026-04-09 10:42:41.240 DBG] Actions :: Time to save 24.2812ms
+[2026-04-09 10:42:41.256 DBG] Commands :: Time to save 16.9773ms
+[2026-04-09 10:42:41.273 DBG] Twitch Rewards :: Time to save 16.2657ms
+[2026-04-09 10:42:41.286 DBG] Midi :: Time to save 13.5073ms
+[2026-04-09 10:42:41.302 DBG] OBS Settings :: Time to save 14.543ms
+[2026-04-09 10:42:41.315 DBG] MeldStudio Settings :: Time to save 14.3275ms
+[2026-04-09 10:42:41.327 DBG] Credits :: Time to save 12.6495ms
+[2026-04-09 10:42:41.342 DBG] Quotes :: Time to save 13.2506ms
+[2026-04-09 10:42:41.422 DBG] Config :: Time to save 20.0386ms
+[2026-04-09 10:43:18.769 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 10:43:18.862 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.7772ms)
+[2026-04-09 10:44:18.781 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 10:44:18.870 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.7833ms)
+[2026-04-09 10:45:18.783 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 10:45:18.881 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.3019ms)
+[2026-04-09 10:46:18.785 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 10:46:18.882 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8149ms)
+[2026-04-09 10:47:04.562 DBG] Credits :: Time to save 19.2065ms
+[2026-04-09 10:47:18.797 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0447ms
+[2026-04-09 10:47:19.323 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (525.9206ms)
+[2026-04-09 10:47:31.433 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 10:47:31.433 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 10:47:31.433 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 10:47:31.433 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a3ceee7b-a303-4065-8c8d-d7fdd349f988)
+[2026-04-09 10:47:41.422 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:47:41.440 DBG] Users :: Time to save 18.0865ms
+[2026-04-09 10:47:41.465 DBG] Actions :: Time to save 25.5451ms
+[2026-04-09 10:47:41.481 DBG] Commands :: Time to save 16.2782ms
+[2026-04-09 10:47:41.499 DBG] Twitch Rewards :: Time to save 17.229ms
+[2026-04-09 10:47:41.512 DBG] Midi :: Time to save 12.9295ms
+[2026-04-09 10:47:41.526 DBG] OBS Settings :: Time to save 13.8905ms
+[2026-04-09 10:47:41.540 DBG] MeldStudio Settings :: Time to save 14.0495ms
+[2026-04-09 10:47:41.554 DBG] Credits :: Time to save 14.1002ms
+[2026-04-09 10:47:41.572 DBG] Quotes :: Time to save 17.428ms
+[2026-04-09 10:47:41.642 DBG] Config :: Time to save 18.1525ms
+[2026-04-09 10:48:18.810 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 10:48:18.906 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.6841ms)
+[2026-04-09 10:49:18.817 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.051ms
+[2026-04-09 10:49:18.914 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.2416ms)
+[2026-04-09 10:50:18.826 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0348ms
+[2026-04-09 10:50:18.920 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9121ms)
+[2026-04-09 10:51:18.835 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 10:51:18.937 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.9417ms)
+[2026-04-09 10:52:04.556 DBG] Credits :: Time to save 12.5799ms
+[2026-04-09 10:52:18.850 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0492ms
+[2026-04-09 10:52:18.943 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2014ms)
+[2026-04-09 10:52:41.635 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:52:41.647 DBG] Users :: Time to save 13.0167ms
+[2026-04-09 10:52:41.665 DBG] Actions :: Time to save 17.1843ms
+[2026-04-09 10:52:41.681 DBG] Commands :: Time to save 15.3185ms
+[2026-04-09 10:52:41.695 DBG] Twitch Rewards :: Time to save 14.6136ms
+[2026-04-09 10:52:41.710 DBG] Midi :: Time to save 14.13ms
+[2026-04-09 10:52:41.724 DBG] OBS Settings :: Time to save 15.0007ms
+[2026-04-09 10:52:41.735 DBG] MeldStudio Settings :: Time to save 10.8ms
+[2026-04-09 10:52:41.751 DBG] Credits :: Time to save 16.0379ms
+[2026-04-09 10:52:41.767 DBG] Quotes :: Time to save 16.2835ms
+[2026-04-09 10:52:41.850 DBG] Config :: Time to save 12.4207ms
+[2026-04-09 10:53:18.854 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 10:53:18.946 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7816ms)
+[2026-04-09 10:54:18.867 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0375ms
+[2026-04-09 10:54:18.964 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.7854ms)
+[2026-04-09 10:55:18.881 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0337ms
+[2026-04-09 10:55:18.976 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3923ms)
+[2026-04-09 10:56:18.896 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0343ms
+[2026-04-09 10:56:18.991 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0168ms)
+[2026-04-09 10:57:04.574 DBG] Credits :: Time to save 15.4309ms
+[2026-04-09 10:57:18.904 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0398ms
+[2026-04-09 10:57:19.000 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.1315ms)
+[2026-04-09 10:57:31.955 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 10:57:31.955 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 10:57:31.955 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 10:57:31.955 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8667c4b8-595c-45ea-8cbf-3d921c369b45)
+[2026-04-09 10:57:41.842 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 10:57:41.860 DBG] Users :: Time to save 18.305ms
+[2026-04-09 10:57:41.884 DBG] Actions :: Time to save 24.216ms
+[2026-04-09 10:57:41.902 DBG] Commands :: Time to save 17.0185ms
+[2026-04-09 10:57:41.917 DBG] Twitch Rewards :: Time to save 16.7164ms
+[2026-04-09 10:57:41.935 DBG] Midi :: Time to save 16.7587ms
+[2026-04-09 10:57:41.951 DBG] OBS Settings :: Time to save 16.1897ms
+[2026-04-09 10:57:41.966 DBG] MeldStudio Settings :: Time to save 15.039ms
+[2026-04-09 10:57:41.982 DBG] Credits :: Time to save 15.9587ms
+[2026-04-09 10:57:41.999 DBG] Quotes :: Time to save 16.7452ms
+[2026-04-09 10:57:42.066 DBG] Config :: Time to save 19.5229ms
+[2026-04-09 10:58:18.919 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0392ms
+[2026-04-09 10:58:19.013 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2213ms)
+[2026-04-09 10:59:18.929 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.039ms
+[2026-04-09 10:59:19.017 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.4757ms)
+[2026-04-09 11:00:18.931 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0509ms
+[2026-04-09 11:00:19.029 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.057ms)
+[2026-04-09 11:01:18.940 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.05ms
+[2026-04-09 11:01:19.035 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.141ms)
+[2026-04-09 11:02:04.576 DBG] Credits :: Time to save 16.9941ms
+[2026-04-09 11:02:18.955 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2026-04-09 11:02:19.058 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (103.4468ms)
+[2026-04-09 11:02:42.082 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:02:42.099 DBG] Users :: Time to save 17.2901ms
+[2026-04-09 11:02:42.118 DBG] Actions :: Time to save 18.3394ms
+[2026-04-09 11:02:42.134 DBG] Commands :: Time to save 16.4159ms
+[2026-04-09 11:02:42.150 DBG] Twitch Rewards :: Time to save 15.5365ms
+[2026-04-09 11:02:42.163 DBG] Midi :: Time to save 13.7402ms
+[2026-04-09 11:02:42.176 DBG] OBS Settings :: Time to save 12.6299ms
+[2026-04-09 11:02:42.191 DBG] MeldStudio Settings :: Time to save 14.6444ms
+[2026-04-09 11:02:42.205 DBG] Credits :: Time to save 14.3745ms
+[2026-04-09 11:02:42.221 DBG] Quotes :: Time to save 15.4218ms
+[2026-04-09 11:02:42.302 DBG] Config :: Time to save 18.0395ms
+[2026-04-09 11:03:18.970 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0406ms
+[2026-04-09 11:03:19.064 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3768ms)
+[2026-04-09 11:04:18.985 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0396ms
+[2026-04-09 11:04:19.081 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0631ms)
+[2026-04-09 11:05:18.992 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0385ms
+[2026-04-09 11:05:19.090 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8663ms)
+[2026-04-09 11:06:19.003 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0571ms
+[2026-04-09 11:06:19.095 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.4187ms)
+[2026-04-09 11:07:04.571 DBG] Credits :: Time to save 11.4773ms
+[2026-04-09 11:07:19.007 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-04-09 11:07:19.100 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.2818ms)
+[2026-04-09 11:07:32.393 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 11:07:32.393 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 11:07:32.393 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 11:07:32.393 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, f1b79e1d-ef8e-4bd6-9e67-8f35b929404c)
+[2026-04-09 11:07:42.306 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:07:42.323 DBG] Users :: Time to save 17.5894ms
+[2026-04-09 11:07:42.345 DBG] Actions :: Time to save 22.369ms
+[2026-04-09 11:07:42.361 DBG] Commands :: Time to save 15.3398ms
+[2026-04-09 11:07:42.372 DBG] Twitch Rewards :: Time to save 11.3924ms
+[2026-04-09 11:07:42.382 DBG] Midi :: Time to save 10.1287ms
+[2026-04-09 11:07:42.397 DBG] OBS Settings :: Time to save 14.0598ms
+[2026-04-09 11:07:42.407 DBG] MeldStudio Settings :: Time to save 11.591ms
+[2026-04-09 11:07:42.425 DBG] Credits :: Time to save 17.0539ms
+[2026-04-09 11:07:42.439 DBG] Quotes :: Time to save 14.0257ms
+[2026-04-09 11:07:42.520 DBG] Config :: Time to save 12.6405ms
+[2026-04-09 11:08:19.013 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 11:08:19.103 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.2029ms)
+[2026-04-09 11:09:19.027 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 11:09:19.120 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.721ms)
+[2026-04-09 11:10:19.032 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0398ms
+[2026-04-09 11:10:19.127 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.1876ms)
+[2026-04-09 11:11:19.041 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 11:11:19.139 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0592ms)
+[2026-04-09 11:12:04.576 DBG] Credits :: Time to save 13.2651ms
+[2026-04-09 11:12:19.055 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 11:12:19.150 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5467ms)
+[2026-04-09 11:12:42.560 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:12:42.577 DBG] Users :: Time to save 17.5556ms
+[2026-04-09 11:12:42.601 DBG] Actions :: Time to save 23.9615ms
+[2026-04-09 11:12:42.618 DBG] Commands :: Time to save 15.9663ms
+[2026-04-09 11:12:42.632 DBG] Twitch Rewards :: Time to save 14.4534ms
+[2026-04-09 11:12:42.643 DBG] Midi :: Time to save 10.8189ms
+[2026-04-09 11:12:42.654 DBG] OBS Settings :: Time to save 11.5261ms
+[2026-04-09 11:12:42.669 DBG] MeldStudio Settings :: Time to save 14.124ms
+[2026-04-09 11:12:42.681 DBG] Credits :: Time to save 12.8744ms
+[2026-04-09 11:12:42.696 DBG] Quotes :: Time to save 15.553ms
+[2026-04-09 11:12:42.775 DBG] Config :: Time to save 13.5035ms
+[2026-04-09 11:13:19.063 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 11:13:19.155 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.7416ms)
+[2026-04-09 11:14:19.066 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 11:14:19.154 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (87.9895ms)
+[2026-04-09 11:15:19.081 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 11:15:19.172 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.4719ms)
+[2026-04-09 11:16:19.082 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2026-04-09 11:16:19.175 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9932ms)
+[2026-04-09 11:17:04.583 DBG] Credits :: Time to save 16.1135ms
+[2026-04-09 11:17:19.108 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2026-04-09 11:17:19.202 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6135ms)
+[2026-04-09 11:17:32.986 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 11:17:32.986 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 11:17:32.986 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 11:17:32.986 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, e53c9e7c-2993-41dc-83f6-7b97b0c1757b)
+[2026-04-09 11:17:42.793 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:17:42.811 DBG] Users :: Time to save 18.4422ms
+[2026-04-09 11:17:42.833 DBG] Actions :: Time to save 22.5173ms
+[2026-04-09 11:17:42.845 DBG] Commands :: Time to save 11.7624ms
+[2026-04-09 11:17:42.857 DBG] Twitch Rewards :: Time to save 12.3487ms
+[2026-04-09 11:17:42.872 DBG] Midi :: Time to save 14.1904ms
+[2026-04-09 11:17:42.882 DBG] OBS Settings :: Time to save 9.7896ms
+[2026-04-09 11:17:42.893 DBG] MeldStudio Settings :: Time to save 11.0998ms
+[2026-04-09 11:17:42.905 DBG] Credits :: Time to save 12.732ms
+[2026-04-09 11:17:42.916 DBG] Quotes :: Time to save 10.8156ms
+[2026-04-09 11:17:43.009 DBG] Config :: Time to save 13.3986ms
+[2026-04-09 11:18:19.122 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-04-09 11:18:19.220 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0692ms)
+[2026-04-09 11:19:19.127 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2026-04-09 11:19:19.223 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2536ms)
+[2026-04-09 11:20:19.142 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0394ms
+[2026-04-09 11:20:19.237 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4835ms)
+[2026-04-09 11:21:19.142 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0397ms
+[2026-04-09 11:21:19.241 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.2177ms)
+[2026-04-09 11:22:04.586 DBG] Credits :: Time to save 11.0035ms
+[2026-04-09 11:22:19.153 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 11:22:19.247 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1323ms)
+[2026-04-09 11:22:43.005 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:22:43.030 DBG] Users :: Time to save 24.7195ms
+[2026-04-09 11:22:43.057 DBG] Actions :: Time to save 27.0092ms
+[2026-04-09 11:22:43.071 DBG] Commands :: Time to save 13.423ms
+[2026-04-09 11:22:43.089 DBG] Twitch Rewards :: Time to save 18.1471ms
+[2026-04-09 11:22:43.103 DBG] Midi :: Time to save 13.6543ms
+[2026-04-09 11:22:43.116 DBG] OBS Settings :: Time to save 13.7599ms
+[2026-04-09 11:22:43.129 DBG] MeldStudio Settings :: Time to save 12.8464ms
+[2026-04-09 11:22:43.143 DBG] Credits :: Time to save 14.3815ms
+[2026-04-09 11:22:43.160 DBG] Quotes :: Time to save 16.0535ms
+[2026-04-09 11:22:43.224 DBG] Config :: Time to save 17.8215ms
+[2026-04-09 11:23:19.155 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 11:23:19.251 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.7158ms)
+[2026-04-09 11:24:19.161 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 11:24:19.256 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2627ms)
+[2026-04-09 11:25:19.169 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-04-09 11:25:19.264 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.9733ms)
+[2026-04-09 11:26:19.186 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 11:26:19.282 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2155ms)
+[2026-04-09 11:27:04.602 DBG] Credits :: Time to save 15.9248ms
+[2026-04-09 11:27:19.193 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0348ms
+[2026-04-09 11:27:19.292 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.8709ms)
+[2026-04-09 11:27:33.477 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 11:27:33.477 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 11:27:33.477 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 11:27:33.477 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 2dc8eeab-0598-4e75-8d15-de847c6ebba0)
+[2026-04-09 11:27:43.274 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:27:43.288 DBG] Users :: Time to save 13.6463ms
+[2026-04-09 11:27:43.311 DBG] Actions :: Time to save 23.1594ms
+[2026-04-09 11:27:43.326 DBG] Commands :: Time to save 15.8558ms
+[2026-04-09 11:27:43.343 DBG] Twitch Rewards :: Time to save 15.9907ms
+[2026-04-09 11:27:43.356 DBG] Midi :: Time to save 14.129ms
+[2026-04-09 11:27:43.370 DBG] OBS Settings :: Time to save 13.5967ms
+[2026-04-09 11:27:43.383 DBG] MeldStudio Settings :: Time to save 12.7031ms
+[2026-04-09 11:27:43.397 DBG] Credits :: Time to save 14.3097ms
+[2026-04-09 11:27:43.413 DBG] Quotes :: Time to save 15.5895ms
+[2026-04-09 11:27:43.490 DBG] Config :: Time to save 14.6905ms
+[2026-04-09 11:28:19.205 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0391ms
+[2026-04-09 11:28:19.333 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (128.0521ms)
+[2026-04-09 11:29:19.207 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0382ms
+[2026-04-09 11:29:19.300 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.6672ms)
+[2026-04-09 11:30:19.220 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0647ms
+[2026-04-09 11:30:19.321 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.5355ms)
+[2026-04-09 11:31:19.231 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0347ms
+[2026-04-09 11:31:19.323 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.8621ms)
+[2026-04-09 11:32:04.604 DBG] Credits :: Time to save 15.9332ms
+[2026-04-09 11:32:19.243 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2026-04-09 11:32:19.333 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.5834ms)
+[2026-04-09 11:32:43.527 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:32:43.546 DBG] Users :: Time to save 18.306ms
+[2026-04-09 11:32:43.567 DBG] Actions :: Time to save 22.3557ms
+[2026-04-09 11:32:43.582 DBG] Commands :: Time to save 14.014ms
+[2026-04-09 11:32:43.593 DBG] Twitch Rewards :: Time to save 11.3621ms
+[2026-04-09 11:32:43.603 DBG] Midi :: Time to save 8.8268ms
+[2026-04-09 11:32:43.615 DBG] OBS Settings :: Time to save 12.6579ms
+[2026-04-09 11:32:43.627 DBG] MeldStudio Settings :: Time to save 12.2418ms
+[2026-04-09 11:32:43.641 DBG] Credits :: Time to save 13.7864ms
+[2026-04-09 11:32:43.657 DBG] Quotes :: Time to save 15.8797ms
+[2026-04-09 11:32:43.744 DBG] Config :: Time to save 15.0243ms
+[2026-04-09 11:33:19.251 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0412ms
+[2026-04-09 11:33:19.345 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2997ms)
+[2026-04-09 11:34:19.263 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 11:34:19.354 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3209ms)
+[2026-04-09 11:35:19.266 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0453ms
+[2026-04-09 11:35:19.364 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.6501ms)
+[2026-04-09 11:36:19.278 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0403ms
+[2026-04-09 11:36:19.379 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.102ms)
+[2026-04-09 11:37:04.614 DBG] Credits :: Time to save 10.9646ms
+[2026-04-09 11:37:19.293 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0349ms
+[2026-04-09 11:37:19.384 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.5088ms)
+[2026-04-09 11:37:33.986 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 11:37:33.986 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 11:37:33.986 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 11:37:33.986 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 9884bfd8-0c62-437a-8568-02ebe6a5cdf8)
+[2026-04-09 11:37:43.740 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:37:43.753 DBG] Users :: Time to save 13.5771ms
+[2026-04-09 11:37:43.771 DBG] Actions :: Time to save 17.6216ms
+[2026-04-09 11:37:43.786 DBG] Commands :: Time to save 15.4765ms
+[2026-04-09 11:37:43.799 DBG] Twitch Rewards :: Time to save 12.6642ms
+[2026-04-09 11:37:43.810 DBG] Midi :: Time to save 11.4489ms
+[2026-04-09 11:37:43.825 DBG] OBS Settings :: Time to save 14.215ms
+[2026-04-09 11:37:43.834 DBG] MeldStudio Settings :: Time to save 9.6004ms
+[2026-04-09 11:37:43.847 DBG] Credits :: Time to save 13.7397ms
+[2026-04-09 11:37:43.864 DBG] Quotes :: Time to save 15.7067ms
+[2026-04-09 11:37:43.959 DBG] Config :: Time to save 14.9466ms
+[2026-04-09 11:38:19.300 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 11:38:19.395 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9973ms)
+[2026-04-09 11:39:19.313 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.045ms
+[2026-04-09 11:39:19.407 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7064ms)
+[2026-04-09 11:40:19.317 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0693ms
+[2026-04-09 11:40:19.412 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2398ms)
+[2026-04-09 11:41:19.325 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 11:41:19.417 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.6624ms)
+[2026-04-09 11:42:04.631 DBG] Credits :: Time to save 15.6617ms
+[2026-04-09 11:42:19.340 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2026-04-09 11:42:19.430 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.1829ms)
+[2026-04-09 11:42:43.963 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:42:43.979 DBG] Users :: Time to save 16.7104ms
+[2026-04-09 11:42:44.003 DBG] Actions :: Time to save 24.4115ms
+[2026-04-09 11:42:44.020 DBG] Commands :: Time to save 16.2895ms
+[2026-04-09 11:42:44.038 DBG] Twitch Rewards :: Time to save 17.4743ms
+[2026-04-09 11:42:44.052 DBG] Midi :: Time to save 13.5288ms
+[2026-04-09 11:42:44.063 DBG] OBS Settings :: Time to save 11.0658ms
+[2026-04-09 11:42:44.076 DBG] MeldStudio Settings :: Time to save 13.8458ms
+[2026-04-09 11:42:44.090 DBG] Credits :: Time to save 13.3461ms
+[2026-04-09 11:42:44.105 DBG] Quotes :: Time to save 15.9329ms
+[2026-04-09 11:42:44.182 DBG] Config :: Time to save 15.5639ms
+[2026-04-09 11:43:19.344 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 11:43:19.437 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2203ms)
+[2026-04-09 11:44:19.353 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 11:44:19.449 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2625ms)
+[2026-04-09 11:45:19.354 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 11:45:19.450 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2169ms)
+[2026-04-09 11:46:19.361 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0412ms
+[2026-04-09 11:46:19.453 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.5829ms)
+[2026-04-09 11:47:04.639 DBG] Credits :: Time to save 13.4001ms
+[2026-04-09 11:47:19.361 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 11:47:19.960 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (599.2112ms)
+[2026-04-09 11:47:34.439 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 11:47:34.439 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 11:47:34.439 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 11:47:34.439 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8afd5c6c-0cd5-43d9-ae77-554ecb630bce)
+[2026-04-09 11:47:44.192 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:47:44.210 DBG] Users :: Time to save 18.757ms
+[2026-04-09 11:47:44.233 DBG] Actions :: Time to save 23.2153ms
+[2026-04-09 11:47:44.249 DBG] Commands :: Time to save 15.6173ms
+[2026-04-09 11:47:44.266 DBG] Twitch Rewards :: Time to save 17.0038ms
+[2026-04-09 11:47:44.280 DBG] Midi :: Time to save 13.4837ms
+[2026-04-09 11:47:44.294 DBG] OBS Settings :: Time to save 14.2955ms
+[2026-04-09 11:47:44.304 DBG] MeldStudio Settings :: Time to save 10.0742ms
+[2026-04-09 11:47:44.313 DBG] Credits :: Time to save 9.1094ms
+[2026-04-09 11:47:44.329 DBG] Quotes :: Time to save 14.9954ms
+[2026-04-09 11:47:44.414 DBG] Config :: Time to save 19.1687ms
+[2026-04-09 11:48:19.362 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.05ms
+[2026-04-09 11:48:19.457 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.5464ms)
+[2026-04-09 11:49:19.376 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 11:49:19.473 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6207ms)
+[2026-04-09 11:50:19.381 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 11:50:19.475 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6971ms)
+[2026-04-09 11:51:19.388 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2026-04-09 11:51:19.484 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.7826ms)
+[2026-04-09 11:52:04.649 DBG] Credits :: Time to save 15.9909ms
+[2026-04-09 11:52:19.390 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 11:52:19.482 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8071ms)
+[2026-04-09 11:52:44.447 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:52:44.462 DBG] Users :: Time to save 14.9991ms
+[2026-04-09 11:52:44.486 DBG] Actions :: Time to save 23.519ms
+[2026-04-09 11:52:44.502 DBG] Commands :: Time to save 16.0572ms
+[2026-04-09 11:52:44.515 DBG] Twitch Rewards :: Time to save 12.8892ms
+[2026-04-09 11:52:44.529 DBG] Midi :: Time to save 13.6246ms
+[2026-04-09 11:52:44.543 DBG] OBS Settings :: Time to save 14.0776ms
+[2026-04-09 11:52:44.556 DBG] MeldStudio Settings :: Time to save 14.2147ms
+[2026-04-09 11:52:44.571 DBG] Credits :: Time to save 14.4817ms
+[2026-04-09 11:52:44.587 DBG] Quotes :: Time to save 15.8571ms
+[2026-04-09 11:52:44.669 DBG] Config :: Time to save 18.6782ms
+[2026-04-09 11:53:19.394 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0404ms
+[2026-04-09 11:53:19.491 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.5949ms)
+[2026-04-09 11:54:19.402 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0372ms
+[2026-04-09 11:54:19.497 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0747ms)
+[2026-04-09 11:55:19.409 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0387ms
+[2026-04-09 11:55:19.507 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.5068ms)
+[2026-04-09 11:56:19.411 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 11:56:19.504 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.514ms)
+[2026-04-09 11:57:04.657 DBG] Credits :: Time to save 18.1389ms
+[2026-04-09 11:57:19.415 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0336ms
+[2026-04-09 11:57:19.508 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.1195ms)
+[2026-04-09 11:57:34.952 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 11:57:34.952 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 11:57:34.952 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 11:57:34.952 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 41982976-ceb7-488a-b4f8-98a2bb3efeaa)
+[2026-04-09 11:57:44.706 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 11:57:44.725 DBG] Users :: Time to save 19.3022ms
+[2026-04-09 11:57:44.750 DBG] Actions :: Time to save 24.9689ms
+[2026-04-09 11:57:44.766 DBG] Commands :: Time to save 16.3551ms
+[2026-04-09 11:57:44.783 DBG] Twitch Rewards :: Time to save 15.9862ms
+[2026-04-09 11:57:44.796 DBG] Midi :: Time to save 13.8073ms
+[2026-04-09 11:57:44.811 DBG] OBS Settings :: Time to save 14.3526ms
+[2026-04-09 11:57:44.825 DBG] MeldStudio Settings :: Time to save 14.3453ms
+[2026-04-09 11:57:44.840 DBG] Credits :: Time to save 14.6215ms
+[2026-04-09 11:57:44.857 DBG] Quotes :: Time to save 18.1739ms
+[2026-04-09 11:57:44.924 DBG] Config :: Time to save 15.0934ms
+[2026-04-09 11:58:19.428 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0378ms
+[2026-04-09 11:58:19.519 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3555ms)
+[2026-04-09 11:59:19.433 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2026-04-09 11:59:19.526 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.1205ms)
+[2026-04-09 12:00:19.452 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2026-04-09 12:00:19.547 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4322ms)
+[2026-04-09 12:01:19.464 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0474ms
+[2026-04-09 12:01:19.552 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (88.4659ms)
+[2026-04-09 12:02:04.667 DBG] Credits :: Time to save 14.5723ms
+[2026-04-09 12:02:19.470 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0746ms
+[2026-04-09 12:02:19.562 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.0014ms)
+[2026-04-09 12:02:44.959 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:02:44.977 DBG] Users :: Time to save 19.4471ms
+[2026-04-09 12:02:45.001 DBG] Actions :: Time to save 23.5875ms
+[2026-04-09 12:02:45.018 DBG] Commands :: Time to save 16.75ms
+[2026-04-09 12:02:45.035 DBG] Twitch Rewards :: Time to save 16.259ms
+[2026-04-09 12:02:45.050 DBG] Midi :: Time to save 14.7311ms
+[2026-04-09 12:02:45.064 DBG] OBS Settings :: Time to save 14.4629ms
+[2026-04-09 12:02:45.077 DBG] MeldStudio Settings :: Time to save 14.0061ms
+[2026-04-09 12:02:45.087 DBG] Credits :: Time to save 10.0045ms
+[2026-04-09 12:02:45.105 DBG] Quotes :: Time to save 16.3441ms
+[2026-04-09 12:02:45.175 DBG] Config :: Time to save 13.3348ms
+[2026-04-09 12:03:19.482 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 12:03:19.573 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.6559ms)
+[2026-04-09 12:04:19.497 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0507ms
+[2026-04-09 12:04:19.589 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.2589ms)
+[2026-04-09 12:05:19.511 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2026-04-09 12:05:19.610 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.1707ms)
+[2026-04-09 12:06:19.513 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2026-04-09 12:06:19.607 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.3836ms)
+[2026-04-09 12:07:04.677 DBG] Credits :: Time to save 15.8308ms
+[2026-04-09 12:07:19.523 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0535ms
+[2026-04-09 12:07:19.616 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2122ms)
+[2026-04-09 12:07:35.486 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 12:07:35.486 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 12:07:35.486 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 12:07:35.486 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 652922f9-0a16-4942-8b50-f1a92572cf1d)
+[2026-04-09 12:07:45.161 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:07:45.181 DBG] Users :: Time to save 20.6721ms
+[2026-04-09 12:07:45.203 DBG] Actions :: Time to save 21.6717ms
+[2026-04-09 12:07:45.220 DBG] Commands :: Time to save 17.078ms
+[2026-04-09 12:07:45.237 DBG] Twitch Rewards :: Time to save 17.8749ms
+[2026-04-09 12:07:45.252 DBG] Midi :: Time to save 13.7919ms
+[2026-04-09 12:07:45.267 DBG] OBS Settings :: Time to save 15.0944ms
+[2026-04-09 12:07:45.281 DBG] MeldStudio Settings :: Time to save 14.069ms
+[2026-04-09 12:07:45.295 DBG] Credits :: Time to save 13.8ms
+[2026-04-09 12:07:45.309 DBG] Quotes :: Time to save 14.0719ms
+[2026-04-09 12:07:45.380 DBG] Config :: Time to save 15.3036ms
+[2026-04-09 12:08:19.533 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0395ms
+[2026-04-09 12:08:19.633 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.0514ms)
+[2026-04-09 12:09:19.536 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 12:09:19.632 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.098ms)
+[2026-04-09 12:10:19.542 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0513ms
+[2026-04-09 12:10:19.636 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2975ms)
+[2026-04-09 12:11:19.547 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0372ms
+[2026-04-09 12:11:19.646 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.7648ms)
+[2026-04-09 12:12:04.683 DBG] Credits :: Time to save 16.5804ms
+[2026-04-09 12:12:19.555 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 12:12:19.654 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.1073ms)
+[2026-04-09 12:12:45.349 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:12:45.366 DBG] Users :: Time to save 17.1017ms
+[2026-04-09 12:12:45.387 DBG] Actions :: Time to save 22.452ms
+[2026-04-09 12:12:45.403 DBG] Commands :: Time to save 15.1484ms
+[2026-04-09 12:12:45.417 DBG] Twitch Rewards :: Time to save 14.6638ms
+[2026-04-09 12:12:45.429 DBG] Midi :: Time to save 10.4139ms
+[2026-04-09 12:12:45.438 DBG] OBS Settings :: Time to save 9.7154ms
+[2026-04-09 12:12:45.451 DBG] MeldStudio Settings :: Time to save 12.2105ms
+[2026-04-09 12:12:45.465 DBG] Credits :: Time to save 14.4089ms
+[2026-04-09 12:12:45.482 DBG] Quotes :: Time to save 16.6713ms
+[2026-04-09 12:12:45.569 DBG] Config :: Time to save 17.4064ms
+[2026-04-09 12:13:19.559 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 12:13:19.652 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.1619ms)
+[2026-04-09 12:14:16.171 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2026-04-09 12:14:16.171 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2026-04-09 12:14:18.181 DBG] TwitchService :: Retrying broadcaster EventSub connection
+[2026-04-09 12:14:18.181 INF] TwitchService :: Connecting to Broadcaster EventSub
+[2026-04-09 12:14:18.181 DBG] Twitch EventSub (Broadcaster) :: Opening connection
+[2026-04-09 12:14:18.386 DBG] Twitch EventSub (Broadcaster) :: Subscribing to 56 events
+[2026-04-09 12:14:19.567 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0449ms
+[2026-04-09 12:14:19.623 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (55.5698ms)
+[2026-04-09 12:14:27.654 INF] TwitchService :: Connected to Broadcaster EventSub, and authenticated
+[2026-04-09 12:15:19.573 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 12:15:19.665 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5401ms)
+[2026-04-09 12:16:19.588 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0348ms
+[2026-04-09 12:16:19.681 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.7112ms)
+[2026-04-09 12:17:04.689 DBG] Credits :: Time to save 16.8556ms
+[2026-04-09 12:17:19.599 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0345ms
+[2026-04-09 12:17:19.687 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.6863ms)
+[2026-04-09 12:17:36.040 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 12:17:36.040 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 12:17:36.040 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 12:17:36.040 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, fd7983f3-3129-45fb-ab51-7d30ad21b5ab)
+[2026-04-09 12:17:45.621 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:17:45.634 DBG] Users :: Time to save 12.9623ms
+[2026-04-09 12:17:45.657 DBG] Actions :: Time to save 23.6935ms
+[2026-04-09 12:17:45.673 DBG] Commands :: Time to save 15.3197ms
+[2026-04-09 12:17:45.687 DBG] Twitch Rewards :: Time to save 14.6999ms
+[2026-04-09 12:17:45.702 DBG] Midi :: Time to save 13.8568ms
+[2026-04-09 12:17:45.714 DBG] OBS Settings :: Time to save 12.8138ms
+[2026-04-09 12:17:45.729 DBG] MeldStudio Settings :: Time to save 14.0946ms
+[2026-04-09 12:17:45.743 DBG] Credits :: Time to save 13.6835ms
+[2026-04-09 12:17:45.758 DBG] Quotes :: Time to save 15.7591ms
+[2026-04-09 12:17:45.843 DBG] Config :: Time to save 18.5779ms
+[2026-04-09 12:18:19.612 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0493ms
+[2026-04-09 12:18:19.715 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (103.5266ms)
+[2026-04-09 12:19:19.621 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0401ms
+[2026-04-09 12:19:19.719 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.6695ms)
+[2026-04-09 12:20:19.627 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0439ms
+[2026-04-09 12:20:19.719 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5528ms)
+[2026-04-09 12:21:19.643 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0388ms
+[2026-04-09 12:21:19.734 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.5898ms)
+[2026-04-09 12:22:04.702 DBG] Credits :: Time to save 15.7881ms
+[2026-04-09 12:22:19.672 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.052ms
+[2026-04-09 12:22:19.765 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.065ms)
+[2026-04-09 12:22:45.816 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:22:45.831 DBG] Users :: Time to save 15.0962ms
+[2026-04-09 12:22:45.853 DBG] Actions :: Time to save 22.323ms
+[2026-04-09 12:22:45.869 DBG] Commands :: Time to save 15.783ms
+[2026-04-09 12:22:45.882 DBG] Twitch Rewards :: Time to save 12.4736ms
+[2026-04-09 12:22:45.895 DBG] Midi :: Time to save 13.3319ms
+[2026-04-09 12:22:45.910 DBG] OBS Settings :: Time to save 14.2546ms
+[2026-04-09 12:22:45.923 DBG] MeldStudio Settings :: Time to save 13.5601ms
+[2026-04-09 12:22:45.937 DBG] Credits :: Time to save 13.5446ms
+[2026-04-09 12:22:45.952 DBG] Quotes :: Time to save 15.0689ms
+[2026-04-09 12:22:46.039 DBG] Config :: Time to save 20.8096ms
+[2026-04-09 12:23:19.685 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 12:23:19.779 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.6968ms)
+[2026-04-09 12:24:19.689 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0384ms
+[2026-04-09 12:24:19.780 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3294ms)
+[2026-04-09 12:25:19.696 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 12:25:19.790 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8037ms)
+[2026-04-09 12:26:19.709 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0554ms
+[2026-04-09 12:26:19.802 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8273ms)
+[2026-04-09 12:27:04.714 DBG] Credits :: Time to save 11.4478ms
+[2026-04-09 12:27:19.725 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 12:27:19.819 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7298ms)
+[2026-04-09 12:27:36.656 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 12:27:36.656 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 12:27:36.656 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 12:27:36.656 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 113b9bce-a0c1-4d4e-88d3-00806f5dd24d)
+[2026-04-09 12:27:46.054 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:27:46.067 DBG] Users :: Time to save 12.6843ms
+[2026-04-09 12:27:46.089 DBG] Actions :: Time to save 21.4824ms
+[2026-04-09 12:27:46.103 DBG] Commands :: Time to save 14.8494ms
+[2026-04-09 12:27:46.119 DBG] Twitch Rewards :: Time to save 15.5476ms
+[2026-04-09 12:27:46.132 DBG] Midi :: Time to save 13.3142ms
+[2026-04-09 12:27:46.146 DBG] OBS Settings :: Time to save 13.7163ms
+[2026-04-09 12:27:46.160 DBG] MeldStudio Settings :: Time to save 13.7437ms
+[2026-04-09 12:27:46.173 DBG] Credits :: Time to save 13.517ms
+[2026-04-09 12:27:46.190 DBG] Quotes :: Time to save 15.9966ms
+[2026-04-09 12:27:46.275 DBG] Config :: Time to save 17.9347ms
+[2026-04-09 12:28:19.731 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0377ms
+[2026-04-09 12:28:19.824 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.0303ms)
+[2026-04-09 12:29:19.739 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0395ms
+[2026-04-09 12:29:19.835 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1278ms)
+[2026-04-09 12:30:19.752 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.046ms
+[2026-04-09 12:30:19.851 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.5024ms)
+[2026-04-09 12:31:19.759 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 12:31:19.860 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.3168ms)
+[2026-04-09 12:32:04.727 DBG] Credits :: Time to save 16.3254ms
+[2026-04-09 12:32:19.762 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 12:32:19.857 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2637ms)
+[2026-04-09 12:32:46.263 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:32:46.282 DBG] Users :: Time to save 18.4227ms
+[2026-04-09 12:32:46.304 DBG] Actions :: Time to save 23.067ms
+[2026-04-09 12:32:46.321 DBG] Commands :: Time to save 16.1607ms
+[2026-04-09 12:32:46.337 DBG] Twitch Rewards :: Time to save 16.0464ms
+[2026-04-09 12:32:46.352 DBG] Midi :: Time to save 14.9066ms
+[2026-04-09 12:32:46.366 DBG] OBS Settings :: Time to save 14.9526ms
+[2026-04-09 12:32:46.380 DBG] MeldStudio Settings :: Time to save 12.8211ms
+[2026-04-09 12:32:46.393 DBG] Credits :: Time to save 13.593ms
+[2026-04-09 12:32:46.408 DBG] Quotes :: Time to save 14.9804ms
+[2026-04-09 12:32:46.485 DBG] Config :: Time to save 18.3087ms
+[2026-04-09 12:33:19.769 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 12:33:19.872 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (103.1135ms)
+[2026-04-09 12:34:19.777 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.035ms
+[2026-04-09 12:34:19.887 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (110.464ms)
+[2026-04-09 12:35:19.789 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.041ms
+[2026-04-09 12:35:19.883 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1042ms)
+[2026-04-09 12:36:19.793 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0498ms
+[2026-04-09 12:36:19.885 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.2516ms)
+[2026-04-09 12:36:44.000 DBG] Twitch EventSub (Bot) :: Disconnected
+[2026-04-09 12:36:44.000 INF] TwitchService :: Disconnected from Bot EventSub
+[2026-04-09 12:36:46.008 DBG] TwitchService :: Retrying Bot EventSub connection
+[2026-04-09 12:36:46.008 INF] TwitchService :: Connecting to Bot EventSub
+[2026-04-09 12:36:46.008 DBG] Twitch EventSub (Bot) :: Opening connection
+[2026-04-09 12:36:46.217 DBG] Twitch EventSub (Bot) :: Subscribing to 1 events
+[2026-04-09 12:36:46.626 INF] TwitchService :: Connected to Bot EventSub, and authenticated
+[2026-04-09 12:37:04.738 DBG] Credits :: Time to save 15.8724ms
+[2026-04-09 12:37:19.804 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0341ms
+[2026-04-09 12:37:19.896 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.855ms)
+[2026-04-09 12:37:37.271 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 12:37:37.271 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 12:37:37.271 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 12:37:37.271 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, e1a9fd5d-2d28-47dc-bd89-cb5691eedd13)
+[2026-04-09 12:37:46.482 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:37:46.498 DBG] Users :: Time to save 15.5164ms
+[2026-04-09 12:37:46.517 DBG] Actions :: Time to save 18.7265ms
+[2026-04-09 12:37:46.530 DBG] Commands :: Time to save 14.4596ms
+[2026-04-09 12:37:46.547 DBG] Twitch Rewards :: Time to save 16.725ms
+[2026-04-09 12:37:46.562 DBG] Midi :: Time to save 14.0927ms
+[2026-04-09 12:37:46.577 DBG] OBS Settings :: Time to save 15.5995ms
+[2026-04-09 12:37:46.592 DBG] MeldStudio Settings :: Time to save 14.9784ms
+[2026-04-09 12:37:46.605 DBG] Credits :: Time to save 13.1373ms
+[2026-04-09 12:37:46.621 DBG] Quotes :: Time to save 15.986ms
+[2026-04-09 12:37:46.703 DBG] Config :: Time to save 17.424ms
+[2026-04-09 12:38:19.813 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0386ms
+[2026-04-09 12:38:19.907 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1128ms)
+[2026-04-09 12:39:19.822 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 12:39:19.921 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.2735ms)
+[2026-04-09 12:40:19.823 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0372ms
+[2026-04-09 12:40:19.931 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (108.3976ms)
+[2026-04-09 12:41:19.833 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0344ms
+[2026-04-09 12:41:19.924 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.4349ms)
+[2026-04-09 12:42:04.753 DBG] Credits :: Time to save 15.7767ms
+[2026-04-09 12:42:19.837 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0381ms
+[2026-04-09 12:42:19.928 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.4147ms)
+[2026-04-09 12:42:46.715 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:42:46.732 DBG] Users :: Time to save 17.7604ms
+[2026-04-09 12:42:46.754 DBG] Actions :: Time to save 21.9152ms
+[2026-04-09 12:42:46.770 DBG] Commands :: Time to save 16.1126ms
+[2026-04-09 12:42:46.786 DBG] Twitch Rewards :: Time to save 15.6835ms
+[2026-04-09 12:42:46.800 DBG] Midi :: Time to save 13.2543ms
+[2026-04-09 12:42:46.813 DBG] OBS Settings :: Time to save 13.6504ms
+[2026-04-09 12:42:46.823 DBG] MeldStudio Settings :: Time to save 10.3107ms
+[2026-04-09 12:42:46.836 DBG] Credits :: Time to save 12.9466ms
+[2026-04-09 12:42:46.849 DBG] Quotes :: Time to save 12.0643ms
+[2026-04-09 12:42:46.933 DBG] Config :: Time to save 16.2404ms
+[2026-04-09 12:43:19.859 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.035ms
+[2026-04-09 12:43:19.957 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8419ms)
+[2026-04-09 12:44:19.872 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 12:44:19.972 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.649ms)
+[2026-04-09 12:45:19.882 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 12:45:19.976 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9751ms)
+[2026-04-09 12:46:19.902 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 12:46:19.992 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.4279ms)
+[2026-04-09 12:47:04.761 DBG] Credits :: Time to save 14.7071ms
+[2026-04-09 12:47:19.917 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0415ms
+[2026-04-09 12:47:20.439 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (522.3475ms)
+[2026-04-09 12:47:37.870 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 12:47:37.870 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 12:47:37.870 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 12:47:37.870 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 32dd6f71-d72e-424c-95c0-47799565412c)
+[2026-04-09 12:47:46.941 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:47:46.959 DBG] Users :: Time to save 18.2386ms
+[2026-04-09 12:47:46.982 DBG] Actions :: Time to save 23.1284ms
+[2026-04-09 12:47:46.999 DBG] Commands :: Time to save 17.0026ms
+[2026-04-09 12:47:47.013 DBG] Twitch Rewards :: Time to save 13.5499ms
+[2026-04-09 12:47:47.026 DBG] Midi :: Time to save 13.2759ms
+[2026-04-09 12:47:47.039 DBG] OBS Settings :: Time to save 13.0435ms
+[2026-04-09 12:47:47.049 DBG] MeldStudio Settings :: Time to save 9.8946ms
+[2026-04-09 12:47:47.062 DBG] Credits :: Time to save 13.0213ms
+[2026-04-09 12:47:47.077 DBG] Quotes :: Time to save 14.9107ms
+[2026-04-09 12:47:47.160 DBG] Config :: Time to save 17.1987ms
+[2026-04-09 12:48:19.931 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 12:48:20.025 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6728ms)
+[2026-04-09 12:49:19.952 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 12:49:20.045 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2406ms)
+[2026-04-09 12:50:19.962 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 12:50:20.055 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.7174ms)
+[2026-04-09 12:51:19.984 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.04ms
+[2026-04-09 12:51:20.079 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6062ms)
+[2026-04-09 12:52:04.770 DBG] Credits :: Time to save 12.9382ms
+[2026-04-09 12:52:19.993 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0379ms
+[2026-04-09 12:52:20.090 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.2186ms)
+[2026-04-09 12:52:47.174 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:52:47.191 DBG] Users :: Time to save 16.7491ms
+[2026-04-09 12:52:47.209 DBG] Actions :: Time to save 18.1853ms
+[2026-04-09 12:52:47.221 DBG] Commands :: Time to save 11.5057ms
+[2026-04-09 12:52:47.237 DBG] Twitch Rewards :: Time to save 16.6851ms
+[2026-04-09 12:52:47.247 DBG] Midi :: Time to save 9.4105ms
+[2026-04-09 12:52:47.261 DBG] OBS Settings :: Time to save 14.0893ms
+[2026-04-09 12:52:47.275 DBG] MeldStudio Settings :: Time to save 13.424ms
+[2026-04-09 12:52:47.290 DBG] Credits :: Time to save 15.5522ms
+[2026-04-09 12:52:47.307 DBG] Quotes :: Time to save 17.5483ms
+[2026-04-09 12:52:47.395 DBG] Config :: Time to save 18.6845ms
+[2026-04-09 12:53:19.995 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 12:53:20.092 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.1257ms)
+[2026-04-09 12:54:20.002 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 12:54:20.095 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9588ms)
+[2026-04-09 12:55:20.014 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 12:55:20.108 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.3717ms)
+[2026-04-09 12:56:20.017 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.1185ms
+[2026-04-09 12:56:20.107 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.7891ms)
+[2026-04-09 12:57:04.797 DBG] Credits :: Time to save 18.2203ms
+[2026-04-09 12:57:20.025 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0579ms
+[2026-04-09 12:57:20.119 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.3858ms)
+[2026-04-09 12:57:38.443 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 12:57:38.443 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 12:57:38.443 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 12:57:38.443 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 76f2a3c6-4e71-4762-a325-030d19a4b6bb)
+[2026-04-09 12:57:47.392 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 12:57:47.411 DBG] Users :: Time to save 19.683ms
+[2026-04-09 12:57:47.435 DBG] Actions :: Time to save 23.8731ms
+[2026-04-09 12:57:47.450 DBG] Commands :: Time to save 14.7763ms
+[2026-04-09 12:57:47.466 DBG] Twitch Rewards :: Time to save 15.8198ms
+[2026-04-09 12:57:47.480 DBG] Midi :: Time to save 13.912ms
+[2026-04-09 12:57:47.495 DBG] OBS Settings :: Time to save 15.5882ms
+[2026-04-09 12:57:47.510 DBG] MeldStudio Settings :: Time to save 14.6195ms
+[2026-04-09 12:57:47.524 DBG] Credits :: Time to save 14.4306ms
+[2026-04-09 12:57:47.541 DBG] Quotes :: Time to save 16.7552ms
+[2026-04-09 12:57:47.615 DBG] Config :: Time to save 21.3771ms
+[2026-04-09 12:58:20.039 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2026-04-09 12:58:20.133 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2838ms)
+[2026-04-09 12:59:20.042 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0345ms
+[2026-04-09 12:59:20.140 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0871ms)
+[2026-04-09 13:00:20.051 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 13:00:20.141 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.2408ms)
+[2026-04-09 13:01:20.057 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0385ms
+[2026-04-09 13:01:20.150 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.0756ms)
+[2026-04-09 13:02:04.804 DBG] Credits :: Time to save 16.6408ms
+[2026-04-09 13:02:20.061 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0377ms
+[2026-04-09 13:02:20.158 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8881ms)
+[2026-04-09 13:02:47.644 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:02:47.664 DBG] Users :: Time to save 20.1608ms
+[2026-04-09 13:02:47.686 DBG] Actions :: Time to save 21.4569ms
+[2026-04-09 13:02:47.703 DBG] Commands :: Time to save 16.8274ms
+[2026-04-09 13:02:47.718 DBG] Twitch Rewards :: Time to save 15.9165ms
+[2026-04-09 13:02:47.733 DBG] Midi :: Time to save 14.5763ms
+[2026-04-09 13:02:47.749 DBG] OBS Settings :: Time to save 15.2944ms
+[2026-04-09 13:02:47.763 DBG] MeldStudio Settings :: Time to save 14.216ms
+[2026-04-09 13:02:47.773 DBG] Credits :: Time to save 10.678ms
+[2026-04-09 13:02:47.791 DBG] Quotes :: Time to save 17.921ms
+[2026-04-09 13:02:47.865 DBG] Config :: Time to save 18.6407ms
+[2026-04-09 13:03:20.075 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0506ms
+[2026-04-09 13:03:20.168 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.6404ms)
+[2026-04-09 13:04:20.080 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 13:04:20.171 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.8426ms)
+[2026-04-09 13:05:20.087 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 13:05:20.185 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.6566ms)
+[2026-04-09 13:06:20.093 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0389ms
+[2026-04-09 13:06:20.191 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.7497ms)
+[2026-04-09 13:07:04.803 DBG] Credits :: Time to save 12.3177ms
+[2026-04-09 13:07:20.095 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0392ms
+[2026-04-09 13:07:20.187 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.3619ms)
+[2026-04-09 13:07:39.052 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 13:07:39.052 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 13:07:39.052 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 13:07:39.052 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 037642ef-f97c-4b38-b1f9-1cd479fe8fe8)
+[2026-04-09 13:07:47.869 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:07:47.885 DBG] Users :: Time to save 16.3038ms
+[2026-04-09 13:07:47.903 DBG] Actions :: Time to save 18.4312ms
+[2026-04-09 13:07:47.922 DBG] Commands :: Time to save 18.0318ms
+[2026-04-09 13:07:47.938 DBG] Twitch Rewards :: Time to save 16.6198ms
+[2026-04-09 13:07:47.952 DBG] Midi :: Time to save 14.1866ms
+[2026-04-09 13:07:47.966 DBG] OBS Settings :: Time to save 14.1958ms
+[2026-04-09 13:07:47.982 DBG] MeldStudio Settings :: Time to save 15.0491ms
+[2026-04-09 13:07:47.997 DBG] Credits :: Time to save 15.3762ms
+[2026-04-09 13:07:48.014 DBG] Quotes :: Time to save 16.9448ms
+[2026-04-09 13:07:48.089 DBG] Config :: Time to save 17.719ms
+[2026-04-09 13:08:20.103 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 13:08:20.198 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.987ms)
+[2026-04-09 13:09:20.123 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.035ms
+[2026-04-09 13:09:20.214 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.0716ms)
+[2026-04-09 13:10:20.139 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 13:10:20.234 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0297ms)
+[2026-04-09 13:11:20.151 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0405ms
+[2026-04-09 13:11:20.241 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.9622ms)
+[2026-04-09 13:12:04.817 DBG] Credits :: Time to save 17.697ms
+[2026-04-09 13:12:20.156 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0379ms
+[2026-04-09 13:12:20.253 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3431ms)
+[2026-04-09 13:12:48.124 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:12:48.142 DBG] Users :: Time to save 18.0019ms
+[2026-04-09 13:12:48.165 DBG] Actions :: Time to save 22.1654ms
+[2026-04-09 13:12:48.178 DBG] Commands :: Time to save 14.2237ms
+[2026-04-09 13:12:48.195 DBG] Twitch Rewards :: Time to save 16.5773ms
+[2026-04-09 13:12:48.209 DBG] Midi :: Time to save 13.553ms
+[2026-04-09 13:12:48.223 DBG] OBS Settings :: Time to save 14.3099ms
+[2026-04-09 13:12:48.237 DBG] MeldStudio Settings :: Time to save 14.5696ms
+[2026-04-09 13:12:48.250 DBG] Credits :: Time to save 11.699ms
+[2026-04-09 13:12:48.265 DBG] Quotes :: Time to save 16.131ms
+[2026-04-09 13:12:48.345 DBG] Config :: Time to save 19.1264ms
+[2026-04-09 13:13:20.164 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0443ms
+[2026-04-09 13:13:20.261 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.3965ms)
+[2026-04-09 13:14:20.177 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0386ms
+[2026-04-09 13:14:20.273 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2587ms)
+[2026-04-09 13:15:20.186 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0524ms
+[2026-04-09 13:15:20.286 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.9703ms)
+[2026-04-09 13:16:20.187 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 13:16:20.281 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.0031ms)
+[2026-04-09 13:17:04.815 DBG] Credits :: Time to save 12.6119ms
+[2026-04-09 13:17:20.199 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 13:17:20.290 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.2594ms)
+[2026-04-09 13:17:39.586 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 13:17:39.586 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 13:17:39.586 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 13:17:39.586 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 1c4ef0a8-c0df-42b9-a24d-e4517dfd8d26)
+[2026-04-09 13:17:48.364 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:17:48.383 DBG] Users :: Time to save 18.8987ms
+[2026-04-09 13:17:48.408 DBG] Actions :: Time to save 24.5806ms
+[2026-04-09 13:17:48.427 DBG] Commands :: Time to save 19.3968ms
+[2026-04-09 13:17:48.445 DBG] Twitch Rewards :: Time to save 17.9062ms
+[2026-04-09 13:17:48.459 DBG] Midi :: Time to save 13.9581ms
+[2026-04-09 13:17:48.474 DBG] OBS Settings :: Time to save 15.298ms
+[2026-04-09 13:17:48.489 DBG] MeldStudio Settings :: Time to save 14.6237ms
+[2026-04-09 13:17:48.504 DBG] Credits :: Time to save 15.0012ms
+[2026-04-09 13:17:48.520 DBG] Quotes :: Time to save 16.145ms
+[2026-04-09 13:17:48.585 DBG] Config :: Time to save 19.1864ms
+[2026-04-09 13:18:20.211 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 13:18:20.303 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8068ms)
+[2026-04-09 13:19:20.233 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2026-04-09 13:19:20.329 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9734ms)
+[2026-04-09 13:20:20.235 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0495ms
+[2026-04-09 13:20:20.331 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.5621ms)
+[2026-04-09 13:21:20.251 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.035ms
+[2026-04-09 13:21:20.339 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (88.3396ms)
+[2026-04-09 13:22:04.820 DBG] Credits :: Time to save 17.386ms
+[2026-04-09 13:22:20.263 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0355ms
+[2026-04-09 13:22:20.359 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.7975ms)
+[2026-04-09 13:22:48.582 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:22:48.599 DBG] Users :: Time to save 16.9304ms
+[2026-04-09 13:22:48.623 DBG] Actions :: Time to save 23.4835ms
+[2026-04-09 13:22:48.641 DBG] Commands :: Time to save 18.4112ms
+[2026-04-09 13:22:48.656 DBG] Twitch Rewards :: Time to save 15.9628ms
+[2026-04-09 13:22:48.671 DBG] Midi :: Time to save 14.6265ms
+[2026-04-09 13:22:48.682 DBG] OBS Settings :: Time to save 10.0746ms
+[2026-04-09 13:22:48.696 DBG] MeldStudio Settings :: Time to save 13.4427ms
+[2026-04-09 13:22:48.708 DBG] Credits :: Time to save 12.596ms
+[2026-04-09 13:22:48.719 DBG] Quotes :: Time to save 11.4022ms
+[2026-04-09 13:22:48.803 DBG] Config :: Time to save 19.3323ms
+[2026-04-09 13:22:57.886 DBG] Streamer.bot Website Socket :: Disconnected
+[2026-04-09 13:22:57.886 INF] Streamer.bot Service :: Disconnected from Website Client
+[2026-04-09 13:22:59.889 DBG] Streamer.bot Service :: Retrying website client connection
+[2026-04-09 13:22:59.889 INF] Streamer.bot Service :: Connecting to Website Client
+[2026-04-09 13:22:59.889 DBG] Streamer.bot Website Socket :: Opening connection
+[2026-04-09 13:23:00.143 INF] Streamer.bot Service :: Website Client authenticated
+[2026-04-09 13:23:00.143 INF] Streamer.bot Service :: Connected to Website Client
+[2026-04-09 13:23:20.270 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 13:23:20.367 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0277ms)
+[2026-04-09 13:24:20.282 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.039ms
+[2026-04-09 13:24:20.372 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.2899ms)
+[2026-04-09 13:25:20.293 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2026-04-09 13:25:20.391 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9268ms)
+[2026-04-09 13:26:20.296 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0375ms
+[2026-04-09 13:26:20.388 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.866ms)
+[2026-04-09 13:27:04.822 DBG] Credits :: Time to save 17.4938ms
+[2026-04-09 13:27:20.302 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0499ms
+[2026-04-09 13:27:20.397 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4384ms)
+[2026-04-09 13:27:40.051 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 13:27:40.051 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 13:27:40.051 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 13:27:40.051 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, cc36a9b4-6a72-436f-a28f-26b2ae6df0a9)
+[2026-04-09 13:27:48.833 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:27:48.856 DBG] Users :: Time to save 23.0891ms
+[2026-04-09 13:27:48.877 DBG] Actions :: Time to save 21.0963ms
+[2026-04-09 13:27:48.898 DBG] Commands :: Time to save 20.7542ms
+[2026-04-09 13:27:48.920 DBG] Twitch Rewards :: Time to save 21.5973ms
+[2026-04-09 13:27:48.936 DBG] Midi :: Time to save 16.5137ms
+[2026-04-09 13:27:48.948 DBG] OBS Settings :: Time to save 12.0904ms
+[2026-04-09 13:27:48.967 DBG] MeldStudio Settings :: Time to save 17.76ms
+[2026-04-09 13:27:48.983 DBG] Credits :: Time to save 17.5529ms
+[2026-04-09 13:27:49.007 DBG] Quotes :: Time to save 23.5857ms
+[2026-04-09 13:27:49.057 DBG] Config :: Time to save 21.7264ms
+[2026-04-09 13:28:20.313 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 13:28:20.407 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.3709ms)
+[2026-04-09 13:29:20.315 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0378ms
+[2026-04-09 13:29:20.406 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.8612ms)
+[2026-04-09 13:30:20.327 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 13:30:20.422 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9552ms)
+[2026-04-09 13:31:20.335 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0524ms
+[2026-04-09 13:31:20.430 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7145ms)
+[2026-04-09 13:32:04.827 DBG] Credits :: Time to save 20.8737ms
+[2026-04-09 13:32:20.341 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0392ms
+[2026-04-09 13:32:20.436 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9569ms)
+[2026-04-09 13:32:49.123 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:32:49.141 DBG] Users :: Time to save 18.6285ms
+[2026-04-09 13:32:49.166 DBG] Actions :: Time to save 24.7357ms
+[2026-04-09 13:32:49.183 DBG] Commands :: Time to save 17.5963ms
+[2026-04-09 13:32:49.201 DBG] Twitch Rewards :: Time to save 17.0424ms
+[2026-04-09 13:32:49.215 DBG] Midi :: Time to save 14.0948ms
+[2026-04-09 13:32:49.227 DBG] OBS Settings :: Time to save 11.6993ms
+[2026-04-09 13:32:49.241 DBG] MeldStudio Settings :: Time to save 14.7037ms
+[2026-04-09 13:32:49.254 DBG] Credits :: Time to save 12.8887ms
+[2026-04-09 13:32:49.273 DBG] Quotes :: Time to save 18.4603ms
+[2026-04-09 13:32:49.338 DBG] Config :: Time to save 12.3238ms
+[2026-04-09 13:33:20.355 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0377ms
+[2026-04-09 13:33:20.447 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.1893ms)
+[2026-04-09 13:34:20.368 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 13:34:20.466 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.783ms)
+[2026-04-09 13:35:20.383 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.04ms
+[2026-04-09 13:35:20.470 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (87.4629ms)
+[2026-04-09 13:36:20.387 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0408ms
+[2026-04-09 13:36:20.480 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8776ms)
+[2026-04-09 13:37:04.827 DBG] Credits :: Time to save 14.6143ms
+[2026-04-09 13:37:20.400 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0496ms
+[2026-04-09 13:37:20.493 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.089ms)
+[2026-04-09 13:37:40.619 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 13:37:40.619 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 13:37:40.619 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 13:37:40.619 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 4cf82ce1-9ebc-4544-88c6-5c6d648f0d94)
+[2026-04-09 13:37:49.378 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:37:49.392 DBG] Users :: Time to save 14.1114ms
+[2026-04-09 13:37:49.410 DBG] Actions :: Time to save 18.6487ms
+[2026-04-09 13:37:49.423 DBG] Commands :: Time to save 13.3687ms
+[2026-04-09 13:37:49.440 DBG] Twitch Rewards :: Time to save 15.992ms
+[2026-04-09 13:37:49.453 DBG] Midi :: Time to save 13.4133ms
+[2026-04-09 13:37:49.464 DBG] OBS Settings :: Time to save 11.7408ms
+[2026-04-09 13:37:49.475 DBG] MeldStudio Settings :: Time to save 9.8425ms
+[2026-04-09 13:37:49.488 DBG] Credits :: Time to save 13.6459ms
+[2026-04-09 13:37:49.506 DBG] Quotes :: Time to save 17.1094ms
+[2026-04-09 13:37:49.600 DBG] Config :: Time to save 19.3374ms
+[2026-04-09 13:38:20.413 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0603ms
+[2026-04-09 13:38:20.505 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.2994ms)
+[2026-04-09 13:39:20.427 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 13:39:20.520 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2151ms)
+[2026-04-09 13:40:20.428 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0384ms
+[2026-04-09 13:40:20.520 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.0175ms)
+[2026-04-09 13:41:20.453 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 13:41:20.544 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7318ms)
+[2026-04-09 13:42:04.832 DBG] Credits :: Time to save 11.9073ms
+[2026-04-09 13:42:20.461 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0517ms
+[2026-04-09 13:42:20.554 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.6229ms)
+[2026-04-09 13:42:49.578 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:42:49.592 DBG] Users :: Time to save 13.4615ms
+[2026-04-09 13:42:49.615 DBG] Actions :: Time to save 24.1553ms
+[2026-04-09 13:42:49.631 DBG] Commands :: Time to save 15.6341ms
+[2026-04-09 13:42:49.648 DBG] Twitch Rewards :: Time to save 16.3259ms
+[2026-04-09 13:42:49.658 DBG] Midi :: Time to save 9.7664ms
+[2026-04-09 13:42:49.672 DBG] OBS Settings :: Time to save 14.85ms
+[2026-04-09 13:42:49.684 DBG] MeldStudio Settings :: Time to save 11.3038ms
+[2026-04-09 13:42:49.694 DBG] Credits :: Time to save 10.0093ms
+[2026-04-09 13:42:49.710 DBG] Quotes :: Time to save 16.0212ms
+[2026-04-09 13:42:49.804 DBG] Config :: Time to save 21.8284ms
+[2026-04-09 13:43:20.470 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 13:43:20.561 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.6961ms)
+[2026-04-09 13:44:20.486 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.034ms
+[2026-04-09 13:44:20.580 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6992ms)
+[2026-04-09 13:45:20.498 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 13:45:20.627 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (128.8561ms)
+[2026-04-09 13:46:20.506 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 13:46:20.617 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (110.9032ms)
+[2026-04-09 13:47:04.838 DBG] Credits :: Time to save 17.6271ms
+[2026-04-09 13:47:20.517 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 13:47:21.064 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (547.6598ms)
+[2026-04-09 13:47:41.211 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 13:47:41.211 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 13:47:41.211 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 13:47:41.211 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a892f065-f71e-43cd-b908-1934a6a955c5)
+[2026-04-09 13:47:49.773 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:47:49.790 DBG] Users :: Time to save 17.0788ms
+[2026-04-09 13:47:49.807 DBG] Actions :: Time to save 18.4931ms
+[2026-04-09 13:47:49.826 DBG] Commands :: Time to save 16.6671ms
+[2026-04-09 13:47:49.842 DBG] Twitch Rewards :: Time to save 16.5392ms
+[2026-04-09 13:47:49.856 DBG] Midi :: Time to save 14.9888ms
+[2026-04-09 13:47:49.867 DBG] OBS Settings :: Time to save 11.3229ms
+[2026-04-09 13:47:49.877 DBG] MeldStudio Settings :: Time to save 9.831ms
+[2026-04-09 13:47:49.891 DBG] Credits :: Time to save 12.9692ms
+[2026-04-09 13:47:49.905 DBG] Quotes :: Time to save 14.6384ms
+[2026-04-09 13:47:49.996 DBG] Config :: Time to save 20.2216ms
+[2026-04-09 13:48:20.519 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0397ms
+[2026-04-09 13:48:20.618 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.6703ms)
+[2026-04-09 13:49:20.521 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0732ms
+[2026-04-09 13:49:20.620 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.524ms)
+[2026-04-09 13:50:20.535 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 13:50:20.628 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.275ms)
+[2026-04-09 13:51:20.543 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 13:51:20.639 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.1239ms)
+[2026-04-09 13:52:04.847 DBG] Credits :: Time to save 16.3493ms
+[2026-04-09 13:52:20.549 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0417ms
+[2026-04-09 13:52:20.647 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3374ms)
+[2026-04-09 13:52:50.014 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:52:50.033 DBG] Users :: Time to save 18.7481ms
+[2026-04-09 13:52:50.057 DBG] Actions :: Time to save 23.9026ms
+[2026-04-09 13:52:50.074 DBG] Commands :: Time to save 16.9405ms
+[2026-04-09 13:52:50.090 DBG] Twitch Rewards :: Time to save 15.764ms
+[2026-04-09 13:52:50.103 DBG] Midi :: Time to save 13.3314ms
+[2026-04-09 13:52:50.118 DBG] OBS Settings :: Time to save 14.7881ms
+[2026-04-09 13:52:50.131 DBG] MeldStudio Settings :: Time to save 12.4124ms
+[2026-04-09 13:52:50.140 DBG] Credits :: Time to save 9.4956ms
+[2026-04-09 13:52:50.158 DBG] Quotes :: Time to save 17.2124ms
+[2026-04-09 13:52:50.233 DBG] Config :: Time to save 16.7885ms
+[2026-04-09 13:53:20.559 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 13:53:20.649 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.8826ms)
+[2026-04-09 13:54:20.577 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 13:54:20.672 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2458ms)
+[2026-04-09 13:55:20.590 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2026-04-09 13:55:20.686 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.6559ms)
+[2026-04-09 13:56:20.591 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 13:56:20.686 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1821ms)
+[2026-04-09 13:57:04.849 DBG] Credits :: Time to save 16.4586ms
+[2026-04-09 13:57:20.592 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 13:57:20.688 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4153ms)
+[2026-04-09 13:57:41.750 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 13:57:41.750 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 13:57:41.750 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 13:57:41.750 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, b9acc234-23f9-4e53-bf0c-498d30d5acd9)
+[2026-04-09 13:57:50.241 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 13:57:50.261 DBG] Users :: Time to save 19.7932ms
+[2026-04-09 13:57:50.283 DBG] Actions :: Time to save 22.2038ms
+[2026-04-09 13:57:50.297 DBG] Commands :: Time to save 15.2279ms
+[2026-04-09 13:57:50.312 DBG] Twitch Rewards :: Time to save 13.8156ms
+[2026-04-09 13:57:50.323 DBG] Midi :: Time to save 10.5325ms
+[2026-04-09 13:57:50.333 DBG] OBS Settings :: Time to save 11.164ms
+[2026-04-09 13:57:50.348 DBG] MeldStudio Settings :: Time to save 13.5793ms
+[2026-04-09 13:57:50.361 DBG] Credits :: Time to save 13.5846ms
+[2026-04-09 13:57:50.374 DBG] Quotes :: Time to save 12.763ms
+[2026-04-09 13:57:50.462 DBG] Config :: Time to save 19.0314ms
+[2026-04-09 13:58:20.595 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0344ms
+[2026-04-09 13:58:20.696 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.0347ms)
+[2026-04-09 13:59:20.602 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 13:59:20.701 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.897ms)
+[2026-04-09 14:00:20.609 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 14:00:20.707 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.4375ms)
+[2026-04-09 14:01:20.621 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 14:01:20.716 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.7366ms)
+[2026-04-09 14:02:04.853 DBG] Credits :: Time to save 11.5329ms
+[2026-04-09 14:02:20.632 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0487ms
+[2026-04-09 14:02:20.729 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6658ms)
+[2026-04-09 14:02:50.490 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:02:50.503 DBG] Users :: Time to save 13.2731ms
+[2026-04-09 14:02:50.521 DBG] Actions :: Time to save 18.3055ms
+[2026-04-09 14:02:50.537 DBG] Commands :: Time to save 16.5675ms
+[2026-04-09 14:02:50.555 DBG] Twitch Rewards :: Time to save 16.3528ms
+[2026-04-09 14:02:50.568 DBG] Midi :: Time to save 13.9673ms
+[2026-04-09 14:02:50.584 DBG] OBS Settings :: Time to save 15.6389ms
+[2026-04-09 14:02:50.599 DBG] MeldStudio Settings :: Time to save 14.8038ms
+[2026-04-09 14:02:50.613 DBG] Credits :: Time to save 13.8109ms
+[2026-04-09 14:02:50.627 DBG] Quotes :: Time to save 14.644ms
+[2026-04-09 14:02:50.705 DBG] Config :: Time to save 13.8713ms
+[2026-04-09 14:03:20.646 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 14:03:20.743 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.4616ms)
+[2026-04-09 14:04:20.659 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0376ms
+[2026-04-09 14:04:20.753 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.615ms)
+[2026-04-09 14:05:20.673 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.054ms
+[2026-04-09 14:05:20.789 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (116.562ms)
+[2026-04-09 14:06:20.672 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 14:06:20.768 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4048ms)
+[2026-04-09 14:07:04.858 DBG] Credits :: Time to save 15.1982ms
+[2026-04-09 14:07:20.686 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.035ms
+[2026-04-09 14:07:20.780 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5429ms)
+[2026-04-09 14:07:42.432 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 14:07:42.432 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 14:07:42.432 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 14:07:42.432 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a703fc19-a93a-4c9c-baee-847701cd30f3)
+[2026-04-09 14:07:50.690 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:07:50.708 DBG] Users :: Time to save 18.1221ms
+[2026-04-09 14:07:50.726 DBG] Actions :: Time to save 17.5561ms
+[2026-04-09 14:07:50.741 DBG] Commands :: Time to save 15.5802ms
+[2026-04-09 14:07:50.755 DBG] Twitch Rewards :: Time to save 13.9216ms
+[2026-04-09 14:07:50.769 DBG] Midi :: Time to save 13.7051ms
+[2026-04-09 14:07:50.779 DBG] OBS Settings :: Time to save 10.4299ms
+[2026-04-09 14:07:50.791 DBG] MeldStudio Settings :: Time to save 11.5396ms
+[2026-04-09 14:07:50.805 DBG] Credits :: Time to save 13.8676ms
+[2026-04-09 14:07:50.817 DBG] Quotes :: Time to save 12.1984ms
+[2026-04-09 14:07:50.909 DBG] Config :: Time to save 17.6243ms
+[2026-04-09 14:08:20.701 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 14:08:20.795 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4534ms)
+[2026-04-09 14:09:20.714 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0483ms
+[2026-04-09 14:09:20.805 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.6792ms)
+[2026-04-09 14:10:20.716 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 14:10:20.808 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.2195ms)
+[2026-04-09 14:11:20.721 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0392ms
+[2026-04-09 14:11:20.821 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.5311ms)
+[2026-04-09 14:12:04.868 DBG] Credits :: Time to save 18.1772ms
+[2026-04-09 14:12:20.730 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 14:12:20.826 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.7775ms)
+[2026-04-09 14:12:50.887 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:12:50.907 DBG] Users :: Time to save 19.347ms
+[2026-04-09 14:12:50.933 DBG] Actions :: Time to save 25.9803ms
+[2026-04-09 14:12:50.948 DBG] Commands :: Time to save 16.0812ms
+[2026-04-09 14:12:50.963 DBG] Twitch Rewards :: Time to save 15.3155ms
+[2026-04-09 14:12:50.977 DBG] Midi :: Time to save 13.6971ms
+[2026-04-09 14:12:50.993 DBG] OBS Settings :: Time to save 15.5996ms
+[2026-04-09 14:12:51.008 DBG] MeldStudio Settings :: Time to save 14.0292ms
+[2026-04-09 14:12:51.022 DBG] Credits :: Time to save 14.3832ms
+[2026-04-09 14:12:51.039 DBG] Quotes :: Time to save 16.6091ms
+[2026-04-09 14:12:51.109 DBG] Config :: Time to save 17.9892ms
+[2026-04-09 14:13:20.739 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.042ms
+[2026-04-09 14:13:20.831 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8319ms)
+[2026-04-09 14:14:20.746 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0355ms
+[2026-04-09 14:14:20.845 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.4512ms)
+[2026-04-09 14:15:20.760 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0379ms
+[2026-04-09 14:15:20.857 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9127ms)
+[2026-04-09 14:16:20.775 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0349ms
+[2026-04-09 14:16:20.876 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.0778ms)
+[2026-04-09 14:17:04.866 DBG] Credits :: Time to save 10.9605ms
+[2026-04-09 14:17:20.782 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 14:17:20.892 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (110.4598ms)
+[2026-04-09 14:17:43.030 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 14:17:43.030 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 14:17:43.030 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 14:17:43.030 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, e5b42362-7d7e-44f1-bf67-e90306cb1973)
+[2026-04-09 14:17:51.131 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:17:51.149 DBG] Users :: Time to save 18.1719ms
+[2026-04-09 14:17:51.171 DBG] Actions :: Time to save 22.035ms
+[2026-04-09 14:17:51.187 DBG] Commands :: Time to save 16.0594ms
+[2026-04-09 14:17:51.202 DBG] Twitch Rewards :: Time to save 14.5815ms
+[2026-04-09 14:17:51.217 DBG] Midi :: Time to save 14.4285ms
+[2026-04-09 14:17:51.231 DBG] OBS Settings :: Time to save 14.8586ms
+[2026-04-09 14:17:51.244 DBG] MeldStudio Settings :: Time to save 13.3147ms
+[2026-04-09 14:17:51.259 DBG] Credits :: Time to save 13.9258ms
+[2026-04-09 14:17:51.276 DBG] Quotes :: Time to save 16.852ms
+[2026-04-09 14:17:51.346 DBG] Config :: Time to save 12.8423ms
+[2026-04-09 14:18:20.790 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0377ms
+[2026-04-09 14:18:20.886 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1382ms)
+[2026-04-09 14:19:20.799 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0774ms
+[2026-04-09 14:19:20.894 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2119ms)
+[2026-04-09 14:20:20.800 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0426ms
+[2026-04-09 14:20:20.893 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2568ms)
+[2026-04-09 14:21:20.802 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 14:21:20.912 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (110.2896ms)
+[2026-04-09 14:22:04.876 DBG] Credits :: Time to save 15.1889ms
+[2026-04-09 14:22:20.815 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0391ms
+[2026-04-09 14:22:20.912 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8612ms)
+[2026-04-09 14:22:51.367 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:22:51.385 DBG] Users :: Time to save 18.3523ms
+[2026-04-09 14:22:51.410 DBG] Actions :: Time to save 24.7714ms
+[2026-04-09 14:22:51.427 DBG] Commands :: Time to save 16.9321ms
+[2026-04-09 14:22:51.444 DBG] Twitch Rewards :: Time to save 16.4254ms
+[2026-04-09 14:22:51.458 DBG] Midi :: Time to save 13.9088ms
+[2026-04-09 14:22:51.471 DBG] OBS Settings :: Time to save 13.7362ms
+[2026-04-09 14:22:51.485 DBG] MeldStudio Settings :: Time to save 13.7443ms
+[2026-04-09 14:22:51.497 DBG] Credits :: Time to save 13.3639ms
+[2026-04-09 14:22:51.516 DBG] Quotes :: Time to save 17.1136ms
+[2026-04-09 14:22:51.590 DBG] Config :: Time to save 21.1425ms
+[2026-04-09 14:23:20.829 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0385ms
+[2026-04-09 14:23:20.924 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0177ms)
+[2026-04-09 14:24:20.829 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 14:24:20.923 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.387ms)
+[2026-04-09 14:25:20.839 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0495ms
+[2026-04-09 14:25:20.933 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4404ms)
+[2026-04-09 14:26:20.852 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.047ms
+[2026-04-09 14:26:20.948 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6462ms)
+[2026-04-09 14:27:04.907 DBG] Credits :: Time to save 16.8475ms
+[2026-04-09 14:27:20.859 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 14:27:20.952 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.4613ms)
+[2026-04-09 14:27:43.637 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 14:27:43.637 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 14:27:43.637 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 14:27:43.637 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 8b1c3c41-500d-42cb-85b7-41471e41f5ea)
+[2026-04-09 14:27:51.602 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:27:51.619 DBG] Users :: Time to save 17.724ms
+[2026-04-09 14:27:51.642 DBG] Actions :: Time to save 22.3718ms
+[2026-04-09 14:27:51.656 DBG] Commands :: Time to save 13.7344ms
+[2026-04-09 14:27:51.667 DBG] Twitch Rewards :: Time to save 10.6864ms
+[2026-04-09 14:27:51.678 DBG] Midi :: Time to save 12.3208ms
+[2026-04-09 14:27:51.693 DBG] OBS Settings :: Time to save 14.66ms
+[2026-04-09 14:27:51.709 DBG] MeldStudio Settings :: Time to save 15.6543ms
+[2026-04-09 14:27:51.723 DBG] Credits :: Time to save 13.8519ms
+[2026-04-09 14:27:51.737 DBG] Quotes :: Time to save 14.7456ms
+[2026-04-09 14:27:51.824 DBG] Config :: Time to save 18.9508ms
+[2026-04-09 14:28:20.863 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0372ms
+[2026-04-09 14:28:20.961 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.2495ms)
+[2026-04-09 14:29:20.870 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0398ms
+[2026-04-09 14:29:21.000 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (129.7868ms)
+[2026-04-09 14:30:20.880 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 14:30:20.972 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.1666ms)
+[2026-04-09 14:31:20.891 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0522ms
+[2026-04-09 14:31:20.986 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5875ms)
+[2026-04-09 14:32:04.920 DBG] Credits :: Time to save 14.4762ms
+[2026-04-09 14:32:20.900 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0383ms
+[2026-04-09 14:32:20.993 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.0324ms)
+[2026-04-09 14:32:51.833 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:32:51.851 DBG] Users :: Time to save 17.863ms
+[2026-04-09 14:32:51.876 DBG] Actions :: Time to save 25.157ms
+[2026-04-09 14:32:51.892 DBG] Commands :: Time to save 16.0411ms
+[2026-04-09 14:32:51.909 DBG] Twitch Rewards :: Time to save 16.6919ms
+[2026-04-09 14:32:51.921 DBG] Midi :: Time to save 11.9625ms
+[2026-04-09 14:32:51.936 DBG] OBS Settings :: Time to save 15.4873ms
+[2026-04-09 14:32:51.950 DBG] MeldStudio Settings :: Time to save 13.8069ms
+[2026-04-09 14:32:51.961 DBG] Credits :: Time to save 11.2098ms
+[2026-04-09 14:32:51.978 DBG] Quotes :: Time to save 16.5196ms
+[2026-04-09 14:32:52.056 DBG] Config :: Time to save 18.3538ms
+[2026-04-09 14:33:20.902 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.037ms
+[2026-04-09 14:33:20.993 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.879ms)
+[2026-04-09 14:34:20.903 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 14:34:21.000 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0292ms)
+[2026-04-09 14:35:20.911 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 14:35:21.003 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.6372ms)
+[2026-04-09 14:36:20.920 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0512ms
+[2026-04-09 14:36:21.015 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6145ms)
+[2026-04-09 14:37:04.927 DBG] Credits :: Time to save 10.8472ms
+[2026-04-09 14:37:20.935 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 14:37:21.031 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.3667ms)
+[2026-04-09 14:37:44.265 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 14:37:44.265 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 14:37:44.265 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 14:37:44.265 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 36be47fb-054a-419c-8235-292bbbafcdff)
+[2026-04-09 14:37:52.093 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:37:52.110 DBG] Users :: Time to save 17.58ms
+[2026-04-09 14:37:52.129 DBG] Actions :: Time to save 17.9368ms
+[2026-04-09 14:37:52.140 DBG] Commands :: Time to save 11.249ms
+[2026-04-09 14:37:52.156 DBG] Twitch Rewards :: Time to save 16.1403ms
+[2026-04-09 14:37:52.170 DBG] Midi :: Time to save 13.7235ms
+[2026-04-09 14:37:52.183 DBG] OBS Settings :: Time to save 12.9978ms
+[2026-04-09 14:37:52.198 DBG] MeldStudio Settings :: Time to save 15.1943ms
+[2026-04-09 14:37:52.212 DBG] Credits :: Time to save 13.4184ms
+[2026-04-09 14:37:52.227 DBG] Quotes :: Time to save 15.3843ms
+[2026-04-09 14:37:52.316 DBG] Config :: Time to save 19.7332ms
+[2026-04-09 14:38:20.947 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 14:38:21.046 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0556ms)
+[2026-04-09 14:39:20.949 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0348ms
+[2026-04-09 14:39:21.049 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.319ms)
+[2026-04-09 14:40:20.959 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0391ms
+[2026-04-09 14:40:21.057 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9488ms)
+[2026-04-09 14:41:20.973 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 14:41:21.065 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5067ms)
+[2026-04-09 14:42:04.938 DBG] Credits :: Time to save 14.2647ms
+[2026-04-09 14:42:20.982 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0541ms
+[2026-04-09 14:42:21.079 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.3854ms)
+[2026-04-09 14:42:52.317 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:42:52.336 DBG] Users :: Time to save 19.1482ms
+[2026-04-09 14:42:52.359 DBG] Actions :: Time to save 22.7292ms
+[2026-04-09 14:42:52.377 DBG] Commands :: Time to save 17.7443ms
+[2026-04-09 14:42:52.393 DBG] Twitch Rewards :: Time to save 16.2587ms
+[2026-04-09 14:42:52.403 DBG] Midi :: Time to save 10.5845ms
+[2026-04-09 14:42:52.419 DBG] OBS Settings :: Time to save 15.265ms
+[2026-04-09 14:42:52.433 DBG] MeldStudio Settings :: Time to save 14.6461ms
+[2026-04-09 14:42:52.448 DBG] Credits :: Time to save 13.8826ms
+[2026-04-09 14:42:52.463 DBG] Quotes :: Time to save 15.8631ms
+[2026-04-09 14:42:52.538 DBG] Config :: Time to save 17.3417ms
+[2026-04-09 14:43:20.987 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 14:43:21.080 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5103ms)
+[2026-04-09 14:44:20.992 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 14:44:21.092 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.2321ms)
+[2026-04-09 14:45:20.993 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0347ms
+[2026-04-09 14:45:21.089 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4519ms)
+[2026-04-09 14:46:20.999 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 14:46:21.090 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.9296ms)
+[2026-04-09 14:47:04.943 DBG] Credits :: Time to save 14.8311ms
+[2026-04-09 14:47:21.016 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0398ms
+[2026-04-09 14:47:21.597 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (581.3303ms)
+[2026-04-09 14:47:44.742 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 14:47:44.742 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 14:47:44.742 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 14:47:44.742 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, c8e9dcba-e1d5-4af8-b843-2e29747ebdbc)
+[2026-04-09 14:47:52.535 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:47:52.548 DBG] Users :: Time to save 14.1809ms
+[2026-04-09 14:47:52.566 DBG] Actions :: Time to save 16.919ms
+[2026-04-09 14:47:52.581 DBG] Commands :: Time to save 15.8768ms
+[2026-04-09 14:47:52.598 DBG] Twitch Rewards :: Time to save 16.9478ms
+[2026-04-09 14:47:52.610 DBG] Midi :: Time to save 11.1274ms
+[2026-04-09 14:47:52.622 DBG] OBS Settings :: Time to save 13.0391ms
+[2026-04-09 14:47:52.637 DBG] MeldStudio Settings :: Time to save 14.1858ms
+[2026-04-09 14:47:52.647 DBG] Credits :: Time to save 10.1542ms
+[2026-04-09 14:47:52.663 DBG] Quotes :: Time to save 16.2746ms
+[2026-04-09 14:47:52.750 DBG] Config :: Time to save 12.9874ms
+[2026-04-09 14:48:21.018 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 14:48:21.112 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8773ms)
+[2026-04-09 14:49:21.020 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 14:49:21.117 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0099ms)
+[2026-04-09 14:50:21.026 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0608ms
+[2026-04-09 14:50:21.127 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.3939ms)
+[2026-04-09 14:51:21.042 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 14:51:21.135 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.6826ms)
+[2026-04-09 14:52:04.953 DBG] Credits :: Time to save 12.4354ms
+[2026-04-09 14:52:21.042 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0472ms
+[2026-04-09 14:52:21.135 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9727ms)
+[2026-04-09 14:52:52.784 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:52:52.801 DBG] Users :: Time to save 17.5916ms
+[2026-04-09 14:52:52.820 DBG] Actions :: Time to save 18.5783ms
+[2026-04-09 14:52:52.835 DBG] Commands :: Time to save 14.8973ms
+[2026-04-09 14:52:52.851 DBG] Twitch Rewards :: Time to save 15.8669ms
+[2026-04-09 14:52:52.865 DBG] Midi :: Time to save 13.8643ms
+[2026-04-09 14:52:52.878 DBG] OBS Settings :: Time to save 13.3315ms
+[2026-04-09 14:52:52.893 DBG] MeldStudio Settings :: Time to save 14.2825ms
+[2026-04-09 14:52:52.907 DBG] Credits :: Time to save 13.4732ms
+[2026-04-09 14:52:52.921 DBG] Quotes :: Time to save 15.2276ms
+[2026-04-09 14:52:53.005 DBG] Config :: Time to save 17.6003ms
+[2026-04-09 14:53:21.056 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0375ms
+[2026-04-09 14:53:21.154 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8047ms)
+[2026-04-09 14:54:21.068 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-04-09 14:54:21.163 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.032ms)
+[2026-04-09 14:55:21.080 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0389ms
+[2026-04-09 14:55:21.176 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.7303ms)
+[2026-04-09 14:56:21.082 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0425ms
+[2026-04-09 14:56:21.180 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.2254ms)
+[2026-04-09 14:57:04.958 DBG] Credits :: Time to save 15.5732ms
+[2026-04-09 14:57:21.096 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0378ms
+[2026-04-09 14:57:21.198 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.3654ms)
+[2026-04-09 14:57:45.133 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 14:57:45.133 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 14:57:45.133 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 14:57:45.133 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 105daa5f-ac6f-475b-831f-117454aca6ae)
+[2026-04-09 14:57:53.001 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 14:57:53.018 DBG] Users :: Time to save 17.5701ms
+[2026-04-09 14:57:53.041 DBG] Actions :: Time to save 22.283ms
+[2026-04-09 14:57:53.057 DBG] Commands :: Time to save 15.9528ms
+[2026-04-09 14:57:53.071 DBG] Twitch Rewards :: Time to save 13.8725ms
+[2026-04-09 14:57:53.081 DBG] Midi :: Time to save 10.2542ms
+[2026-04-09 14:57:53.095 DBG] OBS Settings :: Time to save 14.0146ms
+[2026-04-09 14:57:53.106 DBG] MeldStudio Settings :: Time to save 10.4616ms
+[2026-04-09 14:57:53.120 DBG] Credits :: Time to save 14.2684ms
+[2026-04-09 14:57:53.137 DBG] Quotes :: Time to save 16.381ms
+[2026-04-09 14:57:53.236 DBG] Config :: Time to save 16.831ms
+[2026-04-09 14:58:21.105 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0384ms
+[2026-04-09 14:58:21.203 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.6796ms)
+[2026-04-09 14:59:21.117 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0484ms
+[2026-04-09 14:59:21.212 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.9222ms)
+[2026-04-09 15:00:21.125 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 15:00:21.227 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.0044ms)
+[2026-04-09 15:01:21.127 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0401ms
+[2026-04-09 15:01:21.221 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9021ms)
+[2026-04-09 15:02:04.962 DBG] Credits :: Time to save 12.5206ms
+[2026-04-09 15:02:21.132 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0512ms
+[2026-04-09 15:02:21.223 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.8057ms)
+[2026-04-09 15:02:53.228 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:02:53.245 DBG] Users :: Time to save 17.5066ms
+[2026-04-09 15:02:53.268 DBG] Actions :: Time to save 23.4181ms
+[2026-04-09 15:02:53.284 DBG] Commands :: Time to save 15.8087ms
+[2026-04-09 15:02:53.300 DBG] Twitch Rewards :: Time to save 16.1696ms
+[2026-04-09 15:02:53.315 DBG] Midi :: Time to save 13.8275ms
+[2026-04-09 15:02:53.329 DBG] OBS Settings :: Time to save 14.3573ms
+[2026-04-09 15:02:53.342 DBG] MeldStudio Settings :: Time to save 13.5912ms
+[2026-04-09 15:02:53.355 DBG] Credits :: Time to save 13.0092ms
+[2026-04-09 15:02:53.372 DBG] Quotes :: Time to save 16.6418ms
+[2026-04-09 15:02:53.443 DBG] Config :: Time to save 14.1893ms
+[2026-04-09 15:03:21.144 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 15:03:21.235 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.2796ms)
+[2026-04-09 15:04:21.159 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0344ms
+[2026-04-09 15:04:21.255 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2322ms)
+[2026-04-09 15:05:21.160 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0387ms
+[2026-04-09 15:05:21.257 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8225ms)
+[2026-04-09 15:06:21.163 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0356ms
+[2026-04-09 15:06:21.259 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0767ms)
+[2026-04-09 15:06:27.340 DBG] StreamElements Socket :: Disconnected
+[2026-04-09 15:06:27.341 INF] StreamElements Service :: Disconnected from Client
+[2026-04-09 15:06:29.345 DBG] StreamElements Service :: Retrying client connection
+[2026-04-09 15:06:29.345 INF] StreamElements Service :: Connecting to Client
+[2026-04-09 15:06:29.345 DBG] StreamElements Socket :: Opening connection
+[2026-04-09 15:06:29.589 INF] StreamElements Service :: Connected to Client
+[2026-04-09 15:07:04.973 DBG] Credits :: Time to save 15.1893ms
+[2026-04-09 15:07:21.178 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0991ms
+[2026-04-09 15:07:21.270 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.3547ms)
+[2026-04-09 15:07:45.775 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 15:07:45.775 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 15:07:45.776 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 15:07:45.776 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 7c2e34dc-ab1b-406a-a069-6c016b95d43d)
+[2026-04-09 15:07:53.472 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:07:53.489 DBG] Users :: Time to save 17.508ms
+[2026-04-09 15:07:53.512 DBG] Actions :: Time to save 22.4183ms
+[2026-04-09 15:07:53.528 DBG] Commands :: Time to save 15.3653ms
+[2026-04-09 15:07:53.543 DBG] Twitch Rewards :: Time to save 15.8256ms
+[2026-04-09 15:07:53.555 DBG] Midi :: Time to save 12.0118ms
+[2026-04-09 15:07:53.569 DBG] OBS Settings :: Time to save 13.9433ms
+[2026-04-09 15:07:53.585 DBG] MeldStudio Settings :: Time to save 15.0302ms
+[2026-04-09 15:07:53.597 DBG] Credits :: Time to save 13.7322ms
+[2026-04-09 15:07:53.609 DBG] Quotes :: Time to save 11.1696ms
+[2026-04-09 15:07:53.692 DBG] Config :: Time to save 18.0089ms
+[2026-04-09 15:08:21.191 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.038ms
+[2026-04-09 15:08:21.287 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5435ms)
+[2026-04-09 15:09:21.207 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0388ms
+[2026-04-09 15:09:21.303 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.3704ms)
+[2026-04-09 15:10:21.209 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0611ms
+[2026-04-09 15:10:21.302 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.6426ms)
+[2026-04-09 15:11:21.211 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 15:11:21.307 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0216ms)
+[2026-04-09 15:12:04.976 DBG] Credits :: Time to save 14.3703ms
+[2026-04-09 15:12:21.227 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0489ms
+[2026-04-09 15:12:21.322 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.596ms)
+[2026-04-09 15:12:53.711 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:12:53.729 DBG] Users :: Time to save 17.8556ms
+[2026-04-09 15:12:53.752 DBG] Actions :: Time to save 23.1064ms
+[2026-04-09 15:12:53.768 DBG] Commands :: Time to save 16.0823ms
+[2026-04-09 15:12:53.785 DBG] Twitch Rewards :: Time to save 16.1267ms
+[2026-04-09 15:12:53.794 DBG] Midi :: Time to save 9.5203ms
+[2026-04-09 15:12:53.805 DBG] OBS Settings :: Time to save 11.0028ms
+[2026-04-09 15:12:53.815 DBG] MeldStudio Settings :: Time to save 9.8988ms
+[2026-04-09 15:12:53.826 DBG] Credits :: Time to save 11.6889ms
+[2026-04-09 15:12:53.843 DBG] Quotes :: Time to save 15.9898ms
+[2026-04-09 15:12:53.926 DBG] Config :: Time to save 12.6187ms
+[2026-04-09 15:13:21.231 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 15:13:21.324 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.3142ms)
+[2026-04-09 15:14:21.233 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 15:14:21.329 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.4651ms)
+[2026-04-09 15:15:21.237 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0355ms
+[2026-04-09 15:15:21.332 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.8295ms)
+[2026-04-09 15:16:21.240 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0407ms
+[2026-04-09 15:16:21.335 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5059ms)
+[2026-04-09 15:17:04.983 DBG] Credits :: Time to save 15.0291ms
+[2026-04-09 15:17:21.243 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 15:17:21.340 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.0337ms)
+[2026-04-09 15:17:46.320 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 15:17:46.320 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 15:17:46.320 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 15:17:46.320 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 9f72fa5d-5386-42a3-a5ee-e75048361395)
+[2026-04-09 15:17:53.923 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:17:53.942 DBG] Users :: Time to save 19.3223ms
+[2026-04-09 15:17:53.966 DBG] Actions :: Time to save 22.7917ms
+[2026-04-09 15:17:53.980 DBG] Commands :: Time to save 15.4023ms
+[2026-04-09 15:17:53.997 DBG] Twitch Rewards :: Time to save 16.8682ms
+[2026-04-09 15:17:54.011 DBG] Midi :: Time to save 13.0729ms
+[2026-04-09 15:17:54.025 DBG] OBS Settings :: Time to save 13.942ms
+[2026-04-09 15:17:54.038 DBG] MeldStudio Settings :: Time to save 12.4431ms
+[2026-04-09 15:17:54.047 DBG] Credits :: Time to save 9.0409ms
+[2026-04-09 15:17:54.064 DBG] Quotes :: Time to save 17.5245ms
+[2026-04-09 15:17:54.141 DBG] Config :: Time to save 13.4326ms
+[2026-04-09 15:18:21.252 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0408ms
+[2026-04-09 15:18:21.345 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9445ms)
+[2026-04-09 15:19:21.257 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0484ms
+[2026-04-09 15:19:21.351 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.018ms)
+[2026-04-09 15:20:21.266 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 15:20:21.359 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.3903ms)
+[2026-04-09 15:21:21.273 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0627ms
+[2026-04-09 15:21:21.363 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.0671ms)
+[2026-04-09 15:22:04.995 DBG] Credits :: Time to save 14.7459ms
+[2026-04-09 15:22:21.282 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0558ms
+[2026-04-09 15:22:21.380 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9616ms)
+[2026-04-09 15:22:54.146 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:22:54.164 DBG] Users :: Time to save 18.8313ms
+[2026-04-09 15:22:54.189 DBG] Actions :: Time to save 24.2188ms
+[2026-04-09 15:22:54.206 DBG] Commands :: Time to save 17.4756ms
+[2026-04-09 15:22:54.223 DBG] Twitch Rewards :: Time to save 16.7365ms
+[2026-04-09 15:22:54.240 DBG] Midi :: Time to save 16.3435ms
+[2026-04-09 15:22:54.253 DBG] OBS Settings :: Time to save 13.5825ms
+[2026-04-09 15:22:54.267 DBG] MeldStudio Settings :: Time to save 12.796ms
+[2026-04-09 15:22:54.280 DBG] Credits :: Time to save 13.3166ms
+[2026-04-09 15:22:54.297 DBG] Quotes :: Time to save 16.6653ms
+[2026-04-09 15:22:54.366 DBG] Config :: Time to save 17.6456ms
+[2026-04-09 15:23:21.291 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0404ms
+[2026-04-09 15:23:21.386 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5096ms)
+[2026-04-09 15:24:21.307 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.042ms
+[2026-04-09 15:24:21.400 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.951ms)
+[2026-04-09 15:25:21.317 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0418ms
+[2026-04-09 15:25:21.406 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.0869ms)
+[2026-04-09 15:26:21.326 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 15:26:21.422 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9092ms)
+[2026-04-09 15:27:05.013 DBG] Credits :: Time to save 14.3378ms
+[2026-04-09 15:27:21.326 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 15:27:21.423 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.1319ms)
+[2026-04-09 15:27:47.046 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 15:27:47.046 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 15:27:47.046 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 15:27:47.046 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 9c263cdf-0183-4aca-8964-eb6074648237)
+[2026-04-09 15:27:54.403 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:27:54.416 DBG] Users :: Time to save 13.3768ms
+[2026-04-09 15:27:54.439 DBG] Actions :: Time to save 22.4449ms
+[2026-04-09 15:27:54.455 DBG] Commands :: Time to save 16.0793ms
+[2026-04-09 15:27:54.470 DBG] Twitch Rewards :: Time to save 14.7394ms
+[2026-04-09 15:27:54.480 DBG] Midi :: Time to save 9.8554ms
+[2026-04-09 15:27:54.492 DBG] OBS Settings :: Time to save 12.9408ms
+[2026-04-09 15:27:54.506 DBG] MeldStudio Settings :: Time to save 12.3927ms
+[2026-04-09 15:27:54.521 DBG] Credits :: Time to save 15.5646ms
+[2026-04-09 15:27:54.538 DBG] Quotes :: Time to save 16.8258ms
+[2026-04-09 15:27:54.625 DBG] Config :: Time to save 18.1248ms
+[2026-04-09 15:28:21.337 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.038ms
+[2026-04-09 15:28:21.438 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.5246ms)
+[2026-04-09 15:29:21.350 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0456ms
+[2026-04-09 15:29:21.449 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.7969ms)
+[2026-04-09 15:30:21.361 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0366ms
+[2026-04-09 15:30:21.457 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.0108ms)
+[2026-04-09 15:31:21.371 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 15:31:21.465 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.093ms)
+[2026-04-09 15:32:05.015 DBG] Credits :: Time to save 10.1447ms
+[2026-04-09 15:32:21.385 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0394ms
+[2026-04-09 15:32:21.480 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.4946ms)
+[2026-04-09 15:32:54.616 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:32:54.630 DBG] Users :: Time to save 15.2384ms
+[2026-04-09 15:32:54.653 DBG] Actions :: Time to save 21.9102ms
+[2026-04-09 15:32:54.669 DBG] Commands :: Time to save 15.8952ms
+[2026-04-09 15:32:54.685 DBG] Twitch Rewards :: Time to save 16.1854ms
+[2026-04-09 15:32:54.694 DBG] Midi :: Time to save 9.9101ms
+[2026-04-09 15:32:54.709 DBG] OBS Settings :: Time to save 14.4964ms
+[2026-04-09 15:32:54.725 DBG] MeldStudio Settings :: Time to save 15.1224ms
+[2026-04-09 15:32:54.738 DBG] Credits :: Time to save 13.0152ms
+[2026-04-09 15:32:54.754 DBG] Quotes :: Time to save 16.2218ms
+[2026-04-09 15:32:54.835 DBG] Config :: Time to save 17.1884ms
+[2026-04-09 15:33:21.395 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 15:33:21.490 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.8405ms)
+[2026-04-09 15:34:21.398 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2026-04-09 15:34:21.498 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.0108ms)
+[2026-04-09 15:35:21.399 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 15:35:21.493 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.0296ms)
+[2026-04-09 15:36:21.411 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0349ms
+[2026-04-09 15:36:21.512 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.608ms)
+[2026-04-09 15:37:05.031 DBG] Credits :: Time to save 12.811ms
+[2026-04-09 15:37:21.420 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 15:37:21.517 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.1923ms)
+[2026-04-09 15:37:47.625 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 15:37:47.625 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 15:37:47.625 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 15:37:47.625 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 0f5a493e-5a05-4a36-8c16-6eea93eb3906)
+[2026-04-09 15:37:54.830 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:37:54.845 DBG] Users :: Time to save 14.2517ms
+[2026-04-09 15:37:54.866 DBG] Actions :: Time to save 21.5859ms
+[2026-04-09 15:37:54.883 DBG] Commands :: Time to save 16.846ms
+[2026-04-09 15:37:54.899 DBG] Twitch Rewards :: Time to save 16.3035ms
+[2026-04-09 15:37:54.913 DBG] Midi :: Time to save 14.0743ms
+[2026-04-09 15:37:54.927 DBG] OBS Settings :: Time to save 13.7984ms
+[2026-04-09 15:37:54.940 DBG] MeldStudio Settings :: Time to save 13.2534ms
+[2026-04-09 15:37:54.954 DBG] Credits :: Time to save 13.547ms
+[2026-04-09 15:37:54.969 DBG] Quotes :: Time to save 14.9644ms
+[2026-04-09 15:37:55.063 DBG] Config :: Time to save 16.4391ms
+[2026-04-09 15:38:21.430 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 15:38:21.528 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.864ms)
+[2026-04-09 15:39:21.432 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 15:39:21.528 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6271ms)
+[2026-04-09 15:40:21.432 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.039ms
+[2026-04-09 15:40:21.523 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3437ms)
+[2026-04-09 15:41:21.438 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 15:41:21.531 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9497ms)
+[2026-04-09 15:42:05.040 DBG] Credits :: Time to save 17.0753ms
+[2026-04-09 15:42:21.439 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.038ms
+[2026-04-09 15:42:21.540 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (101.2016ms)
+[2026-04-09 15:42:55.082 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:42:55.094 DBG] Users :: Time to save 12.2325ms
+[2026-04-09 15:42:55.120 DBG] Actions :: Time to save 25.4585ms
+[2026-04-09 15:42:55.137 DBG] Commands :: Time to save 16.8028ms
+[2026-04-09 15:42:55.154 DBG] Twitch Rewards :: Time to save 17.2464ms
+[2026-04-09 15:42:55.169 DBG] Midi :: Time to save 15.2571ms
+[2026-04-09 15:42:55.183 DBG] OBS Settings :: Time to save 13.9234ms
+[2026-04-09 15:42:55.197 DBG] MeldStudio Settings :: Time to save 13.697ms
+[2026-04-09 15:42:55.211 DBG] Credits :: Time to save 13.5217ms
+[2026-04-09 15:42:55.228 DBG] Quotes :: Time to save 17.3879ms
+[2026-04-09 15:42:55.303 DBG] Config :: Time to save 19.1608ms
+[2026-04-09 15:43:21.445 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0411ms
+[2026-04-09 15:43:21.544 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.2471ms)
+[2026-04-09 15:44:21.458 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 15:44:21.554 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.1309ms)
+[2026-04-09 15:45:21.471 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 15:45:21.566 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.1711ms)
+[2026-04-09 15:46:21.482 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0372ms
+[2026-04-09 15:46:21.573 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.6556ms)
+[2026-04-09 15:47:05.047 DBG] Credits :: Time to save 14.189ms
+[2026-04-09 15:47:21.490 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.05ms
+[2026-04-09 15:47:21.586 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.7941ms)
+[2026-04-09 15:47:48.023 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 15:47:48.023 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 15:47:48.023 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 15:47:48.023 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 3e20828d-c065-4a63-999b-e20b824699d8)
+[2026-04-09 15:47:55.306 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:47:55.321 DBG] Users :: Time to save 15.5258ms
+[2026-04-09 15:47:55.339 DBG] Actions :: Time to save 18.0328ms
+[2026-04-09 15:47:55.350 DBG] Commands :: Time to save 11.5311ms
+[2026-04-09 15:47:55.362 DBG] Twitch Rewards :: Time to save 11.3737ms
+[2026-04-09 15:47:55.376 DBG] Midi :: Time to save 14.1841ms
+[2026-04-09 15:47:55.390 DBG] OBS Settings :: Time to save 13.9385ms
+[2026-04-09 15:47:55.401 DBG] MeldStudio Settings :: Time to save 10.4562ms
+[2026-04-09 15:47:55.411 DBG] Credits :: Time to save 9.8311ms
+[2026-04-09 15:47:55.425 DBG] Quotes :: Time to save 13.5031ms
+[2026-04-09 15:47:55.525 DBG] Config :: Time to save 15.1452ms
+[2026-04-09 15:48:21.506 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 15:48:22.029 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (523.7863ms)
+[2026-04-09 15:49:21.518 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 15:49:21.618 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.3975ms)
+[2026-04-09 15:50:21.546 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 15:50:21.646 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.9718ms)
+[2026-04-09 15:51:21.556 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0387ms
+[2026-04-09 15:51:21.650 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.6625ms)
+[2026-04-09 15:52:05.063 DBG] Credits :: Time to save 16.0738ms
+[2026-04-09 15:52:21.568 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 15:52:21.663 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.3261ms)
+[2026-04-09 15:52:55.536 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:52:55.551 DBG] Users :: Time to save 15.5912ms
+[2026-04-09 15:52:55.576 DBG] Actions :: Time to save 23.9997ms
+[2026-04-09 15:52:55.592 DBG] Commands :: Time to save 16.7636ms
+[2026-04-09 15:52:55.609 DBG] Twitch Rewards :: Time to save 16.9231ms
+[2026-04-09 15:52:55.625 DBG] Midi :: Time to save 15.8386ms
+[2026-04-09 15:52:55.641 DBG] OBS Settings :: Time to save 15.8516ms
+[2026-04-09 15:52:55.655 DBG] MeldStudio Settings :: Time to save 14.2178ms
+[2026-04-09 15:52:55.668 DBG] Credits :: Time to save 13.581ms
+[2026-04-09 15:52:55.686 DBG] Quotes :: Time to save 17.1832ms
+[2026-04-09 15:52:55.758 DBG] Config :: Time to save 19.1969ms
+[2026-04-09 15:53:21.593 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0405ms
+[2026-04-09 15:53:21.689 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6117ms)
+[2026-04-09 15:54:21.595 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 15:54:21.690 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2369ms)
+[2026-04-09 15:55:21.598 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0494ms
+[2026-04-09 15:55:21.692 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.5278ms)
+[2026-04-09 15:56:21.605 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0479ms
+[2026-04-09 15:56:21.702 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9966ms)
+[2026-04-09 15:57:05.077 DBG] Credits :: Time to save 14.8637ms
+[2026-04-09 15:57:21.619 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.1069ms
+[2026-04-09 15:57:21.713 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.9558ms)
+[2026-04-09 15:57:48.505 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 15:57:48.505 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 15:57:48.505 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 15:57:48.505 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, d44f22ba-5e0a-468f-ba49-3d193c6bd36c)
+[2026-04-09 15:57:55.769 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 15:57:55.788 DBG] Users :: Time to save 19.6894ms
+[2026-04-09 15:57:55.810 DBG] Actions :: Time to save 22.1143ms
+[2026-04-09 15:57:55.827 DBG] Commands :: Time to save 16.5537ms
+[2026-04-09 15:57:55.843 DBG] Twitch Rewards :: Time to save 16.7164ms
+[2026-04-09 15:57:55.858 DBG] Midi :: Time to save 13.4777ms
+[2026-04-09 15:57:55.871 DBG] OBS Settings :: Time to save 13.6092ms
+[2026-04-09 15:57:55.886 DBG] MeldStudio Settings :: Time to save 14.6228ms
+[2026-04-09 15:57:55.901 DBG] Credits :: Time to save 15.2836ms
+[2026-04-09 15:57:55.918 DBG] Quotes :: Time to save 16.774ms
+[2026-04-09 15:57:55.988 DBG] Config :: Time to save 17.0889ms
+[2026-04-09 15:58:21.627 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0488ms
+[2026-04-09 15:58:21.721 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2819ms)
+[2026-04-09 15:59:21.632 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 15:59:21.723 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.8949ms)
+[2026-04-09 16:00:21.640 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0375ms
+[2026-04-09 16:00:21.739 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.4683ms)
+[2026-04-09 16:01:21.641 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0342ms
+[2026-04-09 16:01:21.736 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4537ms)
+[2026-04-09 16:02:05.077 DBG] Credits :: Time to save 12.051ms
+[2026-04-09 16:02:21.655 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 16:02:21.747 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.7009ms)
+[2026-04-09 16:02:56.009 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:02:56.027 DBG] Users :: Time to save 18.1171ms
+[2026-04-09 16:02:56.050 DBG] Actions :: Time to save 23.1413ms
+[2026-04-09 16:02:56.067 DBG] Commands :: Time to save 16.2818ms
+[2026-04-09 16:02:56.083 DBG] Twitch Rewards :: Time to save 17.215ms
+[2026-04-09 16:02:56.098 DBG] Midi :: Time to save 13.986ms
+[2026-04-09 16:02:56.112 DBG] OBS Settings :: Time to save 14.6648ms
+[2026-04-09 16:02:56.127 DBG] MeldStudio Settings :: Time to save 14.0263ms
+[2026-04-09 16:02:56.141 DBG] Credits :: Time to save 14.6843ms
+[2026-04-09 16:02:56.157 DBG] Quotes :: Time to save 16.4414ms
+[2026-04-09 16:02:56.230 DBG] Config :: Time to save 18.1087ms
+[2026-04-09 16:03:21.666 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2026-04-09 16:03:21.762 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2379ms)
+[2026-04-09 16:04:21.675 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 16:04:21.768 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.3237ms)
+[2026-04-09 16:05:21.683 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0389ms
+[2026-04-09 16:05:21.778 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.3913ms)
+[2026-04-09 16:06:21.703 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 16:06:21.797 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.0164ms)
+[2026-04-09 16:07:05.086 DBG] Credits :: Time to save 10.5848ms
+[2026-04-09 16:07:21.711 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0354ms
+[2026-04-09 16:07:21.799 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (87.892ms)
+[2026-04-09 16:07:49.276 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 16:07:49.276 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 16:07:49.276 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 16:07:49.276 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, b2b1f5e6-4929-42c0-8fd6-b94b4abadbc3)
+[2026-04-09 16:07:56.252 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:07:56.268 DBG] Users :: Time to save 17.2253ms
+[2026-04-09 16:07:56.290 DBG] Actions :: Time to save 21.6358ms
+[2026-04-09 16:07:56.307 DBG] Commands :: Time to save 15.8798ms
+[2026-04-09 16:07:56.318 DBG] Twitch Rewards :: Time to save 11.6266ms
+[2026-04-09 16:07:56.331 DBG] Midi :: Time to save 13.8036ms
+[2026-04-09 16:07:56.342 DBG] OBS Settings :: Time to save 10.3714ms
+[2026-04-09 16:07:56.357 DBG] MeldStudio Settings :: Time to save 14.4361ms
+[2026-04-09 16:07:56.367 DBG] Credits :: Time to save 10.5337ms
+[2026-04-09 16:07:56.379 DBG] Quotes :: Time to save 11.8238ms
+[2026-04-09 16:07:56.473 DBG] Config :: Time to save 18.5978ms
+[2026-04-09 16:08:21.719 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 16:08:21.813 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.2768ms)
+[2026-04-09 16:09:21.733 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 16:09:21.830 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.8093ms)
+[2026-04-09 16:10:21.739 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 16:10:21.838 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.3844ms)
+[2026-04-09 16:11:21.752 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0369ms
+[2026-04-09 16:11:21.852 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.5789ms)
+[2026-04-09 16:12:05.106 DBG] Credits :: Time to save 15.2895ms
+[2026-04-09 16:12:21.763 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0384ms
+[2026-04-09 16:12:21.857 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.6774ms)
+[2026-04-09 16:12:56.461 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:12:56.481 DBG] Users :: Time to save 20.4828ms
+[2026-04-09 16:12:56.503 DBG] Actions :: Time to save 21.9018ms
+[2026-04-09 16:12:56.519 DBG] Commands :: Time to save 15.7673ms
+[2026-04-09 16:12:56.536 DBG] Twitch Rewards :: Time to save 16.2899ms
+[2026-04-09 16:12:56.549 DBG] Midi :: Time to save 13.5341ms
+[2026-04-09 16:12:56.563 DBG] OBS Settings :: Time to save 14.0879ms
+[2026-04-09 16:12:56.573 DBG] MeldStudio Settings :: Time to save 10.3011ms
+[2026-04-09 16:12:56.587 DBG] Credits :: Time to save 14.0459ms
+[2026-04-09 16:12:56.600 DBG] Quotes :: Time to save 12.2655ms
+[2026-04-09 16:12:56.683 DBG] Config :: Time to save 18.9315ms
+[2026-04-09 16:13:21.763 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0392ms
+[2026-04-09 16:13:21.859 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.5701ms)
+[2026-04-09 16:14:21.777 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.037ms
+[2026-04-09 16:14:21.879 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (102.3859ms)
+[2026-04-09 16:15:21.789 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 16:15:21.903 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (113.6687ms)
+[2026-04-09 16:16:21.800 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 16:16:21.891 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.3793ms)
+[2026-04-09 16:17:05.110 DBG] Credits :: Time to save 13.9338ms
+[2026-04-09 16:17:21.808 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.035ms
+[2026-04-09 16:17:21.899 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.2672ms)
+[2026-04-09 16:17:49.927 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 16:17:49.927 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 16:17:49.927 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 16:17:49.927 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 0e83adc9-145d-44e5-aad8-acd7b7ee6ffa)
+[2026-04-09 16:17:56.663 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:17:56.679 DBG] Users :: Time to save 16.3166ms
+[2026-04-09 16:17:56.702 DBG] Actions :: Time to save 23.138ms
+[2026-04-09 16:17:56.713 DBG] Commands :: Time to save 11.5363ms
+[2026-04-09 16:17:56.729 DBG] Twitch Rewards :: Time to save 15.5752ms
+[2026-04-09 16:17:56.744 DBG] Midi :: Time to save 14.7105ms
+[2026-04-09 16:17:56.759 DBG] OBS Settings :: Time to save 14.5978ms
+[2026-04-09 16:17:56.775 DBG] MeldStudio Settings :: Time to save 15.3528ms
+[2026-04-09 16:17:56.790 DBG] Credits :: Time to save 15.6633ms
+[2026-04-09 16:17:56.809 DBG] Quotes :: Time to save 18.6425ms
+[2026-04-09 16:17:56.888 DBG] Config :: Time to save 21.7095ms
+[2026-04-09 16:18:21.813 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0347ms
+[2026-04-09 16:18:21.910 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.7184ms)
+[2026-04-09 16:19:21.819 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0464ms
+[2026-04-09 16:19:21.916 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.9567ms)
+[2026-04-09 16:20:21.829 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 16:20:21.928 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.3804ms)
+[2026-04-09 16:21:21.831 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0351ms
+[2026-04-09 16:21:21.927 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.115ms)
+[2026-04-09 16:22:05.127 DBG] Credits :: Time to save 14.9152ms
+[2026-04-09 16:22:21.838 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0504ms
+[2026-04-09 16:22:21.936 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.3592ms)
+[2026-04-09 16:22:56.901 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:22:56.913 DBG] Users :: Time to save 12.1433ms
+[2026-04-09 16:22:56.932 DBG] Actions :: Time to save 19.1693ms
+[2026-04-09 16:22:56.948 DBG] Commands :: Time to save 15.837ms
+[2026-04-09 16:22:56.963 DBG] Twitch Rewards :: Time to save 15.2457ms
+[2026-04-09 16:22:56.978 DBG] Midi :: Time to save 14.24ms
+[2026-04-09 16:22:56.990 DBG] OBS Settings :: Time to save 11.8636ms
+[2026-04-09 16:22:57.001 DBG] MeldStudio Settings :: Time to save 11.3369ms
+[2026-04-09 16:22:57.010 DBG] Credits :: Time to save 9.6221ms
+[2026-04-09 16:22:57.027 DBG] Quotes :: Time to save 15.5544ms
+[2026-04-09 16:22:57.122 DBG] Config :: Time to save 17.9448ms
+[2026-04-09 16:23:21.858 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0335ms
+[2026-04-09 16:23:21.952 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.9246ms)
+[2026-04-09 16:24:21.867 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0488ms
+[2026-04-09 16:24:21.961 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.9636ms)
+[2026-04-09 16:25:21.882 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0347ms
+[2026-04-09 16:25:21.979 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.4016ms)
+[2026-04-09 16:26:21.886 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0385ms
+[2026-04-09 16:26:21.978 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.7614ms)
+[2026-04-09 16:27:05.131 DBG] Credits :: Time to save 16.6923ms
+[2026-04-09 16:27:21.901 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0381ms
+[2026-04-09 16:27:21.997 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.2009ms)
+[2026-04-09 16:27:50.441 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 16:27:50.441 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 16:27:50.441 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 16:27:50.441 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 23afdf63-0dc1-4cfa-908b-ca978e36f393)
+[2026-04-09 16:27:57.127 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:27:57.147 DBG] Users :: Time to save 20.2242ms
+[2026-04-09 16:27:57.169 DBG] Actions :: Time to save 23.1398ms
+[2026-04-09 16:27:57.186 DBG] Commands :: Time to save 15.7946ms
+[2026-04-09 16:27:57.201 DBG] Twitch Rewards :: Time to save 15.3412ms
+[2026-04-09 16:27:57.216 DBG] Midi :: Time to save 14.8987ms
+[2026-04-09 16:27:57.230 DBG] OBS Settings :: Time to save 13.7736ms
+[2026-04-09 16:27:57.243 DBG] MeldStudio Settings :: Time to save 14.0921ms
+[2026-04-09 16:27:57.257 DBG] Credits :: Time to save 13.178ms
+[2026-04-09 16:27:57.273 DBG] Quotes :: Time to save 15.6487ms
+[2026-04-09 16:27:57.347 DBG] Config :: Time to save 18.3368ms
+[2026-04-09 16:28:21.909 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0423ms
+[2026-04-09 16:28:22.007 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.5893ms)
+[2026-04-09 16:29:21.910 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0352ms
+[2026-04-09 16:29:22.008 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.7322ms)
+[2026-04-09 16:30:21.915 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0359ms
+[2026-04-09 16:30:22.014 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (99.5222ms)
+[2026-04-09 16:31:21.930 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0346ms
+[2026-04-09 16:31:22.027 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.2706ms)
+[2026-04-09 16:32:05.127 DBG] Credits :: Time to save 11.6898ms
+[2026-04-09 16:32:21.936 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0362ms
+[2026-04-09 16:32:22.029 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (93.8891ms)
+[2026-04-09 16:32:57.388 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:32:57.405 DBG] Users :: Time to save 17.6917ms
+[2026-04-09 16:32:57.423 DBG] Actions :: Time to save 18.4126ms
+[2026-04-09 16:32:57.440 DBG] Commands :: Time to save 16.1742ms
+[2026-04-09 16:32:57.456 DBG] Twitch Rewards :: Time to save 16.1517ms
+[2026-04-09 16:32:57.470 DBG] Midi :: Time to save 14.5883ms
+[2026-04-09 16:32:57.485 DBG] OBS Settings :: Time to save 14.3203ms
+[2026-04-09 16:32:57.499 DBG] MeldStudio Settings :: Time to save 13.883ms
+[2026-04-09 16:32:57.513 DBG] Credits :: Time to save 14.0214ms
+[2026-04-09 16:32:57.528 DBG] Quotes :: Time to save 14.5146ms
+[2026-04-09 16:32:57.609 DBG] Config :: Time to save 18.7467ms
+[2026-04-09 16:33:21.950 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0446ms
+[2026-04-09 16:33:22.048 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.267ms)
+[2026-04-09 16:34:21.959 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.037ms
+[2026-04-09 16:34:22.059 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (100.1709ms)
+[2026-04-09 16:35:21.968 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0357ms
+[2026-04-09 16:35:22.063 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.6426ms)
+[2026-04-09 16:36:21.972 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0349ms
+[2026-04-09 16:36:22.067 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5181ms)
+[2026-04-09 16:37:05.146 DBG] Credits :: Time to save 16.2103ms
+[2026-04-09 16:37:21.978 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0364ms
+[2026-04-09 16:37:22.069 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.6459ms)
+[2026-04-09 16:37:50.911 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 16:37:50.911 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 16:37:50.911 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 16:37:50.911 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, a76ddad2-7561-41f0-8c59-8c08a43406d9)
+[2026-04-09 16:37:57.618 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:37:57.636 DBG] Users :: Time to save 18.5746ms
+[2026-04-09 16:37:57.659 DBG] Actions :: Time to save 22.9451ms
+[2026-04-09 16:37:57.677 DBG] Commands :: Time to save 17.9157ms
+[2026-04-09 16:37:57.694 DBG] Twitch Rewards :: Time to save 16.3696ms
+[2026-04-09 16:37:57.708 DBG] Midi :: Time to save 13.651ms
+[2026-04-09 16:37:57.722 DBG] OBS Settings :: Time to save 14.5441ms
+[2026-04-09 16:37:57.736 DBG] MeldStudio Settings :: Time to save 13.6544ms
+[2026-04-09 16:37:57.750 DBG] Credits :: Time to save 14.3399ms
+[2026-04-09 16:37:57.765 DBG] Quotes :: Time to save 15.1151ms
+[2026-04-09 16:37:57.833 DBG] Config :: Time to save 13.7051ms
+[2026-04-09 16:38:21.982 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 16:38:22.076 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.4216ms)
+[2026-04-09 16:39:21.991 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.037ms
+[2026-04-09 16:39:22.083 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.266ms)
+[2026-04-09 16:40:22.000 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0368ms
+[2026-04-09 16:40:22.098 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.9215ms)
+[2026-04-09 16:41:22.012 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0353ms
+[2026-04-09 16:41:22.107 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.0832ms)
+[2026-04-09 16:42:05.157 DBG] Credits :: Time to save 11.5256ms
+[2026-04-09 16:42:22.020 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0475ms
+[2026-04-09 16:42:22.127 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (106.7658ms)
+[2026-04-09 16:42:57.866 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:42:57.877 DBG] Users :: Time to save 11.6998ms
+[2026-04-09 16:42:57.901 DBG] Actions :: Time to save 23.7351ms
+[2026-04-09 16:42:57.912 DBG] Commands :: Time to save 11.3194ms
+[2026-04-09 16:42:57.928 DBG] Twitch Rewards :: Time to save 15.4405ms
+[2026-04-09 16:42:57.942 DBG] Midi :: Time to save 14.2886ms
+[2026-04-09 16:42:57.957 DBG] OBS Settings :: Time to save 14.003ms
+[2026-04-09 16:42:57.970 DBG] MeldStudio Settings :: Time to save 14.2595ms
+[2026-04-09 16:42:57.986 DBG] Credits :: Time to save 14.7884ms
+[2026-04-09 16:42:58.000 DBG] Quotes :: Time to save 15.3064ms
+[2026-04-09 16:42:58.087 DBG] Config :: Time to save 18.7595ms
+[2026-04-09 16:43:22.027 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0363ms
+[2026-04-09 16:43:22.123 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.3726ms)
+[2026-04-09 16:44:22.040 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 16:44:22.132 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.0049ms)
+[2026-04-09 16:45:22.050 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 16:45:22.142 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (92.5082ms)
+[2026-04-09 16:46:22.063 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.044ms
+[2026-04-09 16:46:22.161 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.1314ms)
+[2026-04-09 16:47:05.168 DBG] Credits :: Time to save 11.0468ms
+[2026-04-09 16:47:22.069 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0387ms
+[2026-04-09 16:47:22.163 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.2083ms)
+[2026-04-09 16:47:51.550 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 16:47:51.550 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 16:47:51.550 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 16:47:51.550 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, f43b6d9f-10d4-4a0f-91f9-39a8f25a7879)
+[2026-04-09 16:47:58.076 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:47:58.096 DBG] Users :: Time to save 19.9877ms
+[2026-04-09 16:47:58.118 DBG] Actions :: Time to save 23.2327ms
+[2026-04-09 16:47:58.137 DBG] Commands :: Time to save 17.6502ms
+[2026-04-09 16:47:58.153 DBG] Twitch Rewards :: Time to save 17.1592ms
+[2026-04-09 16:47:58.168 DBG] Midi :: Time to save 14.1569ms
+[2026-04-09 16:47:58.181 DBG] OBS Settings :: Time to save 13.5996ms
+[2026-04-09 16:47:58.196 DBG] MeldStudio Settings :: Time to save 14.0756ms
+[2026-04-09 16:47:58.208 DBG] Credits :: Time to save 12.8203ms
+[2026-04-09 16:47:58.221 DBG] Quotes :: Time to save 12.958ms
+[2026-04-09 16:47:58.296 DBG] Config :: Time to save 18.1492ms
+[2026-04-09 16:48:22.070 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.036ms
+[2026-04-09 16:48:22.606 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (536.2824ms)
+[2026-04-09 16:49:22.093 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0459ms
+[2026-04-09 16:49:22.187 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.5552ms)
+[2026-04-09 16:50:22.102 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0365ms
+[2026-04-09 16:50:22.198 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (96.1196ms)
+[2026-04-09 16:51:22.117 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0416ms
+[2026-04-09 16:51:22.215 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.3892ms)
+[2026-04-09 16:52:05.177 DBG] Credits :: Time to save 16.4114ms
+[2026-04-09 16:52:22.118 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0394ms
+[2026-04-09 16:52:22.213 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (95.8041ms)
+[2026-04-09 16:52:58.326 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:52:58.346 DBG] Users :: Time to save 19.5983ms
+[2026-04-09 16:52:58.369 DBG] Actions :: Time to save 23.6753ms
+[2026-04-09 16:52:58.385 DBG] Commands :: Time to save 16.1597ms
+[2026-04-09 16:52:58.402 DBG] Twitch Rewards :: Time to save 16.7671ms
+[2026-04-09 16:52:58.415 DBG] Midi :: Time to save 13.2925ms
+[2026-04-09 16:52:58.430 DBG] OBS Settings :: Time to save 14.9263ms
+[2026-04-09 16:52:58.444 DBG] MeldStudio Settings :: Time to save 14.1151ms
+[2026-04-09 16:52:58.458 DBG] Credits :: Time to save 13.38ms
+[2026-04-09 16:52:58.474 DBG] Quotes :: Time to save 15.4957ms
+[2026-04-09 16:52:58.543 DBG] Config :: Time to save 15.8488ms
+[2026-04-09 16:53:22.132 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0367ms
+[2026-04-09 16:53:22.221 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (89.7566ms)
+[2026-04-09 16:54:22.141 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.051ms
+[2026-04-09 16:54:22.239 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.4176ms)
+[2026-04-09 16:55:22.145 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0373ms
+[2026-04-09 16:55:22.242 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (97.8945ms)
+[2026-04-09 16:56:22.158 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0374ms
+[2026-04-09 16:56:22.252 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (94.8533ms)
+[2026-04-09 16:57:05.189 DBG] Credits :: Time to save 15.0449ms
+[2026-04-09 16:57:22.166 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0371ms
+[2026-04-09 16:57:22.257 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.5613ms)
+[2026-04-09 16:57:52.075 DBG] ActionDispatcher :: Queueing 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, TimedAction) to 'Default' (00000000-0000-0000-0000-000000000000), with 11 arguments
+[2026-04-09 16:57:52.075 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Enqueue action 361aa588-5f31-4e19-b8a5-099cae52479d
+[2026-04-09 16:57:52.075 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Handling queue
+[2026-04-09 16:57:52.075 DBG] ActionQueue :: 'Default' (00000000-0000-0000-0000-000000000000) :: Performing non-blocking 'Sub Goal' (361aa588-5f31-4e19-b8a5-099cae52479d, 3511db7d-ebb0-4820-99fa-31921978e0a5)
+[2026-04-09 16:57:58.578 DBG] AutoSave :: Auto saving settings...
+[2026-04-09 16:57:58.595 DBG] Users :: Time to save 16.8782ms
+[2026-04-09 16:57:58.617 DBG] Actions :: Time to save 21.1518ms
+[2026-04-09 16:57:58.633 DBG] Commands :: Time to save 17.1304ms
+[2026-04-09 16:57:58.650 DBG] Twitch Rewards :: Time to save 17.1175ms
+[2026-04-09 16:57:58.665 DBG] Midi :: Time to save 14.1626ms
+[2026-04-09 16:57:58.679 DBG] OBS Settings :: Time to save 14.2925ms
+[2026-04-09 16:57:58.692 DBG] MeldStudio Settings :: Time to save 13.9936ms
+[2026-04-09 16:57:58.703 DBG] Credits :: Time to save 10.7177ms
+[2026-04-09 16:57:58.718 DBG] Quotes :: Time to save 13.8928ms
+[2026-04-09 16:57:58.813 DBG] Config :: Time to save 17.6061ms
+[2026-04-09 16:58:22.168 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0358ms
+[2026-04-09 16:58:22.259 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (91.0127ms)
+[2026-04-09 16:59:22.176 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0382ms
+[2026-04-09 16:59:22.273 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (98.0112ms)
+[2026-04-09 17:00:22.191 DBG] ViewerRepo :: UpdatePresence(twitch, 5), 0.0361ms
+[2026-04-09 17:00:22.281 DBG] TwitchService :: Presence Timer :: Artificially updated presence with a threshold of 5 minutes (90.7699ms)
+[2026-04-09 17:01:03.003 DBG] Users :: Time to save 12.3974ms
+[2026-04-09 17:01:03.023 DBG] Actions :: Time to save 18.5219ms
+[2026-04-09 17:01:03.036 DBG] Commands :: Time to save 12.6092ms
+[2026-04-09 17:01:03.048 DBG] Twitch Rewards :: Time to save 13.1379ms
+[2026-04-09 17:01:03.059 DBG] Midi :: Time to save 10.3875ms
+[2026-04-09 17:01:03.068 DBG] OBS Settings :: Time to save 9.6535ms
+[2026-04-09 17:01:03.078 DBG] MeldStudio Settings :: Time to save 10.2003ms
+[2026-04-09 17:01:03.088 DBG] Credits :: Time to save 9.6805ms
+[2026-04-09 17:01:03.100 DBG] Quotes :: Time to save 12.0524ms
+[2026-04-09 17:01:03.113 INF] Shutting down...
+[2026-04-09 17:01:03.218 INF] Closing services...
+[2026-04-09 17:01:03.218 DBG] UsbRemovalWatcher :: Disposed
+[2026-04-09 17:01:03.220 DBG] ProcessWatcher :: Disposed
+[2026-04-09 17:01:03.222 DBG] ProcessWatcher :: Disposed
+[2026-04-09 17:01:03.228 DBG] Config :: Time to save 27.3991ms
+[2026-04-09 17:01:03.230 DBG] Events Service :: Shutting down event queue thread
+[2026-04-09 17:01:03.230 DBG] Events Service :: Shutting down application event queue thread
+[2026-04-09 17:01:03.230 DBG] Events Service :: Shutting down raw event queue thread
+[2026-04-09 17:01:03.236 DBG] Http Listener :: Channel is not active
+[2026-04-09 17:01:03.237 DBG] MIDI Service :: Stopping service
+[2026-04-09 17:01:03.237 DBG] Websocket Server :: Stopping server
+[2026-04-09 17:01:03.238 DBG] DonorDrive :: Stopping service
+[2026-04-09 17:01:03.248 DBG] FileTailDaemon :: Waiting for file tails to shut down
+[2026-04-09 17:01:03.249 DBG] MIDI Service :: Shutting down event thread
+[2026-04-09 17:01:03.249 DBG] Websocket Server :: Shutting down command queue thread
+[2026-04-09 17:01:03.249 DBG] Websocket Server :: Shutting down queue thread
+[2026-04-09 17:01:03.256 DBG] OBS Service :: Stopping service
+[2026-04-09 17:01:03.261 DBG] FileWatcherDaemon :: Waiting for file watchers to shut down
+[2026-04-09 17:01:03.262 DBG] ActionDispatcher :: Shutting down action queues
+[2026-04-09 17:01:03.276 DBG] ActionQueue :: Shutting down queue 00000000-0000-0000-0000-000000000000 thread
+[2026-04-09 17:01:03.276 DBG] ActionQueue :: Shutting down queue b010a7bd-2056-4238-9302-fad378219231 thread
+[2026-04-09 17:01:03.276 DBG] ActionQueue :: Shutting down queue 8c6ed466-566c-4b26-93c9-9338de27fff4 thread
+[2026-04-09 17:01:03.276 DBG] ActionQueue :: Shutting down queue e0693c07-e52a-4914-a5b9-5a5a01e74b15 thread
+[2026-04-09 17:01:03.276 DBG] ActionQueue :: Shutting down queue 1955c224-a7c9-41c0-9077-40868553d18a thread
+[2026-04-09 17:01:03.276 DBG] ActionQueue :: Shutting down queue f5b88e4c-33be-41a6-a453-02af0b6c4fc3 thread
+[2026-04-09 17:01:03.278 INF] InlineCode :: Cleaning up '0' execute code instances
+[2026-04-09 17:01:03.286 DBG] SLOBS Service :: Stopping service
+[2026-04-09 17:01:03.303 DBG] OBS :: Disconnecting from OBS (127.0.0.1:4455)
+[2026-04-09 17:01:03.306 DBG] SpeechToText :: Disposing recognition engine
+[2026-04-09 17:01:03.313 DBG] SpeechToText :: Shutting down queue thread
+[2026-04-09 17:01:03.315 DBG] OBS-Websocket5 :: Disconnected
+[2026-04-09 17:01:03.324 DBG] OBS :: Disconnected from OBS (127.0.0.1:4455)
+[2026-04-09 17:01:03.324 DBG] OBS Service :: Shutting down event thread
+[2026-04-09 17:01:03.324 DBG] Websocket Server :: Connection Closed :: 4a65373f7eb244398b1c0dc025ee266b
+[2026-04-09 17:01:03.333 DBG] Websocket Client :: Disconnecting from all connected clients
+[2026-04-09 17:01:03.335 DBG] Websocket Custom Server :: Stopping all servers
+[2026-04-09 17:01:03.338 DBG] Twitch (Broadcaster) :: Disconnected
+[2026-04-09 17:01:03.338 DBG] InlineCode :: Cleaned up execute code instances
+[2026-04-09 17:01:03.340 DBG] Websocket Server (Godot Websocket) :: Stopping server
+[2026-04-09 17:01:03.340 DBG] Websocket Server (Godot Websocket) :: Shutting down message queue thread
+[2026-04-09 17:01:03.347 INF] TwitchService :: Disconnected from Broadcaster Chat Client
+[2026-04-09 17:01:03.367 DBG] MeldStudio Service :: Stopping service
+[2026-04-09 17:01:03.371 DBG] MeldStudio Service :: Shutting down event thread
+[2026-04-09 17:01:03.378 DBG] Streamer.bot Website Socket :: Disconnected
+[2026-04-09 17:01:03.378 INF] Streamer.bot Service :: Disconnected from Website Client
+[2026-04-09 17:01:03.461 DBG] StreamElements Socket :: Disconnected
+[2026-04-09 17:01:03.461 INF] StreamElements Service :: Disconnected from Client
+[2026-04-09 17:01:03.663 DBG] Twitch EventSub (Broadcaster) :: Disconnected
+[2026-04-09 17:01:03.663 INF] TwitchService :: Disconnected from Broadcaster EventSub
+[2026-04-09 17:01:03.761 INF] BTTV :: WebSocket Disconnected
+[2026-04-09 17:01:04.103 DBG] Twitch EventSub (Bot) :: Disconnected
+[2026-04-09 17:01:04.103 INF] TwitchService :: Disconnected from Bot EventSub
+[2026-04-09 17:01:04.178 DBG] MeldStudio Settings :: Time to save 17.4755ms
+[2026-04-09 17:01:04.178 DBG] Midi :: Time to save 17.8498ms
+[2026-04-09 17:01:04.178 DBG] OBS Settings :: Time to save 18.3227ms
+[2026-04-09 17:01:04.179 DBG] Twitch Rewards :: Time to save 19.0209ms
+[2026-04-09 17:01:04.181 DBG] Users :: Time to save 20.2266ms
+[2026-04-09 17:01:04.181 DBG] Quotes :: Time to save 20.8285ms
+[2026-04-09 17:01:04.182 DBG] Config :: Time to save 20.1886ms
+[2026-04-09 17:01:04.185 DBG] Commands :: Time to save 24.0464ms
+[2026-04-09 17:01:04.190 DBG] Credits :: Time to save 29.3792ms
+[2026-04-09 17:01:04.202 DBG] Actions :: Time to save 42.7058ms
+[2026-04-09 17:01:04.204 INF] Streamer.bot exited

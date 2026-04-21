@@ -1,1 +1,1 @@
-﻿{"version":1,"t":"2026-04-09T09:47:38.8968108-05:00","connections":[{"id":"093d2bc7-4948-4f0e-b210-6554b99c04e2","name":"OBS","obsVersion":1,"host":"127.0.0.1","port":4455,"autoConnect":true,"reconnectOnDisconnect":true,"password":"1bzPBd4tolqFSxEJ","retryInterval":30,"default":true}]}
+﻿{"version":1,"t":"2026-04-21T12:32:53.6216915-05:00","connections":[{"id":"093d2bc7-4948-4f0e-b210-6554b99c04e2","name":"OBS","obsVersion":1,"host":"127.0.0.1","port":4455,"autoConnect":true,"reconnectOnDisconnect":true,"password":"1bzPBd4tolqFSxEJ","retryInterval":30,"default":true}]}
